@@ -232,8 +232,14 @@ Kleck has literally under oath [admitted ](https://bit.ly/3xKRMkC)that he failed
 
 > We made no effort to assess the lawfulness or morality of the R's defensive actions
 
-Kleck has then gone on record to say that say that [**36 to 64 percent reported in his study were likely illegal**](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6938&context=jclc#page=6).  
-This was confirmed when Hemenway found that ****[**51 percent of defensive gun uses in a large survey were illegal according to a panel of 5 judges**](https://injuryprevention.bmj.com/content/injuryprev/6/4/263.full.pdf). 
+Kleck has then gone on record to say that say that [36 to 64 percent reported in his study were likely illegal](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6938&context=jclc#page=6).  
+This was confirmed when Hemenway found that ****[51 percent of defensive gun uses in a large survey were illegal according to a panel of 5 judges](https://injuryprevention.bmj.com/content/injuryprev/6/4/263.full.pdf)**.**
+
+In 1997, conservative criminologist James Q. Wilson [wrote in the New Republic that Lott’s estimates are not reliable and researchers should rely on government surveys](https://newrepublic.com/article/101311/hostility-in-america): 
+
+> Using the data compiled by the National Crime Victimization Survey \(NCVS\) of 56,000 families, scholars have estimated that there are, at a minimum, between 65,000 and 80,000 defensive gun uses per year.
+
+This is small in comparison to the 478,400 fatal and nonfatal violent gun crimes.
 
 [**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)**,** [**TLDR2**](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262)  
 
