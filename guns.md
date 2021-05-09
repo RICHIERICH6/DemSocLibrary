@@ -157,7 +157,7 @@ The UK still has a [lower homicide rate than most of Europe and the US](https://
 We could name a few countries that have low homicide **and** low gun ownership! Singapore, Japan, Slovenia, Norway, Australia/NZ, Taiwan, Poland, etc
 
 Compared with the US, Switzerland and Israel [have lower gun ownership and stricter gun  
-laws, and their policies discourage personal gun ownership.and doesn't have open or hidden carry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267868/pdf/nihms-337067.pdf).
+laws, and their policies discourage personal gun ownership.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267868/pdf/nihms-337067.pdf)
 
 ### Claim: "Gun control wont work because guns are trafficked!"
 
