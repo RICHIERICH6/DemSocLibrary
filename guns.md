@@ -96,12 +96,11 @@
 
 * Guns are the **most effective form of suicide**. \([Means Matter](https://www.hsph.harvard.edu/means-matter/means-matter/case-fatality/)\)
 * A meta-analysis of 14 studies finds that having a gun in the house was **associated with a 3.24x increase of suicide.** \([Annals of Internal Medicine](https://twin.sci-hub.st/6102/96af050e4585e3d43928416561f5403a/anglemyer2014.pdf#page=7)\)
-  * For each 10% decline in the percentage of households with firearms and children, the **rate of overall suicide dropped 4.1%**. \([Injury Prevention](https://moscow.sci-hub.se/4248/0fb6b716656ba47a06a75def76e538af/miller2006.pdf)\)
-    * The availability of guns in the home, independent of firearms type or method of storage, **appears to increase the risk for suicide among adolescents**. \([JAMA](https://moscow.sci-hub.st/4089/c982210bd2dddfaf08318790658908bb/brent1991.pdf)\)
+  * For each 10% decline in the percentage of households with firearms and children, the **rate of overall suicide dropped 4.1%**. \([Injury Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf)\)
+    * The availability of guns in the home, independent of firearms type or method of storage, **appears to increase the risk for suicide among adolescents**. \([JAMA](https://files.catbox.moe/jzl79h.pdf)\)
   * Guns in the home are are **associated with a 3.44x increase of homicide risk**. \([Injury Prevention](http://crowdsourcing-class.org/readings/downloads/gun-violence/homicide-and-suicide-risks-associated-with-firearms-in-the-home.pdf)\) 
   * The risk of dying from a suicide in the home was **10.4x greater for males in homes with guns than for males without guns in the home**. \([American Journal of Epidemiology](https://academic.oup.com/aje/article-pdf/160/10/929/327746/kwh309.pdf)\)
   * Among the 1,458,000 Californians who died in 2004-2016, males who newly purchased a handgun **were 3.3x more likely to die from suicide and 7.2x more for women**. \([The New England Journal of Medicine](https://sci-hub.st/downloads/2020-06-04/a3/10.1056@NEJMsa1916744.pdf)\)
-* Gun prevalence from 1981 to 2001 **significantly positively correlates with gun suicide and overall suicide**. \([Injury Prevention](https://moscow.sci-hub.se/4248/0fb6b716656ba47a06a75def76e538af/miller2006.pdf)\)
 * A 1% increase in gun prevalence **correlates with a 1.4% increase of overall suicide**. \([The Journal of Trauma](https://dacemirror.sci-hub.st/journal-article/857ef42cc7afb67985d4cb3ca6e893e7/miller2007.pdf#page=3)\)
 * Requiring a permit to purchase in Connecticut **decreased overall suicide by 11.9%**. \([Preventive Medicine](https://dacemirror.sci-hub.st/journal-article/59b914862ee2634f2bfa552d66d1d693/crifasi2015.pdf)\)
 * For each 10 percentage point increase in household gun ownership, **the youth suicide rate    increased by 26.9%**. \([American Journal of Preventive Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6380939/pdf/nihms-1518548.pdf)\)
