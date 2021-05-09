@@ -59,7 +59,7 @@
 
 ### Scope
 
-* Guns are **used 1.3 million times for violent crime**. \([U.S. Department of Justice](https://www.bjs.gov/content/pub/pdf/GUIC.PDF)\)
+* Guns are used **478,400 times in violent crime**. \([U.S. Department of Justice](https://www.bjs.gov/content/pub/pdf/GUIC.PDF)\)
 * There were **39,740 deaths from guns in the US** in 2018. \([UC Davis](https://health.ucdavis.edu/what-you-can-do/facts.html)\)
 * Guns are the **second leading cause of death for children** in the US. \([The New England Journal of Medicine  ](https://www.nejm.org/doi/pdf/10.1056/NEJMsr1804754#page=3)\)
 * There were **696 mass shootings in the US** in 2020. \([Mass Shooting Tracker](https://www.massshootingtracker.site/data/?year=2020)\)
