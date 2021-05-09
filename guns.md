@@ -117,7 +117,7 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
 
 ## Gun Defense \(or lackthere of\)
 
-* Guns are **not used millions of times each year in self-defense**. \([Journal of Policy Analysis and Management](https://moscow.sci-hub.se/11/567505f34908c8ab2debcbaa72b3ae1e/cook1997.pdf)\)
+* [Guns are not used millions of times in self-defense yearly](guns.md#claim-kleck-proved-that-gun-defense-happens-2-5-million-a-year).
 * Although firearms are often kept in the home for protection, they are **rarely used for this purpose**. \([JAMA](https://moscow.sci-hub.st/4047/4040f2368866acb8a7bd5952e6112300/kellermann1995.pdf)\)
 * In 2020 and 2019 combined, there were **only 1424 confirmed cases of gun self-defense**. \([Heritage Foundation](https://www.heritage.org/data-visualizations/firearms/defensive-gun-uses-in-the-us/)\)
   * In 2015, only about **7.3% of firearm homicides were justified**. \([FBI](https://rentry.co/icz6s/pdf)\)
