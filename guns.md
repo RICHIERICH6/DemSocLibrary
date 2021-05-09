@@ -211,15 +211,15 @@ Lott has also [misrepresented other academic work to further his cause](https://
 
 Kleck is one of the [most discredited gun researchers](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262) in academia.  Only 3% of gun researchers [agree that there are more than one million self-defense gun uses each year](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1264/2014/05/Expert-Survey18-Results.pdf).
 
-The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.pdf#page=282) and finds that
+The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.pdf#page=282) and finds:
 
 > He presents no sensitivity analyses of alternative adjustment procedures, and some of them are incompletely documented. Our calculations indicate that making alternative plausible assumptions would substantially decrease Kleck's estimates of annual self-defense uses.
 
-The US Department Justice also [reviewed it](https://www.ojp.gov/pdffiles/165476.pdf) and finds that
+The US Department Justice also [reviewed it](https://www.ojp.gov/pdffiles/165476.pdf) and finds:
 
 > Thus, it is of considerable interest and importance to check the reasonableness of the NSPOF estimates before embracing them. Because respondents were asked to describe only their most recent defensive gun use, our comparisons are conservative, as they assume only one defensive gun use per defender. The results still suggest that DGU estimates are far too high
 
-Injury Prevention [reviewed it](https://injuryprevention.bmj.com/content/injuryprev/10/2/96.full.pdf) and says
+Injury Prevention [reviewed it](https://injuryprevention.bmj.com/content/injuryprev/10/2/96.full.pdf) and finds:
 
 > These findings cast doubt on rates of DGUs reported in an influential study by Kleck and  
 > Gertz
