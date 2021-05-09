@@ -185,7 +185,7 @@ Now to critique the book, we can look at the US National Research Council, which
 
 > The committee found that answers to some of the most pressing questions cannot be addressed with existing data and research methods, however well designed. Indeed, the committee was unable to find any of the laws that it examined had any effect on crime or suicide rates. In the case of right-to-carry laws, despite a large body of research, the committee found no credible evidence that the passage of right-to-carry laws decreases or increases violent crime, and there is almost no empirical evidence that the more than 80 prevention programs focused on gun-related violence have had any effect on children's behavior, knowledge, attitudes, or beliefs about firearms. The committee found that the data available on these questions are too weak to support unambiguous conclusions or strong policy statements.
 
-Tim Lambert[ reviewed it](https://web.archive.org/web/20030407213517/http://www.cse.unsw.edu.au/~lambert/guns/lott/lott.pdf) and finds:
+Tim Lambert[ reviewed it](https://files.catbox.moe/2czcw8.pdf) and finds:
 
 > Even if we decide that there were more guns and less crime it is wrong to conclude that “more guns caused less crime”. The mechanism for causation proposed by Lott is not consistent with the empirical evidence on how often criminals encounter armed permit holders. The observed changes in crime rates are consistent with past changes in crime rates caused by factors other than concealed weapons and are inconsistent with the changes we would expect concealed carry to cause.
 
