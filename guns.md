@@ -209,7 +209,7 @@ Lott has also [misrepresented other academic work to further his cause](https://
 
 ### Claim: "Kleck proved that gun defense happens 2.5 million a year"
 
-Kleck is one of the [most discredited gun researchers](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262) in academia.  Only 3% of gun researchers [agree that there are more than one million self-defense gun uses each year](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1264/2014/05/Expert-Survey18-Results.pdf).
+Kleck is one of the most discredited gun researchers in academia.  Only 3% of gun researchers [agree that there are more than one million self-defense gun uses each year](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1264/2014/05/Expert-Survey18-Results.pdf).
 
 The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.pdf#page=282) and finds:
 
