@@ -235,8 +235,6 @@ Kleck has literally under oath [admitted ](https://bit.ly/3xKRMkC)that he failed
 Kleck has then gone on record to say that say that [**36 to 64 percent reported in his study were likely illegal**](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6938&context=jclc#page=6).  
 This was confirmed when Hemenway found that ****[**51 percent of defensive gun uses in a large survey were illegal according to a panel of 5 judges**](https://injuryprevention.bmj.com/content/injuryprev/6/4/263.full.pdf). 
 
-Kleck's research also faces more scrutiny when we compare it to [more recent studies](guns.md#gun-defense-or-lackthere-of).
-
 [**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)**,** [**TLDR2**](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262)  
 
 
