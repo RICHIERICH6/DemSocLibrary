@@ -203,6 +203,8 @@ Stanford Law Review [reviewed it](https://digitalcommons.law.yale.edu/cgi/viewco
 
 A response was made to the Stanford Law Review report but this has been replied to already and has been debunked and[ summarised here](https://www.gvpedia.org/gun-myths/plassmann-and-whitley/).
 
+A [2008 article](https://files.catbox.moe/nldyqn.pdf) in Econ Journal Watch surveyed peer-reviewed empirical academic studies, and found that 10 supported the proposition that right-to-carry reduces crime, 8 supported no significant effect and none supported an increase. The article was [reviewed and debunked](https://econjwatch.org/File+download/236/2009-01-ayresdonohue-com.pdf?mimetype=pdf) by Ian Ayres and John J. Donohue in the same journal in 2009.
+
 Lott has also [misrepresented other academic work to further his cause](https://www.gvpedia.org/gun-myths/more-guns-mean-less-crime/).
 
 ### Claim: "Kleck proved that gun defense happens 2.5 million a year"
