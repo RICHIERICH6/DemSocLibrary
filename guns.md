@@ -8,9 +8,9 @@
 
 ## Freedom
 
-* Guns do **not protect freedom or prevent tyranny**. \([ThinkProgress](https://thinkprogress.org/civilian-guns-do-not-prevent-tyranny-f831c6aa871c/)\)
+* Guns do **not protect freedom or prevent tyranny**. \([ThinkProgress](https://archive.is/iKZGK#selection-1211.21-1211.91)\)
 * Peaceful revolutions are **much more successful than violent ones**. \([Datawrapper](https://blog.datawrapper.de/are-peaceful-protests-more-successful-than-violent-ones/)\)
-  * Revolutions **are more common in states with less guns**. \([The Atlantic](https://web.archive.org/web/20130701073817/https://www.theatlantic.com/international/archive/2013/04/owning-guns-doesnt-preserve-freedom/275287/)\)
+  * Revolutions **are more common in states with less guns**. \([The Atlantic](https://archive.is/og1Oz#selection-755.239-762.1)\)
 * [Nazi gun control argument is bunk](guns.md#claim-if-the-jews-had-guns-during-the-holocaust-the-nazis-wouldve-lost).
 
 ## Gun Control
