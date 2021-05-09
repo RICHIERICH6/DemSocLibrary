@@ -25,7 +25,7 @@
 
 * Drug decriminalization in Portugal **lead to a reduction in overdoses, HIV, drug incarcerations**. \([Statista](https://www.statista.com/chart/20616/key-developments-since-portugal-decriminalized-drugs/)\)
 * Legalizing weed **reduces violent crime and homicide**. \([The Economic Journal](https://openaccess.nhh.no/nhh-xmlui/bitstream/handle/11250/274521/0515.pdf?sequence=1)\)
-* Legalizign weed **reduces opoid death and abuse**. \([JAMA](http://cdn3.vox-cdn.com/uploads/chorus_asset/file/671056/Medical_Cannabis_JAMA_Proof.0.pdf#page=4)\) \([American Journal of Public Health](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2016.303426#page=4)\)
+* Legalizing weed **reduces opoid death and abuse**. \([JAMA](http://cdn3.vox-cdn.com/uploads/chorus_asset/file/671056/Medical_Cannabis_JAMA_Proof.0.pdf#page=4)\) \([American Journal of Public Health](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2016.303426#page=4)\)
 
 
 
