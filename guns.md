@@ -215,6 +215,10 @@ The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.p
 
 > He presents no sensitivity analyses of alternative adjustment procedures, and some of them are incompletely documented. Our calculations indicate that making alternative plausible assumptions would substantially decrease Kleck's estimates of annual self-defense uses.
 
+The Journal of Criminal Law & Criminology[ reviewed it](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6936&context=jclc) and finds:
+
+> The conclusion seems inescapable: the Kleck and Gertz survey results do not provide reasonable estimates about the total amount of self-defense gun use in the United States.
+
 The US Department Justice also [reviewed it](https://www.ojp.gov/pdffiles/165476.pdf) and finds:
 
 > Thus, it is of considerable interest and importance to check the reasonableness of the NSPOF estimates before embracing them. Because respondents were asked to describe only their most recent defensive gun use, our comparisons are conservative, as they assume only one defensive gun use per defender. The results still suggest that DGU estimates are far too high
@@ -233,7 +237,7 @@ This was confirmed when Hemenway found that ****[**51 percent of defensive gun u
 
 Kleck's research also faces more scrutiny when we compare it to [more recent studies](guns.md#gun-defense-or-lackthere-of).
 
-[**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)  
+[**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)**,** [**TLDR2**](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262)  
 
 
 >
