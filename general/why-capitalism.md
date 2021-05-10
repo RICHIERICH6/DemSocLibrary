@@ -39,7 +39,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * Most sweatshop jobs provide **an above average standard of living for their workers**. \([Independent Institute](https://www.independent.org/pdf/working_papers/53_sweatshop.pdf)\)
 * Foreign ownership **raises wages both by raising labor productivity and by expanding the scale of production and, in the process, improves the conditions of work**. \([NBER](https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45)\)
-* Sweatshops, while not ideal, are **still favourable to other alternatives**. \([American Journal of Economics and Sociology](https://moscow.sci-hub.se/1458/ac3fcb47cf1df111c084891e4a111a61/skarbek2012.pdf)\)
+* Sweatshops, while not ideal, are **still favourable to other alternatives**. \([American Journal of Economics and Sociology](https://0x0.la/u/F6CEuq4.pdf)\)
 * That along various margins of household expenditure, consumption, calorie intake and asset holdings, households **are worse off after the child labor ban**. \([NBER](https://www.nber.org/system/files/working_papers/w19602/w19602.pdf)\)
 * The demand for education generated through manufacturing growth **appears to have a much larger effect on female educational attainment compared to a large-scale government conditional cash transfer program to encourage female schooling**. \([NBER](https://www.nber.org/system/files/working_papers/w20383/w20383.pdf)\)
 
