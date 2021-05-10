@@ -16,7 +16,7 @@
   * In societies where opportunities are unequally distributed, income inequality **exerts a greater drag on growth**. \([VoxEU](https://voxeu.org/article/inequality-opportunity-income-inequality-and-economic-growth)\)
   *  The effect of rising inequality on GDP per capita is **negative in relatively rich countries**. \([RePEc](https://mpra.ub.uni-muenchen.de/51644/1/MPRA_paper_51644.pdf)\)
   * Inequality is **negatively, and robustly, correlated with growth**. \([World Bank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.454.5573&rep=rep1&type=pdf#page=2)\)
-  * High inequality **lowers growth**, perhaps **because it increases social and political instability**. \([Journal of Economic Literature](https://moscow.sci-hub.st/1138/8996b3ca8f67052f00a1d6ac5a131dac/temple1999.pdf#page=35)\)
+  * High inequality **lowers growth**, perhaps **because it increases social and political instability**. \([Journal of Economic Literature](http://www2.econ.iastate.edu/tesfatsi/NewGrowthEvidence.JEL1999.JTemple.pdf)\)
 * Income increases for the **bottom 60% are associated with increased GDP**, while **increases for the top 20% are associated with decreased GDP**. \([IMF](https://www.infosperber.ch/wp-content/uploads/2016/12/IMF-Income-Inequality.pdf#page=7)\)
 
 
