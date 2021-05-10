@@ -19,6 +19,7 @@
 * [Open Borders](general/open-borders.md)
 * [Carbon Dividend](general/untitled-7.md)
 * [Land Value Tax](general/land-value-tax.md)
+* [Patents](general/patents.md)
 
 ## Civics
 

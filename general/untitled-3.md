@@ -20,7 +20,7 @@
 ## Poverty Reduction
 
 * Increasing the federal minimum wage from the current $7.25 an hour to $12 an hour **would lift 6 million Americans out of poverty**. \([American Economic Association](https://pubs.aeaweb.org/doi/pdfplus/10.1257/app.20170085#page=33)\)
-  * Raising the minimum wage **reduces poverty in most developing countries**. \([World of Labor](https://wol.iza.org/uploads/articles/459/pdfs/does-increasing-the-minimum-wage-reduce-poverty-in-developing-countries.pdf?v=1)\)
+  * Raising the minimum wage **reduces poverty in most developing countries**. \([IZA](https://wol.iza.org/uploads/articles/459/pdfs/does-increasing-the-minimum-wage-reduce-poverty-in-developing-countries.pdf?v=1)\)
     * Increases in the minimum wage **cause poverty and income inequality to decline in Brazil**. \([World Development](https://sci-hub.st/downloads/2020-10-04/86/10.1016@j.worlddev.2020.105182.pdf)\)
   * Raising the minimum wage to $15 per hour would **reduce poverty rates among female health care workers by 27.1%**. \([American Journal of Public Health](https://ajph.aphapublications.org/doi/pdfplus/10.2105/AJPH.2018.304801)\)
   * There is indication of a **poverty-reducing effect of minimum wages among teenagers and older junior high school dropouts**. \([ILR Review](https://www.econstor.eu/bitstream/10419/24285/1/dp4298.pdf)\)

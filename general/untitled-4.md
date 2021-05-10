@@ -14,7 +14,7 @@
 
 ## Efficiency
 
-* A literature review of 49 studies finds that Universal healthcare is **the most powerful concept that public health has to offer, whether it be single or multi payer,** both are **more equitable with no difference in quality.** \([Public Health](https://twin.sci-hub.se/7098/8bc1fc97c951dc7c4b9fe67b970e5eb2/petrou2018.pdf)\)
+* A literature review of 49 studies finds that Universal healthcare is **the most powerful concept that public health has to offer, whether it be single or multi payer,** both are **more equitable with no difference in quality.** \([Public Health](https://www.med.unic.ac.cy/wp-content/uploads/samoutis-paper.pdf)\)
 * Public sector healthcare **tends to be of higher quality than private sector**. \([Plos](https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1001244&type=printable)\) 
   * A literature review of 69 studies finds that **VA hospitals do better on safety and effectiveness than private hospitals**. \([Journal of General Internal Medicine](https://link.springer.com/content/pdf/10.1007/s11606-016-3775-2.pdf)\)
   * Americans **with state healthcare are more satisfied with their experience than private plans**. \([GALLUP](https://news.gallup.com/poll/186527/americans-government-health-plans-satisfied.aspx)\)

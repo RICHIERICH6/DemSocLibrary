@@ -8,9 +8,9 @@
 
 ## Freedom
 
-* Guns do **not protect freedom or prevent tyranny**. \([ThinkProgress](https://thinkprogress.org/civilian-guns-do-not-prevent-tyranny-f831c6aa871c/)\)
+* Guns do **not protect freedom or prevent tyranny**. \([ThinkProgress](https://archive.is/iKZGK#selection-1211.21-1211.91)\)
 * Peaceful revolutions are **much more successful than violent ones**. \([Datawrapper](https://blog.datawrapper.de/are-peaceful-protests-more-successful-than-violent-ones/)\)
-  * Revolutions **are more common in states with less guns**. \([The Atlantic](https://web.archive.org/web/20130701073817/https://www.theatlantic.com/international/archive/2013/04/owning-guns-doesnt-preserve-freedom/275287/)\)
+  * Revolutions **are more common in states with less guns**. \([The Atlantic](https://archive.is/og1Oz#selection-755.239-762.1)\)
 * [Nazi gun control argument is bunk](guns.md#claim-if-the-jews-had-guns-during-the-holocaust-the-nazis-wouldve-lost).
 
 ## Gun Control
@@ -59,7 +59,7 @@
 
 ### Scope
 
-* Guns are **used 1.3 million times for violent crime**. \([U.S. Department of Justice](https://www.bjs.gov/content/pub/pdf/GUIC.PDF)\)
+* Guns are used **478,400 times in violent crime**. \([U.S. Department of Justice](https://www.bjs.gov/content/pub/pdf/fv9311.pdf)\)
 * There were **39,740 deaths from guns in the US** in 2018. \([UC Davis](https://health.ucdavis.edu/what-you-can-do/facts.html)\)
 * Guns are the **second leading cause of death for children** in the US. \([The New England Journal of Medicine  ](https://www.nejm.org/doi/pdf/10.1056/NEJMsr1804754#page=3)\)
 * There were **696 mass shootings in the US** in 2020. \([Mass Shooting Tracker](https://www.massshootingtracker.site/data/?year=2020)\)
@@ -96,12 +96,11 @@
 
 * Guns are the **most effective form of suicide**. \([Means Matter](https://www.hsph.harvard.edu/means-matter/means-matter/case-fatality/)\)
 * A meta-analysis of 14 studies finds that having a gun in the house was **associated with a 3.24x increase of suicide.** \([Annals of Internal Medicine](https://twin.sci-hub.st/6102/96af050e4585e3d43928416561f5403a/anglemyer2014.pdf#page=7)\)
-  * For each 10% decline in the percentage of households with firearms and children, the **rate of overall suicide dropped 4.1%**. \([Injury Prevention](https://moscow.sci-hub.se/4248/0fb6b716656ba47a06a75def76e538af/miller2006.pdf)\)
-    * The availability of guns in the home, independent of firearms type or method of storage, **appears to increase the risk for suicide among adolescents**. \([JAMA](https://moscow.sci-hub.st/4089/c982210bd2dddfaf08318790658908bb/brent1991.pdf)\)
+  * For each 10% decline in the percentage of households with firearms and children, the **rate of overall suicide dropped 4.1%**. \([Injury Prevention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2563517/pdf/178.pdf)\)
+    * The availability of guns in the home, independent of firearms type or method of storage, **appears to increase the risk for suicide among adolescents**. \([JAMA](https://files.catbox.moe/jzl79h.pdf)\)
   * Guns in the home are are **associated with a 3.44x increase of homicide risk**. \([Injury Prevention](http://crowdsourcing-class.org/readings/downloads/gun-violence/homicide-and-suicide-risks-associated-with-firearms-in-the-home.pdf)\) 
   * The risk of dying from a suicide in the home was **10.4x greater for males in homes with guns than for males without guns in the home**. \([American Journal of Epidemiology](https://academic.oup.com/aje/article-pdf/160/10/929/327746/kwh309.pdf)\)
   * Among the 1,458,000 Californians who died in 2004-2016, males who newly purchased a handgun **were 3.3x more likely to die from suicide and 7.2x more for women**. \([The New England Journal of Medicine](https://sci-hub.st/downloads/2020-06-04/a3/10.1056@NEJMsa1916744.pdf)\)
-* Gun prevalence from 1981 to 2001 **significantly positively correlates with gun suicide and overall suicide**. \([Injury Prevention](https://moscow.sci-hub.se/4248/0fb6b716656ba47a06a75def76e538af/miller2006.pdf)\)
 * A 1% increase in gun prevalence **correlates with a 1.4% increase of overall suicide**. \([The Journal of Trauma](https://dacemirror.sci-hub.st/journal-article/857ef42cc7afb67985d4cb3ca6e893e7/miller2007.pdf#page=3)\)
 * Requiring a permit to purchase in Connecticut **decreased overall suicide by 11.9%**. \([Preventive Medicine](https://dacemirror.sci-hub.st/journal-article/59b914862ee2634f2bfa552d66d1d693/crifasi2015.pdf)\)
 * For each 10 percentage point increase in household gun ownership, **the youth suicide rate    increased by 26.9%**. \([American Journal of Preventive Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6380939/pdf/nihms-1518548.pdf)\)
@@ -117,7 +116,7 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
 
 ## Gun Defense \(or lackthere of\)
 
-* Guns are **not used millions of times each year in self-defense**. \([Journal of Policy Analysis and Management](https://moscow.sci-hub.se/11/567505f34908c8ab2debcbaa72b3ae1e/cook1997.pdf)\)
+* [Guns are not used millions of times in self-defense yearly](guns.md#claim-kleck-proved-that-gun-defense-happens-2-5-million-a-year).
 * Although firearms are often kept in the home for protection, they are **rarely used for this purpose**. \([JAMA](https://moscow.sci-hub.st/4047/4040f2368866acb8a7bd5952e6112300/kellermann1995.pdf)\)
 * In 2020 and 2019 combined, there were **only 1424 confirmed cases of gun self-defense**. \([Heritage Foundation](https://www.heritage.org/data-visualizations/firearms/defensive-gun-uses-in-the-us/)\)
   * In 2015, only about **7.3% of firearm homicides were justified**. \([FBI](https://rentry.co/icz6s/pdf)\)
@@ -157,7 +156,7 @@ The UK still has a [lower homicide rate than most of Europe and the US](https://
 We could name a few countries that have low homicide **and** low gun ownership! Singapore, Japan, Slovenia, Norway, Australia/NZ, Taiwan, Poland, etc
 
 Compared with the US, Switzerland and Israel [have lower gun ownership and stricter gun  
-laws, and their policies discourage personal gun ownership.and doesn't have open or hidden carry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267868/pdf/nihms-337067.pdf).
+laws, and their policies discourage personal gun ownership.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3267868/pdf/nihms-337067.pdf)
 
 ### Claim: "Gun control wont work because guns are trafficked!"
 
@@ -185,7 +184,7 @@ Now to critique the book, we can look at the US National Research Council, which
 
 > The committee found that answers to some of the most pressing questions cannot be addressed with existing data and research methods, however well designed. Indeed, the committee was unable to find any of the laws that it examined had any effect on crime or suicide rates. In the case of right-to-carry laws, despite a large body of research, the committee found no credible evidence that the passage of right-to-carry laws decreases or increases violent crime, and there is almost no empirical evidence that the more than 80 prevention programs focused on gun-related violence have had any effect on children's behavior, knowledge, attitudes, or beliefs about firearms. The committee found that the data available on these questions are too weak to support unambiguous conclusions or strong policy statements.
 
-Tim Lambert[ reviewed it](https://web.archive.org/web/20030407213517/http://www.cse.unsw.edu.au/~lambert/guns/lott/lott.pdf) and finds:
+Tim Lambert[ reviewed it](https://files.catbox.moe/2czcw8.pdf) and finds:
 
 > Even if we decide that there were more guns and less crime it is wrong to conclude that “more guns caused less crime”. The mechanism for causation proposed by Lott is not consistent with the empirical evidence on how often criminals encounter armed permit holders. The observed changes in crime rates are consistent with past changes in crime rates caused by factors other than concealed weapons and are inconsistent with the changes we would expect concealed carry to cause.
 
@@ -203,21 +202,27 @@ Stanford Law Review [reviewed it](https://digitalcommons.law.yale.edu/cgi/viewco
 
 A response was made to the Stanford Law Review report but this has been replied to already and has been debunked and[ summarised here](https://www.gvpedia.org/gun-myths/plassmann-and-whitley/).
 
+A [2008 article](https://files.catbox.moe/nldyqn.pdf) in Econ Journal Watch surveyed peer-reviewed empirical academic studies, and found that 10 supported the proposition that right-to-carry reduces crime, 8 supported no significant effect and none supported an increase. The article was [reviewed and debunked](https://econjwatch.org/File+download/236/2009-01-ayresdonohue-com.pdf?mimetype=pdf) by Ian Ayres and John J. Donohue in the same journal in 2009.
+
 Lott has also [misrepresented other academic work to further his cause](https://www.gvpedia.org/gun-myths/more-guns-mean-less-crime/).
 
 ### Claim: "Kleck proved that gun defense happens 2.5 million a year"
 
-Kleck is one of the [most discredited gun researchers](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262) in academia.  Only 3% of gun researchers [agree that there are more than one million self-defense gun uses each year](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1264/2014/05/Expert-Survey18-Results.pdf).
+Kleck is one of the most discredited gun researchers in academia.  Only 3% of gun researchers [agree that there are more than one million self-defense gun uses each year](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1264/2014/05/Expert-Survey18-Results.pdf).
 
-The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.pdf#page=282) and finds that
+The National Academy of Sciences [reviewed his study](https://0x0.la/u/48dhNK7.pdf#page=282) and finds:
 
 > He presents no sensitivity analyses of alternative adjustment procedures, and some of them are incompletely documented. Our calculations indicate that making alternative plausible assumptions would substantially decrease Kleck's estimates of annual self-defense uses.
 
-The US Department Justice also [reviewed it](https://www.ojp.gov/pdffiles/165476.pdf) and finds that
+The Journal of Criminal Law & Criminology[ reviewed it](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6936&context=jclc) and finds:
+
+> The conclusion seems inescapable: the Kleck and Gertz survey results do not provide reasonable estimates about the total amount of self-defense gun use in the United States.
+
+The US Department Justice also [reviewed it](https://www.ojp.gov/pdffiles/165476.pdf) and finds:
 
 > Thus, it is of considerable interest and importance to check the reasonableness of the NSPOF estimates before embracing them. Because respondents were asked to describe only their most recent defensive gun use, our comparisons are conservative, as they assume only one defensive gun use per defender. The results still suggest that DGU estimates are far too high
 
-Injury Prevention [reviewed it](https://injuryprevention.bmj.com/content/injuryprev/10/2/96.full.pdf) and says
+Injury Prevention [reviewed it](https://injuryprevention.bmj.com/content/injuryprev/10/2/96.full.pdf) and finds:
 
 > These findings cast doubt on rates of DGUs reported in an influential study by Kleck and  
 > Gertz
@@ -226,12 +231,16 @@ Kleck has literally under oath [admitted ](https://bit.ly/3xKRMkC)that he failed
 
 > We made no effort to assess the lawfulness or morality of the R's defensive actions
 
-Kleck has then gone on record to say that say that [**36 to 64 percent reported in his study were likely illegal**](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6938&context=jclc#page=6).  
-This was confirmed when Hemenway found that ****[**51 percent of defensive gun uses in a large survey were illegal according to a panel of 5 judges**](https://injuryprevention.bmj.com/content/injuryprev/6/4/263.full.pdf). 
+Kleck has then gone on record to say that say that [36 to 64 percent reported in his study were likely illegal](https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=6938&context=jclc#page=6).  
+This was confirmed when Hemenway found that ****[51 percent of defensive gun uses in a large survey were illegal according to a panel of 5 judges](https://injuryprevention.bmj.com/content/injuryprev/6/4/263.full.pdf)**.**
 
-Kleck's research also faces more scrutiny when we compare it to [more recent studies](guns.md#gun-defense-or-lackthere-of).
+In 1997, conservative criminologist James Q. Wilson [wrote in the New Republic that Lott’s estimates are not reliable and researchers should rely on government surveys](https://newrepublic.com/article/101311/hostility-in-america): 
 
-[**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)  
+> Using the data compiled by the National Crime Victimization Survey \(NCVS\) of 56,000 families, scholars have estimated that there are, at a minimum, between 65,000 and 80,000 defensive gun uses per year.
+
+This is small in comparison to the 478,400 fatal and nonfatal violent gun crimes.
+
+[**TLDR**](https://www.gvpedia.org/gun-myths/use-guns-defensively/)**,** [**TLDR2**](https://www.politico.com/magazine/story/2015/01/defensive-gun-ownership-myth-114262)  
 
 
 >
