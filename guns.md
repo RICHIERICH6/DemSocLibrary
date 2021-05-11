@@ -136,9 +136,10 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
   * For every case of gun self defense, **there were 1.3 accidental deaths, 4.6 criminal homicides, and 37 suicides**. \([The New England Journal of Medicine](https://zero.sci-hub.st/4663/beaed4fbcdf74a8e84333b7b8c718462/kellermann1986.pdf)    \)
 * Easing concealed carry **doesn't deter crime**. \([Annual Review of Public Health](https://www.annualreviews.org/doi/pdf/10.1146/annurev-publhealth-031914-122516)\)
 * The implementation of Arizona's Self-Defense, Home Protection Act **made life more dangerous for those living within the state**. \([Journal of Crime and Justice](https://www.researchgate.net/publication/271822181_An_assessment_of_the_intended_and_unintended_consequences_of_Arizona%27s_Self-Defense_Home_Protection_Act)\)
-* The implementation of Florida’s stand your ground law **was associated with a 24.4% increase in homicide and a 31.6% increase in firearm-related homicide**. \([JAMA](https://researchonline.lshtm.ac.uk/id/eprint/3429596/1/Humphreysetal2016_JAMAInternMed.pdf)\)
+  * The implementation of Florida’s stand your ground law **was associated with a 24.4% increase in homicide and a 31.6% increase in firearm-related homicide**. \([JAMA](https://researchonline.lshtm.ac.uk/id/eprint/3429596/1/Humphreysetal2016_JAMAInternMed.pdf)\)
   * Our results indicate that Stand Your Ground laws are **associated with a significant increase in the number of homicides among whites, especially white males**. \([NBER](https://www.nber.org/system/files/working_papers/w18187/w18187.pdf)\)
   * Strengthening self-defense **increased homicide by 8%**, these homicides **would largely classified by police as murder**. \([Journal of Human Resources](https://www.flgov.com/wp-content/uploads/citsafety/20120913_secondchance2.pdf)\)
+  * Stand your ground laws were **associated with an increase in unintentional pediatric firearm injuries**. \([Journal of Crime and Justice](https://www.researchgate.net/publication/271822181_An_assessment_of_the_intended_and_unintended_consequences_of_Arizona%27s_Self-Defense_Home_Protection_Act)\)
 
 ## Mental Illness
 
@@ -149,8 +150,7 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
 
 ### Claim: "An armed society is a polite society!"
 
-Not only do guns obviously increase homicide/suicide, but they don't make people more polite, in fact the opposite. This [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518334/pdf/AJPH.2012.300807.pdf) finds that CHL holders were much less likely than nonlicensees to be convicted  
-of crimes.
+Not only do guns obviously increase homicide/suicide, but they don't make people more polite, in fact the opposite. This [study](https://0x0.la/u/u5zmJHr.pdf) finds that motorists with guns are **more likely to act aggressively**.
 
 ### Claim: "Well, the UK has banned guns, and they're experiencing high knife crime!"
 
