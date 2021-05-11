@@ -52,6 +52,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Health
 
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)  \)
+* Death from unsafe water is **decreasing**. \([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart&country=~OWID_WRL)\)
 * **Only 3.91%** of the population dies in the first five years of their life. \([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=~OWID_WRL)\)
 
 ## Environment
