@@ -90,7 +90,7 @@
 * Legally purchased firearms pose a **significant threat to children in North Carolina**. \([Journal of Pediatric Surgery](https://moscow.sci-hub.st/1680/966e3d15cc55fd8ee310b2eb16215b24/campbell2004.pdf)\)
 * Children in states with many guns **have elevated rates of unintentional gun deaths, suicide and homicide**. \([Journal of Trauma](https://moscow.sci-hub.st/5262/a4a65f985a1236228760a36cbdc9d757/miller2002.pdf)\)
   * Child firearm suicide appears **more impulsive than suicide by other means**. \([The American Association of Suicidology](https://zero.sci-hub.se/1131/7a70aad5b1e23a1ab18dfbdf9d6301a1/azrael2004.pdf)\)
-* LEO homicide rates **were 3 times higher in states with high firearm ownership compared with states with low firearm ownership**. \([American Journal of Public Health](https://twin.sci-hub.se/5507/8b4c3a1e2a950ed088ce74f8d6f18f93/swedler2015.pdf)\)
+* LEO homicide rates **were 3 times higher in states with high firearm ownership compared with states with low firearm ownership**. \([American Journal of Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4566543/pdf/AJPH.2015.302749.pdf)\)
 
 ### Suicide
 
