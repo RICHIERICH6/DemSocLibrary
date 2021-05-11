@@ -2,7 +2,7 @@
 
 ## Consensus
 
-* Most gun researchers agree that **guns don't make society safer**. \([Injury Prevention](https://injuryprevention.bmj.com/content/injuryprev/23/4/221.full.pdf)\)
+* Most gun researchers agree that **guns don't make society safer**. \([Injury Prevention](https://injuryprevention.bmj.com/content/injuryprev/23/4/221.full.pdf#page=3)\)
 * The American Academy of Pediatrics and the American Medical Association **recommend storing firearms unloaded and locked up to minimize the chance of injury**. \([Accident Analysis and Prevention](https://dacemirror.sci-hub.se/journal-article/d41df4fe77179be31ffa2b3a6ad8b145/miller2005.pdf)\)
 * A significant body of literature **tends to suggest that firearm availability predominantly represents a risk factor rather than a protective factor for homicide**. \([UN](https://www.unodc.org/documents/congress/background-information/Crime_Statistics/Global_Study_on_Homicide_2011.pdf#page=45)\)
 
