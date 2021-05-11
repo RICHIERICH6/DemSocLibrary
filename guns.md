@@ -69,7 +69,7 @@
 ### Homicide
 
 * A literature review of 30 studies finds that where there are more guns, **both men and women are at a higher risk for homicide**. \([Aggression and Violent Behavior](https://files.catbox.moe/td3g80.pdf)\)
-* A meta-analysis of 14 studies finds that having a gun in the house **was associated with a 2x increase of homicide risk**. \([Annals of Internal Medicine](https://twin.sci-hub.st/6102/96af050e4585e3d43928416561f5403a/anglemyer2014.pdf#page=7)\)
+* A meta-analysis of 14 studies finds that having a gun in the house **was associated with a 2x increase of homicide risk**. \([Annals of Internal Medicine](https://files.catbox.moe/rp1d7k.pdf#page=7)\)
   * People who had a gun were **4.2x more likely to be shot to death in an assault**. \([American Journal of Public Health](https://ajph.aphapublications.org/doi/pdf/10.2105/AJPH.2008.143099)\)
   * Guns in the home are are **associated with a 1.41x increase of homicide risk**. \([Injury Prevention](http://crowdsourcing-class.org/readings/downloads/gun-violence/homicide-and-suicide-risks-associated-with-firearms-in-the-home.pdf)\)
   * Workplaces where guns were permitted **were about 5 times as likely to experience a homicide.**\([American Journal of Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1449263/pdf/0950830.pdf)\)
