@@ -31,7 +31,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
 * US poverty **is dropping**. \([The Economist](http://archive.is/X397C)\)
-* Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](https://www.nber.org/system/files/working_papers/w20331/w20331.pdf)\)
+* Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
 * AfCFTA would **boost regional income regional income by 7%**, and **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035**, and generate a **combined consumer and business spending of $6.7 trillion by 2030**. \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\) \([Mo Ibraham Foundation](https://mo.ibrahim.foundation/news/2019/african-continental-free-trade-area-afcfta-whats-africas-youth)\) 
 * Jason Hickel **is an idiot**. \([Noah Smith](https://noahpinion.substack.com/p/against-hickelism)\) \([Reason](https://reason.com/2019/01/31/global-poverty-decline-denialism/)\)
 * Richard Wolff **is an idiot**. \([BadEconomics](https://old.reddit.com/r/badeconomics/comments/kwicce/the_gravel_institute_and_richard_wolff_do_not/)\)
