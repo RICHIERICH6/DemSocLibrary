@@ -65,7 +65,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * Democracy **is rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\)
 * NAFTA may have **made Mexico more democratic**. \([Pablo Calderon Martinez  ](https://files.catbox.moe/ghvwcx.pdf)\) 
-* There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://www.nber.org/system/files/working_papers/w12450/w12450.pdf)\) 
+* There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
