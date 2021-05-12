@@ -20,7 +20,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 *  IMF loans can have a **positive impact on economic growth**. \([The Journal of Development Studies](https://www.tandfonline.com/doi/pdf/10.1080/00220388.2017.1279734)\)
   * IMF loans **can reduce the chance of a future banking crisis**. \([IMF](http://www.onestopbrokers.com/wp-content/uploads/2015/01/Fed-pdf.pdf)\)
   * IMF programs **can reduce the effects of a currency crisis**. \([World Development](https://zero.sci-hub.se/1366/3c5b20687e86ca423fd37d3244654e78/dreher2010.pdf)\)
-* Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([The Quarterly Journal of Economics](https://www.nber.org/system/files/working_papers/w7745/w7745.pdf)\)
+* Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
 
 ## Poverty
