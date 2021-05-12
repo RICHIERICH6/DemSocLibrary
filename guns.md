@@ -150,7 +150,7 @@ Not only do guns obviously increase homicide/suicide, but they don't make people
 
 Internationally, [guns per capita is actually a stronger predictor of gun death than mental illness](https://www.amjmed.com/action/showPdf?pii=S0002-9343%2813%2900444-0#page=4), the [seriously mentally ill don't disproportionately commit gun crimes, they also use less guns in the crimes they do commit](https://files.catbox.moe/dyvtug.pdf).
 
-### Claim: "Well, the UK has banned guns, and they're experiencing high knife crime!"
+### Claim: "The UK has banned guns, and they're experiencing high knife crime!"
 
 The UK still has a [lower homicide rate than most of Europe and the US](https://ourworldindata.org/grapher/homicide-rate?tab=chart&time=earliest..2017&country=GBR~USA~SWE~DEU~CHE~POL~FIN~DNK~FRA~RUS). London, which is experiencing the highest rate of knife crime still has a [lower homicide rate ](https://en.wikipedia.org/wiki/Crime_in_London#Homicide)than fucking [Chicago](https://en.wikipedia.org/wiki/Crime_in_Chicago).
 
