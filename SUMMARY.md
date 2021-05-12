@@ -53,9 +53,9 @@
 
 * [Marxism-Leninism](marxism-leninism/README.md)
   * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
-* [Psuedoscience](psuedoscience.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
+* [Psuedoscience](psuedoscience.md)
 
 ## Misc
 
