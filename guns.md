@@ -248,11 +248,3 @@ This is small in comparison to the 478,400 fatal and nonfatal violent gun crimes
 
 >
 
-### Claim: "The NRA responded to Hemenway's Research!"
-
-Hemenway [responded ](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/247/2012/10/Response_to_the_NRA_2007.pdf)back.
-
-### Claim: "Kleck responded to Hemenway's Research!"
-
-Hemenway [responded](https://0x0.la/u/mihacAr.pdf) back.
-
