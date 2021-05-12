@@ -141,16 +141,15 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
   * Strengthening self-defense **increased homicide by 8%**, these homicides **would largely classified by police as murder**. \([Journal of Human Resources](https://www.flgov.com/wp-content/uploads/citsafety/20120913_secondchance2.pdf)\)
   * Stand your ground laws were **associated with an increase in unintentional pediatric firearm injuries**. \([Journal of Crime and Justice](https://www.researchgate.net/publication/271822181_An_assessment_of_the_intended_and_unintended_consequences_of_Arizona%27s_Self-Defense_Home_Protection_Act)\)
 
-## Mental Illness
-
-* Internationally, guns per capita is a **stronger predictor of gun death than mental illness**. \([Clinical Research Study](https://www.amjmed.com/action/showPdf?pii=S0002-9343%2813%2900444-0#page=4)\)
-* Psychologists are **bad at predicting gun violence** and the seriously mentally ill don't **disproportionately commit crimes**, they also **use less guns in the crimes they do commit**. \([American Journal of Public Health](https://files.catbox.moe/dyvtug.pdf)\)
-
 ## Pseudoscience
 
 ### Claim: "An armed society is a polite society!"
 
 Not only do guns obviously increase homicide/suicide, but they don't make people more polite, in fact the opposite. This [study](https://0x0.la/u/u5zmJHr.pdf) finds that motorists with guns are **more likely to act aggressively**.
+
+### Claim: "It's a mental health problem, not a gun problem!"
+
+Internationally, [guns per capita is actually a stronger predictor of gun death than mental illness](https://www.amjmed.com/action/showPdf?pii=S0002-9343%2813%2900444-0#page=4), the [seriously mentally ill don't disproportionately commit gun crimes, they also use less guns in the crimes they do commit](https://files.catbox.moe/dyvtug.pdf).
 
 ### Claim: "Well, the UK has banned guns, and they're experiencing high knife crime!"
 
