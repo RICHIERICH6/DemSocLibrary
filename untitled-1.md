@@ -3,7 +3,7 @@
 ## Consensus
 
 * 29 health organizations **recognize the medical necessity of treatments for gender dysphoria and endorse such treatments**. \([Transgender Legal Defense & Education Fund](https://transhealthproject.org/resources/medical-organization-statements/)\)
-* [The American College of Pediatricians   isn't an actual health organization, it is a conservative think tank that supports fucking conversion therapy, and it only has 500 members lol](https://en.wikipedia.org/wiki/American_College_of_Pediatricians).
+* [The American College of Pediatricians   isn't an actual health organization, it is a conservative think tank that supports fucking conversion therapy, and it only has 500 members lol](https://www.splcenter.org/fighting-hate/extremist-files/group/american-college-pediatricians).
 
 ## Transition
 
