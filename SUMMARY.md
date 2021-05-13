@@ -30,7 +30,7 @@
 * [Drug Legalization](drug-legalization.md)
 * [Gun Control](guns.md)
 
-## LGBTQ+
+## GSRM
 
 ---
 
