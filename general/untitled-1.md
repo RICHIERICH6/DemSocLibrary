@@ -3,7 +3,7 @@
 ## Economy
 
 * A UBI pilot in a Nambian village **increased self employment by 301%**. \([Basic Income Grant Coalition](https://www.bignam.org/Publications/BIG_Assessment_report_08b.pdf#page=77)\)
-  * The Alaska Permanent Fund **increased part-time work by 17%**. \([NBER](https://www.nber.org/system/files/working_papers/w24312/w24312.pdf)\)
+  * The Alaska Permanent Fund **increased part-time work by 17%**. \([HCEO](http://humcap.uchicago.edu/RePEc/hka/wpaper/Jones_Marinescu_2019_labor-market-impacts-universal-transfers.pdf)\)
 * Welfare is **a good long term investment.** \([Washington Center for Equitable Growth](https://equitablegrowth.org/wp-content/uploads/2020/05/051120-wp-Is-the-social-safety-net-a-long-term-investment-Bailey-Hoynes-Rossin-Slater-and-Walker.pdf)\)
 * Each market had **increased sales of atleast 5% because of SNAP**. \([University of Arkansas](https://scholarworks.uark.edu/cgi/viewcontent.cgi?article=1002&context=scwkuht#page=29)\)
 * SNAP is **linked with lower health care costs**. \([Center on Budget and Policy Priorities](https://www.cbpp.org/sites/default/files/atoms/files/1-17-18fa.pdf)\)

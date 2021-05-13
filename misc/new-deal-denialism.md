@@ -7,8 +7,8 @@
 ## Impact
 
 * The New Deal had coincided with **annual rates of economic growth of 8% to 10% and unemployment was dropping**. \([Eric Raunchway](https://edgeofthewest.files.wordpress.com/2010/01/newdealfordissent.pdf)\)
-* The New Deal had **increased consumer confidence and consumption activity**. \([Federal Reserve Bank of New York](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr234.pdf)\) \([NBER](https://www.nber.org/system/files/working_papers/w21925/w21925.pdf)\)
-* The New Deal **lowered crime and corruption**. \([NBER](https://www.nber.org/system/files/working_papers/w12825/w12825.pdf), [2](https://www.nber.org/system/files/working_papers/w11080/w11080.pdf)\)
+* The New Deal had **increased consumer confidence and consumption activity**. \([Federal Reserve Bank of New York](https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr234.pdf)\) \([Journal of Economic Literature](https://0x0.la/u/Qgk8Ipz.pdf)\)
+* The New Deal **lowered crime and corruption**. \([Journal of Law & Economics](https://0x0.la/u/CLl0bRd.pdf)\) \([NBER](https://www.nber.org/system/files/working_papers/w11080/w11080.pdf)\)
 * A mistake associated with the New Deal was that they supported monopoly which raised profits for corporations, **while this was bad, it actually still had some.good macroeconomic effects**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.102.1.524)\)
 
 ## Pseudoscience

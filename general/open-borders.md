@@ -37,7 +37,7 @@
 
 * Outmigration from Nepal **increased education and employment among nonmigrant Nepalese**. \([The Economic Journal](http://staffpages.nus.edu.sg/fas/ecssas/Home_files/NoManLeftBehind_Shrestha_June2015.pdf)\)
 * The presence of immigrant students has a **positive effect on the academic achievement of US-born students, especially for students from disadvantaged backgrounds**. \([EdWorkingPaper](https://edworkingpapers.com/sites/default/files/ai21-368.pdf)\)
-* An increase of one percentage point in the share of immigrants in the population aged 11–64 **increases the probability that natives aged 11–17 eventually complete 12 years of schooling by 0.3 percentage point**. \([NBER](https://www.nber.org/system/files/working_papers/w18047/w18047.pdf)\)
+* An increase of one percentage point in the share of immigrants in the population aged 11–64 **increases the probability that natives aged 11–17 eventually complete 12 years of schooling by 0.3 percentage point**. \([Journal of Human Resources  ](https://0x0.la/u/25b9b6H.pdf)\)
 * Non-native speakers of English in the UK **have no causal impact on the performance of other pupils**. \([The Economic Journal](https://www.econstor.eu/bitstream/10419/58600/1/715805894.pdf)\)
 * Immigrant children have **no significant impact on the test scores of Dutch children**. \([Norface Migration](https://www.norface-migration.org/publ_uploads/NDP_12_12.pdf)\)
 
