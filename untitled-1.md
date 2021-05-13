@@ -63,7 +63,7 @@ No, this isn't what the study claims. Here's an excerpt:
 
 The study is just saying that people who had transitioned are still a endangered population compared to cis people, not that transitioning worsened suicide.
 
-The author literally clarified this in an [AMA](https://old.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr/).
+The author literally clarified this in an [AMA](https://web.archive.org/web/20210513231529/https://old.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr/).
 
 
 
