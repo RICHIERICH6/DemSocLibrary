@@ -16,6 +16,7 @@ description: orange man IS bad
 
 ### Anti-LGBTQ+
 
+* Trump **banned transgender people from the military**. \([Reuters](https://www.reuters.com/article/us-usa-trump-transgender/us-court-lets-trump-transgender-military-ban-stand-orders-new-review-idUSKCN1TF1ZM)\)
 * Trump **reversed protections for transgender individuals against discrimination in health care**. \([The Guardian](https://www.theguardian.com/us-news/2020/jun/12/trump-transgender-lgbt-healthcare-protections)\)
 * Trump administration **sided with a Catholic agency in a Supreme Court case to refuse gay couples from adopting children**. \([NBC](https://www.nbcnews.com/feature/nbc-out/adoption-agency-should-be-able-reject-gay-couples-trump-administration-n1224911)\)
 
