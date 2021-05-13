@@ -18,9 +18,15 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Holodomor</td>
-      <td style="text-align:left">3,941,000</td>
-      <td style="text-align:left"><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
+      <td style="text-align:left">Soviet famine of 1932&#x2013;33
+        <br />
+      </td>
+      <td style="text-align:left">5,441,000</td>
+      <td style="text-align:left">
+        <p><a href="https://www.wilsoncenter.org/publication/the-kazakh-famine-1930-33-and-the-politics-history-the-post-soviet-space">Wilson Center</a>
+        </p>
+        <p><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
+        </p>
       </td>
       <td style="text-align:left"><a href="https://old.reddit.com/r/AskHistorians/comments/b3e0xo/how_isnt_the_holodomor_not_a_genocide/eiz6jf1/">Genocide?</a>
       </td>
@@ -28,22 +34,7 @@
     <tr>
       <td style="text-align:left">Gulag</td>
       <td style="text-align:left">1,600,000</td>
-      <td style="text-align:left">
-        <p><a href="https://sovietinfo.tripod.com/WCR-Secret_Police.pdf#page=6">Stephen G. Wheatcroft</a>
-        </p>
-        <p><a href="https://cloudflare-ipfs.com/ipfs/bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf">Oleg Khlevniuk</a>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kazakh famine
-        <br />
-        <br />
-        <br />
-      </td>
-      <td style="text-align:left">1,500,000</td>
-      <td style="text-align:left"><a href="https://www.wilsoncenter.org/publication/the-kazakh-famine-1930-33-and-the-politics-history-the-post-soviet-space">Wilson Center</a>
+      <td style="text-align:left"><a href="https://sovietinfo.tripod.com/WCR-Secret_Police.pdf#page=6">Stephen G. Wheatcroft</a>
       </td>
       <td style="text-align:left"></td>
     </tr>
