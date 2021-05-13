@@ -34,6 +34,7 @@
 
 ---
 
+* [Gender & Sex](gender-and-sex.md)
 * [Trans](untitled-1.md)
 * [Conversion Therapy](conversion-therapy.md)
 * [LGBTQ+ aren't Pedophiles](lgbtq+-pedophiles.md)
