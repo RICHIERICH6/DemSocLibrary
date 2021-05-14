@@ -67,11 +67,11 @@
 * [Democrats Stay Winning](misc/democrats-stay-winning.md)
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
+* [Holodomor Genocide Question](misc/holodomor-genocide-question.md)
 
 ---
 
 * [Public Housing](public-housing.md)
 * [Zoning Reform](zoning-reform.md)
 * [Trump Bad](trump-bad.md)
-* [Holodomor Genocide Question](holodomor-genocide-question.md)
 
