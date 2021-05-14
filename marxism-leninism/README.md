@@ -28,8 +28,7 @@
         <p><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
         </p>
       </td>
-      <td style="text-align:left"><a href="https://old.reddit.com/r/AskHistorians/comments/b3e0xo/how_isnt_the_holodomor_not_a_genocide/eiz6jf1/">Genocide?</a>
-      </td>
+      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Gulag</td>
