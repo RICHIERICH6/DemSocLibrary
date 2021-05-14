@@ -1,6 +1,6 @@
 # Abortion
 
-## Social Impact
+## Crime Impact
 
 * Legalized abortion is estimated to have **reduced violent crime by 47% and property crime by 33%**. \([American Law and Economics Review](https://www-cdn.law.stanford.edu/wp-content/uploads/2020/09/The_Impact_of_Legalized_Abortion_on_Crime.pdf)\)
 * Using data from 16 Western European countries, abortion rate **has a significant and negative impact on crime rates**. \([International Review of Law and Economics](https://0x0.la/u/zpPvBtd.pdf)\)
