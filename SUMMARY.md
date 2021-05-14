@@ -40,10 +40,6 @@
 * [Conversion Therapy](conversion-therapy.md)
 * [LGBTQ+ aren't Pedophiles](lgbtq+-pedophiles.md)
 
-## Systemic Racism
-
-* [Untitled](systemic-racism/untitled.md)
-
 ## Heterodox Economics Bad <a id="heterodox-economics-debunked"></a>
 
 * [Modern Monetary Theory](heterodox-economics-debunked/mmtbad.md)
