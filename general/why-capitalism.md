@@ -2,7 +2,7 @@
 description: 'Capitalism is the worst system, except for all the others.'
 ---
 
-# Capitalism & Globalization
+# Capitalism
 
 ## Economic Performance
 

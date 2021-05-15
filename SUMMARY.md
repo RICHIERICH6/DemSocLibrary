@@ -9,7 +9,7 @@
 
 ## General
 
-* [Capitalism & Globalization](general/why-capitalism.md)
+* [Capitalism](general/why-capitalism.md)
 * [Economic Inequality](general/untitled.md)
 * [Social Safety Net](general/untitled-1.md)
 * [Codetermination](general/untitled-2.md)
