@@ -6,11 +6,13 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Economic Performance
 
+* A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. \([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf)\)
 * Private ownership ****should **generally be preferred to public ownership when the incentives to innovate and to contain costs must be strong**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.4.133)\)
 * In 1820, GDP per capita was $1,102, **now it's $14,700**. \([Our World In Data](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us-single-benchmark?country=~OWID_WRL)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Since 1984, the U.S. economy **has grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://mpra.ub.uni-muenchen.de/82641/1/MPRA_paper_82641.pdf)\)
+* Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
 * Crises have **become less common over time**. \([Bloomberg](https://archive.is/qnq3O#selection-3582.1-3582.2)\)
   * Large economic stimulus **prevented the 2006-2008 Recession from reducing growth in china**, despite **facing the same export crises as Russia and South Africa**. \([Federal Reserve](https://files.stlouisfed.org/files/htdocs/wp/2014/2014-007.pdf#page=11)\)
