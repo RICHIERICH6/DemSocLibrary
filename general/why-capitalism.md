@@ -12,6 +12,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Since 1984, the U.S. economy **has grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://mpra.ub.uni-muenchen.de/82641/1/MPRA_paper_82641.pdf)\)
+* Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
 * Crises have **become less common over time**. \([Bloomberg](https://archive.is/qnq3O#selection-3582.1-3582.2)\)
