@@ -11,11 +11,11 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * In 1820, GDP per capita was $1,102, **now it's $14,700**. \([Our World In Data](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us-single-benchmark?country=~OWID_WRL)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
-* Since 1984, the U.S. economy **has grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://mpra.ub.uni-muenchen.de/82641/1/MPRA_paper_82641.pdf)\)
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
+* Since 1984, the U.S. economy has **grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\) 
 * Crises have **become less common over time**. \([Bloomberg](https://archive.is/qnq3O#selection-3582.1-3582.2)\)
   * Large economic stimulus **prevented the 2006-2008 Recession from reducing growth in china**, despite **facing the same export crises as Russia and South Africa**. \([Federal Reserve](https://files.stlouisfed.org/files/htdocs/wp/2014/2014-007.pdf#page=11)\)
   * Output volatility has **enormously fallen in the US and other high-income countries.** \([Brookings](https://zero.sci-hub.se/2276/a677198a423c9f3148812e87829cae13/blanchard2001.pdf#page=19)\)
