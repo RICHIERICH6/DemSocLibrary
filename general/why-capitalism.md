@@ -23,6 +23,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
 
+## Degrowth Bad
+
 ## Poverty
 
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
@@ -32,7 +34,7 @@ description: 'Capitalism is the worst system, except for all the others.'
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
 * US poverty **is dropping**. \([The Economist](http://archive.is/X397C)\)
 * Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
-* AfCFTA would **boost regional income regional income by 7%**, and **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035**, and generate a **combined consumer and business spending of $6.7 trillion by 2030**. \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\) \([Mo Ibraham Foundation](https://mo.ibrahim.foundation/news/2019/african-continental-free-trade-area-afcfta-whats-africas-youth)\) 
+* AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\) 
 * Jason Hickel **is an idiot**. \([Noah Smith](https://noahpinion.substack.com/p/against-hickelism)\) \([Reason](https://reason.com/2019/01/31/global-poverty-decline-denialism/)\)
 * Richard Wolff **is an idiot**. \([BadEconomics](https://old.reddit.com/r/badeconomics/comments/kwicce/the_gravel_institute_and_richard_wolff_do_not/)\)
 
