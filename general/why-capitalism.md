@@ -8,6 +8,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. \([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf)\)
 * Private ownership ****should **generally be preferred to public ownership when the incentives to innovate and to contain costs must be strong**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.4.133)\)
+* Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * In 1820, GDP per capita was $1,102, **now it's $14,700**. \([Our World In Data](https://ourworldindata.org/grapher/maddison-data-gdp-per-capita-in-2011us-single-benchmark?country=~OWID_WRL)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Since 1984, the U.S. economy **has grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\)
