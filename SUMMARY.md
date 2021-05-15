@@ -71,4 +71,5 @@
 * [Public Housing](public-housing.md)
 * [Zoning Reform](zoning-reform.md)
 * [Trump Bad](trump-bad.md)
+* [Conservatives = Stupid](conservatives-stupid.md)
 
