@@ -28,11 +28,12 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Poverty
 
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
-* In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
-* Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
-* US poverty **is dropping**. \([The Economist](http://archive.is/X397C)\)
+* US poverty is dropping. \([The Economist](http://archive.is/X397C)\) 
+* In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
+* Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
+  * If economic liberalization had happened in 1971 instead of 1991, an **extra 135 million people would've been lifted out of poverty**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7)\)
 * Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
 * AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\) 
 * Jason Hickel **is an idiot**. \([Noah Smith](https://noahpinion.substack.com/p/against-hickelism)\) \([Reason](https://reason.com/2019/01/31/global-poverty-decline-denialism/)\)
@@ -59,7 +60,6 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Environment
 
-* Coal is being **used less and less in the US while cleaner energy sources are being used more**. \([EIA](https://www.eia.gov/energyexplained/electricity/electricity-in-the-us.php)\)
 * Free Trade is **good for the environment**. \([American Economic Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.2059&rep=rep1&type=pdf)\)
 * Earth has **more trees than it did 35 years ago**. \([Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)\)
 
