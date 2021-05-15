@@ -20,7 +20,7 @@
 
 * A substantial number of cultures **have had and/or continue to have non-binary, gender-fluid, or third gender identities within their gender constructs**. \([PBS](https://www.pbs.org/independentlens/content/two-spirits_map-html/)\)
 * Until the late 15th century the word ‘girl’ **simply means a child of either sex**. \([BBC](https://www.historyextra.com/period/great-misconception/)\)
-* It used to be [considered manly to cry](https://aeon.co/essays/whatever-happened-to-the-noble-art-of-the-manly-weep). \(Aeon\)
+* It used to be **considered manly to cry**. \([Aeon](https://aeon.co/essays/whatever-happened-to-the-noble-art-of-the-manly-weep)\)
 
 
 
