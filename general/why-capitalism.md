@@ -67,10 +67,14 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Environment
 
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
-* Quickening economic growth in developing nations **can expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
 
-### **Kuznets Curve** 
+### **Kuznets Curve**
+
+* A meta-analysis of 101 studies
+* Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
+
+### ****
 
 ## Democracy & Conflict
 
