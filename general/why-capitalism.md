@@ -82,9 +82,7 @@ the basic idea of the environmental kuznets curve is:
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  \([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf)\)
-* Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
-
-### ****
+* Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
 ## Democracy & Conflict
 
