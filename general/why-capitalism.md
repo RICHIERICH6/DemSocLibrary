@@ -69,7 +69,13 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
 
-### **Kuznets Curve**
+### **Eco-Kuznets Curve**
+
+the basic idea of the environmental kuznets curve is:
+
+> a\) a country goes through economic development which leads to harms on the environment short-term
+>
+> b\) a higher standard of living is achieved and a demand for a healthy environment and the conservation of nature arise and cleaner technology is affordable, which leads to a cleaner environment.
 
 * A meta-analysis of 101 studies
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
