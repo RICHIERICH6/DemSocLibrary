@@ -30,7 +30,7 @@
 * SNAP is **linked with improved nutritional outcomes**. \([Center on Budget and Policy Priorities](https://www.cbpp.org/sites/default/files/atoms/files/1-17-18fa.pdf)\)
   * SNAP **effectively alleviates food insecurity in terms of calorie or nutrition intake**. \([American Journal of Preventative Medicine](https://zero.sci-hub.se/4873/5c6531d05af3ab7100b2ba572900b03b/andreyeva2015.pdf)\)
   * SNAP **resulted in modest improvements in nutrition outcomes related to fruits and vegetables**. \([American Journal of Preventative Medicine](https://www.ajpmonline.org/action/showPdf?pii=S0749-3797%2816%2930389-0)\)
-  * SNAP **reduces BMI and obesity**. \([Economics & Human Biology](https://www.nber.org/system/files/working_papers/w22681/w22681.pdf)\)
+  * SNAP **reduces BMI and obesity**. \([Economics & Human Biology](https://0x0.la/u/tAic4aH.pdf)\)
 * Sons who got child benefits **lived one year longer, got more schooling, and had incomes 14 percent greater than children of mothers who were rejected**. \([American Economic Review](https://www.nber.org/system/files/working_papers/w20103/w20103.pdf)\)
 * A $3,000 annual income increase for poor parents is **associated with 19 percent higher earnings for their child once he or she grows up**. \([Child Development](https://escholarship.org/content/qt7hm1s09d/qt7hm1s09d.pdf)\)
 * Welfare **increases economic mobility**. \([Center For American Progress](https://cdn.americanprogress.org/wp-content/uploads/2014/03/RyanBudgetAyresStandard.pdf)\)
