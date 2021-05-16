@@ -34,7 +34,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
-* US poverty is **dropping**. \([The Economist](http://archive.is/X397C)\) 
+* American poverty is **dropping**. \([United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-272.pdf#page=6)\) 
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
 * Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
   * If economic liberalization had happened in 1971 instead of 1991, an **extra 135 million people would've been lifted out of poverty**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7)\)
