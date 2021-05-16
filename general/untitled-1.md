@@ -46,21 +46,16 @@
 * Welfare **increases happiness/wellbeing**. \([Brookings](https://www.brookings.edu/research/snap-happy-welfare-poverty-and-well-being-revisited/)\)
 * Emergency paid leave can be an **economic lifeline for workers and their families**. \([Center for American Progress](https://www.americanprogress.org/issues/women/reports/2020/09/01/489914/urgent-case-permanent-paid-leave/)\)
 
-## Welfare Waste
+## Welfare Laziness Myth
 
-* In seven countries, there is **no systematic evidence that cash transfer programs discourage work**. \([Harvard University](https://scholar.harvard.edu/files/remahanna/files/151016_labor_supply_paper_draft_final.pdf)\)
-* In Mexico, there is **no significant evidence of unemployment because of cash transfer programs**. \([NBER](https://www.nber.org/system/files/working_papers/w24248/w24248.pdf)\)
-* In 3 Latin American countries, welfare had **not significantly affected the labor supply of participating adults**. \([Journal of Population Economics](https://moscow.sci-hub.se/2177/7995907d389321420477308f0b649c83/10.1007@s00148-012-0458-0.pdf)\)
-* In 18 European countries, **welfare made people more likely to want to work, not less**. \([Work, Employment & Society  ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.840.8652&rep=rep1&type=pdf)\)
-* In Philippines, **they did not find evidence that households worked less under welfare.** \([The World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/13244/755330REVISED000Revised0June0402014.pdf?sequence=8&isAllowed=y)\)
-* Welfare recipients **don't waste it on drugs**. \([The World Bank](http://documents1.worldbank.org/curated/en/617631468001808739/pdf/WPS6886.pdf)\)
-  * The German child benefit was **spent more on food, not to drink alcohol**. \([Institute Of Labor Economics](http://ftp.iza.org/dp6980.pdf)\)
-  * EITC made **mothers more likely to get prenatal care, which decreased drug use**. \([NBER](https://www.nber.org/system/files/working_papers/w18206/w18206.pdf)\)
-
+* 
 ## Private Charity
 
+* **Only 30.3%** of private charity could be focused on meeting basic needs of the poor. \([The Center on Philanthropy at Indiana University](https://scholarworks.iupui.edu/bitstream/handle/1805/5838/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf#page=34)\)
 * The top 1% by wealth of Americans **only gave .5% of their wealth to charity**. \([Russell Sage Foundation](http://www.russellsage.org/news/survey-wealthiest-1-and-common-good)\)
 * During the Great Depression, **private charity went from $10 million to $70 million, while public spending went from $33 million to $1.35 billion**. \([The Library of Economics and Liberty](https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008)\)
 * Public spending **correlates with decreased poverty, while private spending does not**. \([People's Policy Project](https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/)\)
 * Higher public spending **correlates with lower income inequality**. \([People's Policy Project](https://www.peoplespolicyproject.org/2018/03/26/the-u-s-spends-far-too-little-on-social-welfare/)\)
+* The top 1% by wealth of Americans **only gave .5% of their wealth to charity**. \([Russell Sage Foundation](https://www.russellsage.org/news/survey-wealthiest-1-and-common-good)\)
+* During the Great Depression, **private charity went from $10 million to $70 million, while public spending went from $33 million to $1.35 billion**. \([The Library of Economics and Liberty](https://www.econlib.org/library/Enc/Charity.html#lfHendersonCEE2-022_table_008)\)
 
