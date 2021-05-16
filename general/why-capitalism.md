@@ -67,6 +67,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Environment
 
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
+* NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
 
 ### **Eco-Kuznets Curve**
@@ -82,6 +83,7 @@ the basic idea of the environmental kuznets curve is:
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  \([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf)\)
+* When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
 ## Democracy & Conflict
