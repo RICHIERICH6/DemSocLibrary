@@ -27,8 +27,10 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
 
-## Degrowth Bad
+## Growth Good, Degrowth Bad
 
+* Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
+* 
 ## Poverty
 
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
@@ -64,8 +66,11 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Environment
 
-* Free Trade is **good for the environment**. \([American Economic Review](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.377.2059&rep=rep1&type=pdf)\)
-* Earth has **more trees than it did 35 years ago**. \([Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)\)
+* Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
+* Quickening economic growth in developing nations **can expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
+* Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
+
+### **Kuznets Curve** 
 
 ## Democracy & Conflict
 
