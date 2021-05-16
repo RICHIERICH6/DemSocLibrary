@@ -16,7 +16,6 @@
 * Welfare has **cut poverty nearly in half over the last 50 years** . \([Center on Budget and Policy Priorities](https://www.cbpp.org/sites/default/files/atoms/files/9-14-18pov.pdf)\)
   * The more generous the welfare state, **the greater is the extent of poverty reduction**. \([American Sociological Review](https://0x0.la/u/TSZmMMi.pdf)\)
   * More generous entitlements to key social insurance programs are **associated not only with lower relative poverty but also with lower absolute poverty**. \([Comparative Political Studies](https://dacemirror.sci-hub.st/journal-article/fac163ad95bd531a395cda4f3ce514d0/scruggs2006.pdf)\)
-  * Social security has **lifted more people out of poverty than any other program**. \([Center on Budget and Policy Priorities](https://www.cbpp.org/sites/default/files/atoms/files/10-25-13ss.pdf)\)
   * 15 countries that had implemented social welfare programs between 1960 to 1991 saw **reduction in the absolute poverty rate**. \([Lane Kenworthy](http://www.lisdatacenter.org/wps/liswps/188.pdf)\)
   * Welfare **reduces the number of hardships low-income families with children experience by 48% percent and reduces the share who experience food insufficiency by 72%.** \([Urban Institute](https://www.urban.org/sites/default/files/publication/99294/policy_efforts_to_reduce_material_hardship_1.pdf)\)
   * EITC had **reduced poverty**. \([Economic Policy Institute](https://files.epi.org/pdf/179545.pdf)\)
