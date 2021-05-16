@@ -47,7 +47,17 @@
 
 ## Welfare Laziness Myth
 
-* 
+### Developed Countries
+
+* In 18 European countries, **increasing employment commitment happens as social spending gets more generous and activating**. \([Work, Employment & Society  ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.840.8652&rep=rep1&type=pdf)\)
+* UBI experiments in Canada and the US have **found very small adverse effects and there were far and far between**. \([Journal of Labor Economics](https://home.cc.umanitoba.ca/~simpson/JOLE1993.pdf)\)
+* A UBI experiment in Finland finds that basic income recipients were **no better or worse at finding employment than those in the control group during the first year of the experiment**. \([Ministry of Social Affairs and Health](https://julkaisut.valtioneuvosto.fi/bitstream/handle/10024/161361/Report_The%20Basic%20Income%20Experiment%2020172018%20in%20Finland.pdf?sequence=1&isAllowed=y)  \)
+* Medicaid has **little if any impact on labor market outcomes in Oregon**. \([American Economic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4145849/pdf/nihms-598448.pdf)\)
+  * Medicaid expansions **increased high school graduation rates**. \([Journal of Human Resources](https://0x0.la/u/DIPdl0L.pdf)\)
+* EITC **increased the fraction of single mothers who work**. \([Tax Policy and the Economy](https://www.journals.uchicago.edu/doi/pdf/10.1086/649831)\)
+
+### Developing Countries
+
 ## Private Charity
 
 * **Only 30.3%** of private charity could be focused on meeting basic needs of the poor. \([The Center on Philanthropy at Indiana University](https://scholarworks.iupui.edu/bitstream/handle/1805/5838/giving_focused_on_meeting_needs_of_the_poor_july_2007.pdf#page=34)\)
