@@ -66,8 +66,11 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Environment
 
+* The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
+* Globalization might also have positive environmental effects because global ties **increase self-regulation pressures on firms in low-regulation countries**. \([Journal of International Business Studies](https://0x0.la/u/qg7slMY.pdf)  \)
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
-* NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
+  * Foreign trade was **beneficial for Morocco's environment**. \([Ecological Indicators](https://0x0.la/u/PWbsRzT.pdf)\) 
+  * NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
 
 ### **Eco-Kuznets Curve**
@@ -83,7 +86,11 @@ the basic idea of the environmental kuznets curve is:
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  \([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf)\)
+* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level   \(turning point\), but **thereafter decreases despite further economic growth**. \([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)\)
 * When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\)
+* When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. \([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf)\)
+* The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. \([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf)\)
+* When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. \([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf)\)
 * When income rises, pollution **starts to decline**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330027157)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
