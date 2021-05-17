@@ -81,7 +81,7 @@ the basic idea of the environmental kuznets curve is:
 >
 > b\) a higher standard of living is achieved and a demand for a healthy environment and the conservation of nature arise and cleaner technology is affordable, which leads to a cleaner environment.
 
-* A meta-analysis of 101 studies finds **support for the EKC**. \([Environmental Impact Assessment Review](https://www.sciencedirect.com/science/article/abs/pii/S0195925520307812)\)
+* A meta-analysis of 101 studies finds **support for the EKC**. \([Environmental Impact Assessment Review](https://0x0.la/u/ODATMng.pdf)\)
 * A meta-analysis of 69 studies finds that the EKC model **will not fade until a theoretical alternative model is provided**. \([Ecological Economics](https://0x0.la/u/vv3hHWs.pdf)\)
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
