@@ -32,8 +32,6 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economic liberalization and growth [are good for the environment](why-capitalism.md#environment).
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
 
-
-
 ## Poverty
 
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
