@@ -29,8 +29,11 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Growth Good, Degrowth Bad
 
+* Economic liberalization and growth [are good for the environment](why-capitalism.md#environment).
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
-* 
+
+
+
 ## Poverty
 
 * Extreme poverty **is falling**. \([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative&country=~OWID_WRL)\)
@@ -91,6 +94,7 @@ the basic idea of the environmental kuznets curve is:
 * When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. \([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf)\)
 * The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. \([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf)\)
 * When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. \([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf)\)
+* In the rich countries, affluence and technology worsened environmental quality, but eventually **they provided the methods and means for cleaning up the environment**. Even developing countries have **gone through their environmental transitions for access to safer water and sanitation, and leaded gasoline**. \([The Electronic Journal of Sustainable Development](http://goklany.org/library/EJSD%202009.pdf)\)
 * When income rises, pollution **starts to decline**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330027157)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
