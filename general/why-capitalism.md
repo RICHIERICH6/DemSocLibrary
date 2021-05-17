@@ -61,6 +61,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Health
 
+*  privatization is associated with significant reductions in deaths from infectious and parasitic disea
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)  \)
 * Death from unsafe water is **decreasing**. \([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart&country=~OWID_WRL)\)
 * **Only 3.91%** of the population dies in the first five years of their life. \([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=~OWID_WRL)\)
@@ -68,6 +69,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Environment
 
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
+* A legal regime based on strict private property rights **solves environmental problems and minimizes conflict in the coordination of plans**. \([The Quarterly Journal of Austrian Economics](https://cdn.mises.org/qjae16_1_3.pdf)\)
 * Globalization might also have positive environmental effects because global ties **increase self-regulation pressures on firms in low-regulation countries**. \([Journal of International Business Studies](https://0x0.la/u/qg7slMY.pdf)  \)
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
   * Foreign trade was **beneficial for Morocco's environment**. \([Ecological Indicators](https://0x0.la/u/PWbsRzT.pdf)\) 
