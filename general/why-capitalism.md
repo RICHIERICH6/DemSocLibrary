@@ -30,8 +30,10 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Growth Good
 
-* Economic liberalization and growth [are good for the environment](why-capitalism.md#environment).
+* Happiness has been **shown to increase with GDP per capita, at least up to a level of $15,000 per person**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/pa590.pdf)\)
+* When looking at 24 countries that experienced growth, this found that in 18 cases, **poverty was alleviated**. \([Overseas Development Institute](https://cdn.odi.org/media/documents/7121.pdf)\)
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
+* Economic liberalization and growth are [good for the environment](why-capitalism.md#environment). 
 
 ## Poverty
 
@@ -70,6 +72,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Environment
 
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
+* Private property rights **hold the key to pollution prevention and sustainabel resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\) 
 * Both capitalism and democracy **appear to decrease emissions levels per dollar value of GDP**. \([Michael D. Stroup](https://web.archive.org/web/20100710113229/http://www.cob.sfasu.edu/mstroup/Pollution_10_15.pdf)\)
 * Openness to trade and investment promotes development and higher incomes, which **enable less-developed countries to raise their labor and environmental standards**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/tpa-015b.pdf)\)
 * In the absence of well defined, transparent and freely traded water rights, markets may **encourage higher use rather than conservation of water**. \([Water Policy](https://0x0.la/u/o2GdBOM.pdf)\)
