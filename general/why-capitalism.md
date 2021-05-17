@@ -27,7 +27,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
 
-## Growth Good, Degrowth Bad
+## Growth Good
 
 * Economic liberalization and growth [are good for the environment](why-capitalism.md#environment).
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
@@ -61,7 +61,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Health
 
-*  privatization is associated with significant reductions in deaths from infectious and parasitic disea
+* Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)  \)
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)  \)
 * Death from unsafe water is **decreasing**. \([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart&country=~OWID_WRL)\)
 * **Only 3.91%** of the population dies in the first five years of their life. \([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=~OWID_WRL)\)
@@ -69,6 +69,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Environment
 
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
+* In the absence of well defined, transparent and freely traded water rights, markets may **encourage higher use rather than conservation of water**. \([Water Policy](https://0x0.la/u/o2GdBOM.pdf)\)
 * A legal regime based on strict private property rights **solves environmental problems and minimizes conflict in the coordination of plans**. \([The Quarterly Journal of Austrian Economics](https://cdn.mises.org/qjae16_1_3.pdf)\)
 * Globalization might also have positive environmental effects because global ties **increase self-regulation pressures on firms in low-regulation countries**. \([Journal of International Business Studies](https://0x0.la/u/qg7slMY.pdf)  \)
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
