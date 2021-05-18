@@ -71,6 +71,10 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Environment
 
+We have been an ecologically destructive species, it [has nothing to do with western culture or capitalism](https://www.allmystery.de/dateien/mg31710,1212802590,03penn.pdf).
+
+We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral_Sea) anyway.
+
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
 * Private property rights **hold the key to pollution prevention and sustainabel resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\) 
 * Both capitalism and democracy **appear to decrease emissions levels per dollar value of GDP**. \([Michael D. Stroup](https://web.archive.org/web/20100710113229/http://www.cob.sfasu.edu/mstroup/Pollution_10_15.pdf)\)
