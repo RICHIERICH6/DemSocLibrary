@@ -28,8 +28,9 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
 
-## Growth Good
+## Degrowth Bad
 
+* A literature review of 37 studies finds that **worse infectious disease outcomes during recession, often resulting from higher rates of infectious contact under poorer living circumstances, worsened access to therapy, or poorer retention in treatment**. \([PLOS](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0020724&type=printable)\)
 * Happiness has been **shown to increase with GDP per capita, at least up to a level of $15,000 per person**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/pa590.pdf)\)
 * When looking at 24 countries that experienced growth, this found that in 18 cases, **poverty was alleviated**. \([Overseas Development Institute](https://cdn.odi.org/media/documents/7121.pdf)\)
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
@@ -76,7 +77,8 @@ We have been an ecologically destructive species, it [has nothing to do with wes
 We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral_Sea) anyway.
 
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
-* Private property rights **hold the key to pollution prevention and sustainabel resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\) 
+* Private property rights **hold the key to pollution prevention and sustainable resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\)
+* The effects of market-based policies on environmental quality are **expected to be unambiguously positive**. \([PERC](https://www.perc.org/2002/12/01/the-environmental-kuznets-curve/)\) 
 * Both capitalism and democracy **appear to decrease emissions levels per dollar value of GDP**. \([Michael D. Stroup](https://web.archive.org/web/20100710113229/http://www.cob.sfasu.edu/mstroup/Pollution_10_15.pdf)\)
 * Openness to trade and investment promotes development and higher incomes, which **enable less-developed countries to raise their labor and environmental standards**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/tpa-015b.pdf)\)
 * In the absence of well defined, transparent and freely traded water rights, markets may **encourage higher use rather than conservation of water**. \([Water Policy](https://0x0.la/u/o2GdBOM.pdf)\)
@@ -105,13 +107,17 @@ the basic idea of the environmental kuznets curve is:
 * When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. \([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf)\)
 * The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. \([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf)\)
 * When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. \([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf)\)
+* Economic growth brings an initial phase of deterioration **followed by a subsequent phase of improvement**. \([The Quarterly Journal of Economics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.865.6207&rep=rep1&type=pdf)\)
+* Pro-growth policies can **offset the negative impact of mitigation policies aimed at limiting global warming to 2°C with 50% probability**. \([OECD](https://read.oecd.org/10.1787/9789264273528-en?format=pdf)\)
 * In the rich countries, affluence and technology worsened environmental quality, but eventually **they provided the methods and means for cleaning up the environment**. Even developing countries have **gone through their environmental transitions for access to safer water and sanitation, and leaded gasoline**. \([The Electronic Journal of Sustainable Development](http://goklany.org/library/EJSD%202009.pdf)\)
-* When income rises, pollution **starts to decline**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330027157)\) 
+* When income rises, pollution **starts to decline**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330027157)\)
+* The transition to a modern energy system **can occur without sacrificing growth**. \([Brookings](https://www.brookings.edu/research/growth-carbon-and-trump-state-progress-and-drift-on-economic-growth-and-emissions-decoupling/)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
 ## Democracy & Conflict
 
 * Democracy **is rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\)
+* Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  \)
 * NAFTA may have **made Mexico more democratic**. \([Pablo Calderon Martinez  ](https://files.catbox.moe/ghvwcx.pdf)\) 
 * There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
