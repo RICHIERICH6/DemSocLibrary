@@ -11,6 +11,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://mpra.ub.uni-muenchen.de/82641/1/MPRA_paper_82641.pdf)\)
+* Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/article/globalisation-and-state-capitalism)\)
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
