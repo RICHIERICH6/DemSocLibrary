@@ -32,7 +32,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * A literature review of 37 studies finds that **worse infectious disease outcomes during recession, often resulting from higher rates of infectious contact under poorer living circumstances, worsened access to therapy, or poorer retention in treatment**. \([PLOS](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0020724&type=printable)\)
 * Happiness has been **shown to increase with GDP per capita, at least up to a level of $15,000 per person**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/pa590.pdf)\)
-* When looking at 24 countries that experienced growth, this found that in 18 cases, **poverty was alleviated**. \([Overseas Development Institute](https://cdn.odi.org/media/documents/7121.pdf)\)
+* Economies that are home to the poorest billions of people **need to grow if we want global poverty to decline substantially**. \([Our World In Data](https://ourworldindata.org/poverty-minimum-growth-needed)\)
+  * When looking at 24 countries that experienced growth, this found that in 18 cases, **poverty was alleviated**. \([Overseas Development Institute](https://cdn.odi.org/media/documents/7121.pdf)\)
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
 * Economic liberalization and growth are [good for the environment](why-capitalism.md#environment). 
 
@@ -102,8 +103,7 @@ the basic idea of the environmental kuznets curve is:
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  \([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf)\)
-* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level   \(turning point\), but **thereafter decreases despite further economic growth**. \([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)\)
-* When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\)
+* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level   \(turning point\), but **thereafter decreases despite further economic growth**. \([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)\) When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\)
 * When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. \([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf)\)
 * The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. \([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf)\)
 * When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. \([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf)\)
