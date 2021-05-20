@@ -8,7 +8,7 @@
 
 * Global open borders **would increase GWP by 67% to 147%, literally doubling the world GDP**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.83#page=3)\)
 * Legalizing undocumented immigrants **would increase US GDP by $1.4t**. \([Center for American Progress](https://cdn.americanprogress.org/wp-content/uploads/2013/03/EconomicEffectsCitizenship-1.pdf#page=3)\)
-* Greater openness to low-skilled immigration in developed countries **could massively reduce global income inequality**. \([The Economic Journal](https://img.fireden.net/tg/image/1491/11/1491112122209.pdf)\)
+* Greater openness to low-skilled immigration in developed countries **could massively reduce global income inequality**. \([The Economic Journal](https://0x0.la/u/hm0UgEC.pdf)\)
   * Global inequality in 21st century is **overwhelmingly driven by location not class**. \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/12117/wps6259.pdf#page=20)\)
 * States with more foreign-born workers **experience faster productivity growth**. \([Review of Economics and Statistics](https://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00137)\)
 * Immigration **increases the rates of innovation, output per worker, and GDP per capita**. \([Citigroup](https://0x0.la/u/I2nyFQ8.pdf#page=12)\)
