@@ -1,4 +1,4 @@
-# Codetermination
+# Employment Protection Legislation
 
 ## Economy and Efficiency
 
