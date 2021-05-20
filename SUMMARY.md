@@ -11,7 +11,7 @@
 
 * [Capitalism](general/why-capitalism.md)
 * [Economic Inequality](general/untitled.md)
-* [Welfare](general/untitled-1.md)
+* [Safety Net](general/untitled-1.md)
 * [Employment Protection Legislation & Codetermination](general/untitled-2.md)
 * [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
