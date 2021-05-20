@@ -2,7 +2,7 @@
 
 ## Economy and Efficiency
 
-* A Meta-analysis of 75 studies finds that **employment protection legislation estimated impact on employmet is near-zero impact**. \([Oxford Economic Papers](https://0x0.la/u/gLZR4wr.pdf)\)
+* A meta-analysis of 75 studies finds that **employment protection legislation estimated impact on employmet is near-zero impact**. \([Oxford Economic Papers](https://0x0.la/u/gLZR4wr.pdf)\)
 * Codetermination **leads to higher income equality**. \([Felix Hörisch](https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4)\)
   * Right to work laws increase **economic inequality indirectly by lowering labor power resources**. \([American Journal of Sociology](https://sci-hub.se/downloads/2020-05-23/40/10.1086@708067.pdf)\)
 * Codetermination **increases efficiency, skill development, and knowledge generation**. \([Journal of Economic Behavior and Organization](https://zero.sci-hub.se/1613/810d0c9b499b59f68878c77877f45ecb/smith1991.pdf)\)
