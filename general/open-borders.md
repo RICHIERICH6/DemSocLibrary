@@ -15,7 +15,7 @@
   * H1B visas **increase innovation rates**. \([Journal of Labor Economics](https://www.nber.org/system/files/working_papers/w15768/w15768.pdf#page=35)\)
 * Immigrants are **almost twice as likely to become entrepreneurs**. \([Kauffman Foundation](https://www.kauffman.org/wp-content/uploads/2019/12/the_economic_case_for_welcoming_immigrant_entrepreneurs_updated_september_2015.pdf)\)
 * High skilled immigration **boosts innovation and productivity outcomes**. \([Harvard Business School](https://dash.harvard.edu/bitstream/handle/1/32062563/kerr%2ckerr%2cozden%2cparsons_high-skilled-migration.pdf)\)
-* Immigration **reduces housing prices**. \([Institute of Labor Economics](https://www.econstor.eu/bitstream/10419/51818/1/669982121.pdf)\)
+* Immigration **reduces housing prices**. \([The Economic Journal](https://sci-hub.se/10.1111/ecoj.12158)\)
 
 ## Fiscal
 
