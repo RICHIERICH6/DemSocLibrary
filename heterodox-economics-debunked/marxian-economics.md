@@ -12,8 +12,10 @@
 * A secular declining trend in the rate of profit **cannot be confirmed**. \([Themistoklis Kalogerakos](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=4648167&fileOId=4648170)\)
 * The results for this nonlinear approach reinforce previous empirical evidence that **does not provide support for a systematic and declining tendency in profit rate as advanced in the Marxian literature**.  \([Applied Economic Letters](https://zero.sci-hub.se/6604/402f0f64e1d2c69fc55a15045f24b6d2/resende2017.pdf)\)
 * A large increase in the share of pure profits **offsets declines in the shares of both labor and capital**. \([The Journal of Finance\)](https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.12909)
-* After-tax corporate profits are rising. \([Yardeni](https://www.yardeni.com/pub/sp500marginnipa.pdf)\)
+* After-tax corporate profits **are rising**. \([Yardeni](https://www.yardeni.com/pub/sp500marginnipa.pdf)\)
 * Government data **finds increasing profitability for corporations**. \([The Guardian](https://www.theguardian.com/business/2014/nov/14/uk-companies-most-profitable-since-1998)\) \([Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/bulletins/profitabilityofukcompanies/apriltojune2018)\)
+
+Let's say that the rate of profit is falling, what does that mean? It doesn't necessary follow that this would result in the demise of political economy/capitalism, as we can see [here](../general/why-capitalism.md#economic-performance), the rate of crises and volatility have fallen to stable levels.
 
 
 
