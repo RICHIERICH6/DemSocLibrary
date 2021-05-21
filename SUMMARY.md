@@ -15,6 +15,7 @@
 * [Employment Protection Legislation & Codetermination](general/untitled-2.md)
 * [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
+* [Public Housing](general/public-housing.md)
 * [Public Education](general/untitled-5.md)
 * [Zoning Reform](general/zoning-reform.md)
 * [Open Borders](general/open-borders.md)
@@ -70,7 +71,6 @@
 
 ---
 
-* [Public Housing](public-housing.md)
 * [Trump Bad](trump-bad.md)
 * [Conservatives = Stupid](conservatives-stupid.md)
 
