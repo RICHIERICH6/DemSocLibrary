@@ -27,7 +27,7 @@
 
 ---
 
-* [Why Democracy?](why-democracy.md)
+* [Democracy](why-democracy.md)
 * [Restorative Justice](restorative-justice.md)
 * [Drug Legalization](drug-legalization.md)
 * [Systemic Racism](systemic-racism.md)
