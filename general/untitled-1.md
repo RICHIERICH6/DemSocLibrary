@@ -1,4 +1,4 @@
-# Safety Net
+# Social Safety Net
 
 ## Economy
 
