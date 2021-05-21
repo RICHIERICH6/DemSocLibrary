@@ -179,7 +179,7 @@ But even then, this [study](https://www.hoplofobia.info/wp-content/uploads/2018/
 
 ### Claim: "If the Jews had guns during the holocaust, the Nazis would've lost!"
 
-Just [no](https://rentry.co/naziguncontrolargument/pdf).
+[No](https://www.politifact.com/factchecks/2019/apr/08/viral-image/no-gun-control-regulation-nazi-germany-did-not-hel/).
 
 ### Claim: "John Lott proved that more guns means less crime in his book!"
 

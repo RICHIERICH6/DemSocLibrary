@@ -2,7 +2,7 @@
 description: 'Democracy is the worst system, except for all the others.'
 ---
 
-# Why Democracy?
+# Democracy
 
 ## Efficiency
 
