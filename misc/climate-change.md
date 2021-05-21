@@ -2,5 +2,5 @@
 
 ## Consensus
 
-* 100% of climatologist abstracts **support anthropogenic Climate Change**. \([Bulletin of Science, Technology & Society](https://sci-hub.st/downloads/2019-11-25/f3/powell2019.pdf)\)
+* **Nearly all actively publishing climate scientists** **support the idea of anthropogenic climate change**. \([Wikipedia](https://en.wikipedia.org/wiki/Scientific_consensus_on_climate_change)\)
 
