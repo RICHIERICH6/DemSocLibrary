@@ -73,4 +73,5 @@
 
 * [Trump Bad](trump-bad.md)
 * [Conservatives = Stupid](conservatives-stupid.md)
+* [Uyghur Genocide](uyghur-genocide.md)
 
