@@ -115,12 +115,17 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * The transition to a modern energy system **can occur without sacrificing growth**. \([Brookings](https://www.brookings.edu/research/growth-carbon-and-trump-state-progress-and-drift-on-economic-growth-and-emissions-decoupling/)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
-## Human Rights & Conflict
+## HumanRights
 
+* Using data from 117 countries over the period 1981 to 2006, this finds reforms toward more competitive markets **lead to fewer human rights violations and increase government’s respect for human rights**. \([Public Choice](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs11127-011-9847-2)\)
 * Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  \)
 * There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
-* Democracy is **rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\) 
+* Democracy is **rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\)
+
+### No, America Isn't an Plutocracy
+
+Socialism Done Left summarizes it [here ](https://www.youtube.com/watch?v=CuMgcE7Gl5w&t=41s)pretty well. America is a flawed democracy, namely due to the electoral college, voter suppression, and gerrymandering, but it is not a plutocracy.
 
