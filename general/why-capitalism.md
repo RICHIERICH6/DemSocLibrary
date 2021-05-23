@@ -97,13 +97,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
   * NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
 
-### **Eco-Kuznets Curve**
-
-the basic idea of the environmental kuznets curve is:
-
-> a\) a country goes through economic development which leads to harms on the environment short-term
->
-> b\) a higher standard of living is achieved and a demand for a healthy environment and the conservation of nature arise and cleaner technology is affordable, which leads to a cleaner environment.
+### Kuznets Curve
 
 * A meta-analysis of 101 studies finds **support for the EKC**. \([Environmental Impact Assessment Review](https://0x0.la/u/ODATMng.pdf)\)
 * A meta-analysis of 69 studies finds that the EKC model **will not fade until a theoretical alternative model is provided**. \([Ecological Economics](https://0x0.la/u/vv3hHWs.pdf)\)
