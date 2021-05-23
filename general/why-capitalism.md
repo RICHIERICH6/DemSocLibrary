@@ -15,6 +15,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://sci-hub.st/10.1016/j.ribaf.2017.07.148)\)
 * Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/article/globalisation-and-state-capitalism)\)
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
+* Privatization has **almost always caused an increase in investment and innovation**. \([Fordham Law Review](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d)\)
 * Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
 * Since 1984, the U.S. economy has **grown at a remarkably steady pace**. \([Current Issues in Economics and Finance](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci5-13.pdf)\)
@@ -101,6 +102,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
   * Foreign trade was **beneficial for Morocco's environment**. \([Ecological Indicators](https://0x0.la/u/PWbsRzT.pdf)\) 
   * NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
+* Property rights and markets **account for the rapid elephant population growth in Zimbabwe and Botswana**. \([Terry H. Anderson](https://cloudflare-ipfs.com/ipfs/bafykbzacebtqozjuplbkiaqhqyw22xvpwb43rnrmkxzurcqspl2vfdsfnmnii?filename=Terry%20L.%20Anderson%2C%20Donald%20R.%20Leal%20%28auth.%29%20-%20Free%20Market%20Environmentalism-Palgrave%20Macmillan%20US%20%282001%29.pdf#page=74)\)
 
 ### Environmental Kuznets Curve
 
