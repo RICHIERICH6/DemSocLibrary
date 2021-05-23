@@ -67,11 +67,11 @@
 * [Democrats Stay Winning](misc/democrats-stay-winning.md)
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
+* [Holocaust Denial](misc/holocaust-denial.md)
 * [Holodomor Genocide Question](misc/holodomor-genocide-question.md)
 
 ---
 
 * [Trump Bad](trump-bad.md)
 * [Conservatives = Stupid](conservatives-stupid.md)
-* [Holocaust Denial](holocaust-denial.md)
 
