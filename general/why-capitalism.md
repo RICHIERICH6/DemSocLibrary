@@ -69,8 +69,14 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)  \)
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)  \)
+* Institutions of liberal democracy and free markets **are vital for the pursuit of happiness**. \([Center for the Study of Public Choice and Private Enterprise](https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/30586/)\)
+  * Results from a panel of 86 countries over the 1990–2005 period **suggest that overall     economic freedom has a significant positive effect on subjective well-being**. [\(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003)\)
+  * There is a **positive relationship between national levels of happiness and economic freedom**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2011/5/cj31n2-4.pdf#page=17)\)
+  * Economic freedom **leads to happiness**, **especially for those in conditions of poverty and low capability**. \([Ruut Veenhoven](https://core.ac.uk/download/pdf/18509341.pdf)    \)
+  * People in countries that respect private property rights and allow a higher level of      economic freedom **are better able to satisfy human desires**. \([Mercatus](https://www.mercatus.org/system/files/Private-Property-Rights-Economic-Freedom-and-Well-Being.pdf)\)
+  * There seems to be **positive effects of low regulation and pro-market attitudes on life satisfaction, funnily enough**, people who are opposed to market-oriented policies **sometimes benefit most from deregulation**. \([Applied Economics Letters](https://sci-hub.se/10.1080/13504851.2012.762709)\)
 * Death from unsafe water is **decreasing**. \([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart&country=~OWID_WRL)\)
-* **Only 3.91%** of the population dies in the first five years of their life. \([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=~OWID_WRL)\)
+* **Only 3.91%** of the population **dies in the first five years of their life**. \([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=~OWID_WRL)\)
 
 ## Environment
 
@@ -117,11 +123,11 @@ the basic idea of the environmental kuznets curve is:
 
 ## Democracy & Conflict
 
-* Democracy **is rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\)
 * Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  \)
 * NAFTA may have **made Mexico more democratic**. \([Pablo Calderon Martinez  ](https://files.catbox.moe/ghvwcx.pdf)\) 
 * There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
+* Democracy is **rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\) 
 
