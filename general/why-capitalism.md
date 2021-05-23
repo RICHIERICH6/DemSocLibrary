@@ -4,11 +4,10 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 # Capitalism
 
-## [todo](https://www.fraserinstitute.org/economic-freedom/citations)
-
 ## Economic Performance
 
 * A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. \([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf)\)
+  * A meta-analysis of 45 studies finds a **direct positive association between economic freedom and growth**. \([European Journal of Political Economy](https://sci-hub.st/10.1016/j.ejpoleco.2005.06.003)\)
 * Private ownership ****should **generally be preferred to public ownership when the incentives to innovate and to contain costs must be strong**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.4.133)\)
 * Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
@@ -48,6 +47,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
 * Economic freedom is **associated with a higher share of labor income**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2015/2/cj-v35n1-5.pdf)\)
+* Free market policies, supported but not encumbered by the government, **deliver growth and prosperity**. \([Journal of Economic Literature](https://dash.harvard.edu/bitstream/handle/1/41555812/46347%20friedmancontroversy.pdf?sequence=1)\)
+* Property rights and economic freedom **substantially reduce poverty and enhance economic development**. \([Eastern Economic Journal](https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf)\)
 * American poverty is **dropping**. \([United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-272.pdf#page=6)\) 
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
 * Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
