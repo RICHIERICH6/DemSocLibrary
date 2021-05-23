@@ -4,6 +4,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 # Capitalism
 
+## [todo](https://www.fraserinstitute.org/economic-freedom/citations)
+
 ## Economic Performance
 
 * A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. \([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf)\)
@@ -44,6 +46,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Even with COVID-19, poverty **will still drop**. \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34496/9781464816024.pdf#page=58)\)
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
+* Economic freedom is **associated with a higher share of labor income**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2015/2/cj-v35n1-5.pdf)\)
 * American poverty is **dropping**. \([United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-272.pdf#page=6)\) 
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
 * Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
@@ -68,6 +71,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ## Health
 
 * Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)  \)
+* People in the most economically free nations **live 16 years longer**. \([Acton](https://www.acton.org/publications/transatlantic/2017/10/03/6-ways-economic-freedom-benefits-global-poor)\)
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)  \)
 * Institutions of liberal democracy and free markets **are vital for the pursuit of happiness**. \([Center for the Study of Public Choice and Private Enterprise](https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/30586/)\)
   * Results from a panel of 86 countries over the 1990–2005 period **suggest that overall     economic freedom has a significant positive effect on subjective well-being**. [\(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003)\)
@@ -84,6 +88,7 @@ We have been an ecologically destructive species, it [has nothing to do with wes
 
 We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral_Sea) anyway.
 
+* A permanent one-point increase in economic freedom **results in a 7.15% decrease concentrations of fine particulate matter in the long-run**. \([Fraser Institute](https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf#page=6)\)
 * The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)  \)
 * Private property rights **hold the key to pollution prevention and sustainable resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\)
 * The effects of market-based policies on environmental quality are **expected to be unambiguously positive**. \([PERC](https://www.perc.org/2002/12/01/the-environmental-kuznets-curve/)\) 
@@ -118,12 +123,13 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 ## Human Rights
 
 * Using data from 117 countries over the period 1981 to 2006, this finds reforms toward more competitive markets **lead to fewer human rights violations and increase government’s respect for human rights**. \([Public Choice](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs11127-011-9847-2)\)
+* Regression analysis of up to 65 countries reveals that economic freedom is **positively related to tolerance towards homosexuals, especially in the longer run**. \([Kyklos](https://sci-hub.st/10.1111/kykl.12017)\)
+  * In economically freer countries with a strong rule of law, people **tend to be more trusting and tolerant towards gay people and people of another race**. \([Fraser Institute](https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf)\)
 * Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  \)
 * There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
-* Democracy is **rising**. \([Our World In Data](https://ourworldindata.org/grapher/numbers-of-autocracies-and-democracies?country=~OWID_WRL)\)
 
 ### No, America Isn't an Plutocracy
 
