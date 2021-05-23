@@ -118,10 +118,12 @@
   * The USSR had **increasingly unequal healthcare**. \([The Journal of Medical Practice Management](https://0x0.la/u/xeDYQGi.pdf#page=4)\)
 * Agricultural employment **decreased from 54% to 19%**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/agriculture1996.pdf#page=16)\)
 * Soviet standard of living **decreased post-Industrialisation**. \([Europe-Asia Studies](https://zero.sci-hub.se/4242/67100dbe8df0ee83de5b258d91a9252e/filtzer1999.pdf)\)
+* The vast majority of domestic Soviet food consumption **didn't come from the collectivized farms but from the tiny amount of private plots they left alone**. \([Nikolai Shmelev](https://0x0.la/u/GVzSooX.pdf#page=84)\)
 * The Soviet Union is the world's largest producer of cow's milk, but **only 60% of the protein in this milk is consumed directly by humans**. The fraction that is lost is **equivalent to 65% of the value of the total protein in all meats of all types that Russians consume**. The comparable fraction of protein in US-produced milk that is consumed by humans is over 90%. Also, although the USSR is obviously a great milk-producing nation, it converts **only about 7% of its milk to hard, whole-milk chees**e. The comparable figure for the European Economic Community \(EEC\) **is 24%**. \([U.S. Department of Agriculture](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf)\) 
 * Soviet diets were **lesser quality than the US**. \([Nintil](https://nintil.com/the-soviet-union-food/)\)
   * In the USSR, **93% of men were Vitamin C deficient**, while in neighbouring Finland this was 2%\([European Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/8641247/)    \)
-* About **40% of the population was impoverished** in 1984. the Soviet standard of living was **one-third the American level**, and somewhat **less than half the level of France and West Germany**. ****\([National Council For Soviet And East European Research](https://www.ucis.pitt.edu/nceeer/1984-629-2-Johnson.pdf)\) 
+* **About 23%** of the population **was impoverished**, and **60% of housing respondents** thought that their **space was rather inadequate or grossly inadequate**. \([Nintil](https://nintil.com/the-soviet-union-poverty-and-inequality)\)
+* **90%** of all Soviet technology **was of Western origin**. \([FEE](https://0x0.la/u/XnYmAZ0.pdf)\)
 
 ## Maoist China
 
@@ -211,10 +213,10 @@
 
 ### Other
 
-* Cuba [isn't even socialist lol](https://www.bbc.com/news/world-latin-america-55967709?).
 * US economic sanctions with respect to Cuba generally **had a minimal overall historical impact on the   Cuban economy**. \([CUBA In Transition](https://ascecuba.org//c/wp-content/uploads/2014/09/v11-coleman.pdf)\)
 * All indications are that Cuba **was once a prosperous middle-income economy**, after the revolution, **Cuba has slipped down the world income distribution**. As best we can tell, **current levels of income per capita are below their pre-revolutionary peaks**. \([The Journal of Economic History](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.8045&rep=rep1&type=pdf)\)
   * Cuban gross national income had **fallen almost two-thirds relative to Puerto Rico by 2000**. \([The Council of Economic Advisers](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf#page=18)    \) 
+* **Almost 70%** of Cubans **do not have a permanent water supply**: **32%** **have water between four and 5 days**, **28% have it fewer than 3 days and 8.1% do not have any drinking water service**, **six out of ten citizens have suffered up to ten power cuts in recent months while 18.8% have suffered more than ten**. \([Translating Cuba](https://translatingcuba.com/more-than-half-of-cuban-households-live-below-the-poverty-line-human-rights-group-reports/)\)
 * When about 70 percent of farmland was nationalized, **production of livestock fell between 14 percent \(fish\) and 84 percent \(pork\)**, among the major crops, **production fell between 5 percent \(rice\) and 75 percent \(malanga\)**, they avoided a famine **because of Soviet assistance and emigration**. \([The Council of Economic Advisers](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf#page=18)  \)
 * Cuba’s health system is **hardly an example of a system to follow**. \([Health Policy and Planning](https://academic.oup.com/heapol/article-pdf/33/6/760/25050755/czy035.pdf)\)
   * Health policies in Cuba in the past half century have been implemented with **limited concern for civil liberties and certain human rights**. **Such as persecution of Cuban analysts who questioned the official version of the socioeconomic situation of prerevolutionary Cuba**, including the health state of affairs, the **harassment and segregation of gays and people living with HIV, the violation of labor rights of Cuban physicians working in international missions**. \([Health Systems & Reform](https://www.tandfonline.com/doi/pdf/10.1080/23288604.2018.1446275)\)
