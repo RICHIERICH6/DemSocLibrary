@@ -30,6 +30,10 @@ description: 'Capitalism is the worst system, except for all the others.'
   * IMF programs **can reduce the effects of a currency crisis**. \([World Development](https://zero.sci-hub.se/1366/3c5b20687e86ca423fd37d3244654e78/dreher2010.pdf)\)
 * Economists have done extensive research on the impact of trade on growth and real income worldwide and the **data has shown a large impact on real income growth and this has been verified**. \([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)\) \([Journal of International Economics  ](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf)\)
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
+* Economic liberalization could **reduce inequality by ≈2%–6%**. \([Economies](https://pdfs.semanticscholar.org/2a5f/691f35f70aba17447e553e8c7bd2034d497c.pdf#page=16)\)
+  * Economic freedom has a **negative impact on income inequality**. \([Contemporary Economic Policy](https://intel-writers.com/wp-content/uploads/2019/11/Economic-Freedom-and-Inequality-Revisted-on-Policy-Formulation.pdf)\)
+  * An increase of 1 unit in economic freedom **reduces income inequality by 0.184**. \([Financial Theory and Practice](http://fintp.ijf.hr/upload/files/ftp/2015/4/apergis.pdf)\)
+* Increases in economic freedom **result in a higher degree of upward social mobility from the bottom-most income classes**. \([The Division of Undergraduate Studies](https://fsu.digital.flvc.org/islandora/object/fsu%3A204636/datastream/PDF/view)\)
 
 ## Degrowth Bad
 
