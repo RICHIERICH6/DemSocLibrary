@@ -115,7 +115,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * The transition to a modern energy system **can occur without sacrificing growth**. \([Brookings](https://www.brookings.edu/research/growth-carbon-and-trump-state-progress-and-drift-on-economic-growth-and-emissions-decoupling/)\) 
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies**  . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
-## HumanRights
+## Human Rights
 
 * Using data from 117 countries over the period 1981 to 2006, this finds reforms toward more competitive markets **lead to fewer human rights violations and increase government’s respect for human rights**. \([Public Choice](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs11127-011-9847-2)\)
 * Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)  \)
