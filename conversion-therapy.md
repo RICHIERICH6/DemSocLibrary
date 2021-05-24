@@ -2,7 +2,7 @@
 
 ## Consensus
 
-* Over 40+ health organizations **oppose conversion therapy**. \([Florence Ashley](https://medium.com/@florence.ashley/list-of-professional-organisations-opposing-conversion-or-reparative-therapy-targeting-transgender-f700b4e02c4e)\)
+* **Over 40+** health organizations **oppose conversion therapy**. \([Florence Ashley](https://medium.com/@florence.ashley/list-of-professional-organisations-opposing-conversion-or-reparative-therapy-targeting-transgender-f700b4e02c4e)\)
 
 ## Ineffectiveness
 
