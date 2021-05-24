@@ -12,7 +12,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://sci-hub.st/10.1016/j.ribaf.2017.07.148)\)
-* Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/article/globalisation-and-state-capitalism)\)
+* Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/print/64176#)\)
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Privatization has **almost always caused an increase in investment and innovation**. \([Fordham Law Review](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d)\)
 * Increases in physical and human capital lead to output growth **only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\)
@@ -55,7 +55,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Property rights and economic freedom **substantially reduce poverty and enhance economic development**. \([Eastern Economic Journal](https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf)\)
 * American poverty is **dropping**. \([United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-272.pdf#page=6)\) 
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
-* Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/article/revisiting-poverty-reduction-india-60-years-data)\)
+* Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. \([VoxEU](https://voxeu.org/print/60301)\)
   * If economic liberalization had happened in 1971 instead of 1991, an **extra 135 million people would've been lifted out of poverty**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7)\)
 * Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
 * AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\) 
