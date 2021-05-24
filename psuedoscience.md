@@ -8,5 +8,5 @@ Let's say I have a theory, let's call it rainbowism. We want to create a rainbow
 
 ## Claim: "Grover Furr proved Stalin didn't do anything wrong!"
 
-Grover, for all intents and purposes, is a **pseudo-historian to the likes of David Irvings**. Not even legitimate Marxist-Leninist historians take him seriously.
+Grover, for all intents and purposes, is a **pseudo-historian to the likes of David Irvings and other neo-Nazi historians.**
 
