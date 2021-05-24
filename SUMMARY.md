@@ -38,8 +38,8 @@
 ---
 
 * [Gender & Sex](gender-and-sex.md)
-* [Trans](untitled-1.md)
-* [Detransitioning](detransitioning.md)
+* [Trans](untitled-1/README.md)
+  * [Detransitioning](untitled-1/detransitioning.md)
 * [Conversion Therapy](conversion-therapy.md)
 * [LGBTQ+ aren't Pedophiles](lgbtq+-pedophiles.md)
 
