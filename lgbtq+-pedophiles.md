@@ -10,6 +10,7 @@
 * In 269 cases of child molestation, **two offenders were identified as being gay or lesbian**. \([Pediatrics](https://pediatrics.aappublications.org/content/94/1/41)\)
 * Gay males were **no more sexually aroused by pictures of young boys than straight males were aroused by pictures of young girls**. \([Journal of Consulting and Clinical Psychology](https://dacemirror.sci-hub.st/journal-article/818283806aa95fb243b9a1badbbaebc0/freund1989.pdf)\)
 *  The adult heterosexual male **constitutes a greater risk to the underage child than does the adult homosexual male**. \([Archives of Sexual Behavior](https://zero.sci-hub.se/650/86b797f086fe846a581e52716b2cda0c/groth1978.pdf)\)
+* Ironically, stigmatisation of homosexuality is **likely inhibitory to attempts to prevent child molestation**. \([Journal of Child Psychology and Psychiatry](https://sci-hub.st/10.1111/j.1469-7610.1992.tb00862.x)\)
 
 
 
