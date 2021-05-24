@@ -52,6 +52,7 @@ description: 'Capitalism is the worst system, except for all the others.'
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
 * Economic freedom is **associated with a higher share of labor income**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2015/2/cj-v35n1-5.pdf)\)
 * Free market policies, supported but not encumbered by the government, **deliver growth and prosperity**. \([Journal of Economic Literature](https://dash.harvard.edu/bitstream/handle/1/41555812/46347%20friedmancontroversy.pdf?sequence=1)\)
+* Economic freedom is **decreasing poverty in developing countries**. \([Kevser Kantar](http://dosya.kmu.edu.tr/sbe/userfiles/file/tezler/iktisat/kevserkantar.pdf)\)
 * Property rights and economic freedom **substantially reduce poverty and enhance economic development**. \([Eastern Economic Journal](https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf)\)
 * American poverty is **dropping**. \([United States Census Bureau](https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-272.pdf#page=6)\) 
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. \([Quartz](https://theatlas.com/charts/S1Zc8-cLX)\)
