@@ -58,7 +58,7 @@
 * [Venezuela](venezuela.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
-* [Psuedoscience](psuedoscience.md)
+* [Counteraguments](psuedoscience.md)
 
 ## Misc
 

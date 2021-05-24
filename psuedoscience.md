@@ -1,4 +1,4 @@
-# Psuedoscience
+# Counteraguments
 
 ## Claim: "That wasn't real socialism!"
 
