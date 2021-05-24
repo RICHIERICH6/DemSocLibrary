@@ -51,6 +51,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Poverty, no matter what threshold, **has declined**. \([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4)\)
   * No, this **isn't just because of China**. \([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png)\)
 * Economic freedom is **associated with a higher share of labor income**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2015/2/cj-v35n1-5.pdf)\)
+* Increases in economic freedom **correspond to larger reductions of the extreme poverty rate**. \([Wake Forest Economics Department](https://myweb.fsu.edu/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf)\)
 * Free market policies, supported but not encumbered by the government, **deliver growth and prosperity**. \([Journal of Economic Literature](https://dash.harvard.edu/bitstream/handle/1/41555812/46347%20friedmancontroversy.pdf?sequence=1)\)
 * Economic freedom is **decreasing poverty in developing countries**. \([Kevser Kantar](http://dosya.kmu.edu.tr/sbe/userfiles/file/tezler/iktisat/kevserkantar.pdf)\)
 * Property rights and economic freedom **substantially reduce poverty and enhance economic development**. \([Eastern Economic Journal](https://college.holycross.edu/eej/Volume29/V29N1P23_40.pdf)\)
@@ -108,7 +109,6 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
   * Foreign trade was **beneficial for Morocco's environment**. \([Ecological Indicators](https://0x0.la/u/PWbsRzT.pdf)\) 
   * NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\) 
 * Earth has **more trees than it did 35 years ago. \(**[Nature](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6366331/pdf/nihms-1515534.pdf)**\)**
-* Property rights and markets **account for the rapid elephant population growth in Zimbabwe and Botswana**. \([Terry H. Anderson](https://cloudflare-ipfs.com/ipfs/bafykbzacebtqozjuplbkiaqhqyw22xvpwb43rnrmkxzurcqspl2vfdsfnmnii?filename=Terry%20L.%20Anderson%2C%20Donald%20R.%20Leal%20%28auth.%29%20-%20Free%20Market%20Environmentalism-Palgrave%20Macmillan%20US%20%282001%29.pdf#page=74)\)
 
 ### Environmental Kuznets Curve
 
@@ -130,6 +130,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 
 ## Human Rights
 
+* The Hayek–Friedman hypothesis **holds up fairly well to historical scrutiny**. \([Journal of Economic Behavior & Organization](https://sci-hub.st/10.1016/j.jebo.2010.03.006)\)
 * Using data from 117 countries over the period 1981 to 2006, this finds reforms toward more competitive markets **lead to fewer human rights violations and increase government’s respect for human rights**. \([Public Choice](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs11127-011-9847-2)\)
 * Regression analysis of up to 65 countries reveals that economic freedom is **positively related to tolerance towards homosexuals, especially in the longer run**. \([Kyklos](https://sci-hub.st/10.1111/kykl.12017)\)
   * In economically freer countries with a strong rule of law, people **tend to be more trusting and tolerant towards gay people and people of another race**. \([Fraser Institute](https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf)\)
