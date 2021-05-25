@@ -152,6 +152,12 @@ So what? This sounds like when a conservative argues "He didn't deserve it but..
 
 Just because some of the prisoners may have committed a legitimate crime doesn't excuse the terrible almost slave-tier working conditions these prisoners faced. Remember that 1.6 million people died there, that doesn't even happen in US prisons, assuming the gulag ran for 25 years, that's literally 176 deaths per day.
 
+Andrei Vyshinsky, chief procurator of the Soviet Union, wrote a memorandum to NKVD chief Nikolai Yezhov in 1938 [which stated](https://web.archive.org/web/20090224230330/http://atlasandco.com/images/uploads/samples/pdf/InsideStalinArchives-web.pdf):
+
+> Among the prisoners there are some so ragged and lice-ridden that they pose a sanitary danger to the rest. These prisoners have deteriorated to the point of losing any resemblance to human beings. Lacking food…they collect orts \[refuse\] and, according to some prisoners, eat rats and dogs.
+
+During the Holodomor, [prisoners were getting around 300 calories \(1,300 kJ\) worth of food a day. Many inmates attempted to flee, causing an upsurge in coercive and violent measures. Camps were directed "not to spare bullets"](https://bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm.ipfs.infura-ipfs.io/?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf#page=84).
+
 ## Venezuela
 
 ### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism"
