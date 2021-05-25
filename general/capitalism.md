@@ -44,6 +44,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ### Prices
 
 * A literature review of 100 studies typically **finds cost reductions of 20 percent to 50 percent that resulted from privatization and, more importantly, increased competition**. \([John Hilke](https://reason.org/wp-content/uploads/files/b987e7bd89f4c4e21c8a73857b7001e8.pdf)\)
+* The change from complete state to private ownership in the long run would **lower costs by 1.7 to 1.9 percent a year**. \([Journal of Economic Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.199.6795&rep=rep1&type=pdf)\)
 
 ### Inequality
 
