@@ -77,8 +77,6 @@ description: 'Capitalism is the worst system, except for all the others.'
   * If economic liberalization had happened in 1971 instead of 1991, an **extra 135 million people would've been lifted out of poverty**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7)\)
 * Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
 * AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\)
-* Jason Hickel **is an idiot**. \([Noah Smith](https://noahpinion.substack.com/p/against-hickelism)\) \([Reason](https://reason.com/2019/01/31/global-poverty-decline-denialism/)\)
-* Richard Wolff **is an idiot**. \([BadEconomics](https://old.reddit.com/r/badeconomics/comments/kwicce/the_gravel_institute_and_richard_wolff_do_not/)\)
 
 ## Outsourcing & Sweatshops
 
@@ -184,4 +182,14 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
 
 ### No,[ ](https://youtu.be/CuMgcE7Gl5w)[America Isn't an Plutocracy](https://youtu.be/CuMgcE7Gl5w)
+
+## Counteraguments
+
+### Claim: "Jason Hickel proved Capitalism hasn't reduced poverty."
+
+{% embed url="https://noahpinion.substack.com/p/against-hickelism" %}
+
+{% embed url="https://reason.com/2019/01/31/global-poverty-decline-denialism/" %}
+
+
 
