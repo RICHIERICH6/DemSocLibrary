@@ -4,16 +4,21 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 # Capitalism
 
-## Economic Performance
+## Economy
+
+### Growth
 
 * A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. \([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf)\)
+  * A literature review of over 100 studies **found cost reductions of 20% to 50% that resulted from privatization and, more importantly, increased competition**. \([John Hilke](https://reason.org/wp-content/uploads/files/b987e7bd89f4c4e21c8a73857b7001e8.pdf)\)
   * A meta-analysis of 45 studies finds a **direct positive association between economic freedom and growth**. \([European Journal of Political Economy](https://sci-hub.st/10.1016/j.ejpoleco.2005.06.003)\)
 * There is **overwhelming support for the notion that privatization brings about a significant increase in the profitability**, **real output and efficiency of privatised companies** and **it appears to improve performance measured in many different ways, in many different countries**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2017/2/cj-v37n1-7.pdf#page=8])\)
+* In most settings privatization "works" in that the **firms become more efficient, more profitable, and financially healthier, and reward investors**. \([Journal of Economic Literature](https://scholar.google.com/scholar?cluster=2958435000331927638&hl=en&as_sdt=0,33)\)
 * Private ownership ****should **generally be preferred to public ownership when the incentives to innovate and to contain costs must be strong**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.4.133)\)
 * Market-oriented institutions and policies are **strongly related to economic growth**. \([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf)\)
 * The change from complete state to private ownership in the long run would **increase productivity growth by 1.6 to 2 percent a year, while costs would decline by 1.7 to 1.9 percent**. \([Journal of Economic Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.199.6795&rep=rep1&type=pdf)\)
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. \([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf)\)
 * Financial development and financial liberalisation **have positive effects on financial instability**. \([Research in International Business and Finance](https://sci-hub.st/10.1016/j.ribaf.2017.07.148)\)
+* British consumers **benefited as privatization and competition reduced prices and improved service quality**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2017/2/cj-v37n1-7.pdf#page=7)\)
 * Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/print/64176#)\)
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Privatization has **almost always caused an increase in investment and innovation**. \([Fordham Law Review](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d)\)

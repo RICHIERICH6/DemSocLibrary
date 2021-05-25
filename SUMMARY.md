@@ -16,7 +16,6 @@
 * [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
 * [Public Housing](general/public-housing.md)
-* [Public Education](general/untitled-5.md)
 * [Zoning Reform](general/zoning-reform.md)
 * [Open Borders](general/open-borders.md)
 * [Carbon Dividend](general/untitled-7.md)
