@@ -4,7 +4,7 @@ description: yes vuvuzula 100 trillion bad basic economics
 
 # Venezuela
 
-Prior to self-proclaimed socialist Hugo Chavez taking power in 1999, Venezuela was the richest country in South America. As of 2019, [**nearly 5 million people have fled the country**](https://www.reuters.com/article/us-venezuela-security-un-idUSKBN1X21MM), [**44% are unemployed**](https://www.bloomberg.com/news/articles/2019-04-09/venezuela-unemployment-nears-that-of-war-ruined-bosnia-imf-says), and ****[**inflation has reached 10,000,000%**](https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html).
+Prior to self-proclaimed socialist Hugo Chavez taking power in 1999, [**Venezuela was the richest country in South America**](https://www.weforum.org/agenda/2017/08/venezuela-economic-woes-2017-explained/). As of 2019, [**nearly 5 million people have fled the country**](https://www.reuters.com/article/us-venezuela-security-un-idUSKBN1X21MM), [**44% are unemployed**](https://www.bloomberg.com/news/articles/2019-04-09/venezuela-unemployment-nears-that-of-war-ruined-bosnia-imf-says), and ****[**inflation has reached 10,000,000%**](https://www.cnbc.com/2019/08/02/venezuela-inflation-at-10-million-percent-its-time-for-shock-therapy.html).
 
 * Overall economic consequences of the Chavez administration **were bleak**. \([Journal of Economic Behavior and Organization](https://sci-hub.st/10.1016/j.jebo.2015.12.011)  \)
 * Chavez [**nationalized many industries**](https://www.reuters.com/article/us-venezuela-election-nationalizations/factbox-venezuelas-nationalizations-under-chavez-idUSBRE89701X20121008) including: steel, agriculture, banking, telecomms, electricity, tourism, and oil.
