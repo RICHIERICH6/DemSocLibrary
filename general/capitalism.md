@@ -45,6 +45,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 * A literature review of 100 studies typically **finds cost reductions of 20 percent to 50 percent that resulted from privatization and, more importantly, increased competition**. \([John Hilke](https://reason.org/wp-content/uploads/files/b987e7bd89f4c4e21c8a73857b7001e8.pdf)\)
 * The change from complete state to private ownership in the long run would **lower costs by 1.7 to 1.9 percent a year**. \([Journal of Economic Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.199.6795&rep=rep1&type=pdf)\)
+* British consumers benefited as privatization and competition reduced prices and improved service quality. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2017/2/cj-v37n1-7.pdf)\)
 
 ### Inequality
 
@@ -95,25 +96,16 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Health
 
-* Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)
-
-  \)
-
+* Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)\)
 * People in the most economically free nations **live 16 years longer**. \([Acton](https://www.acton.org/publications/transatlantic/2017/10/03/6-ways-economic-freedom-benefits-global-poor)\)
-* Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)
-
-  \)
-
+* Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)\)
 * Institutions of liberal democracy and free markets **are vital for the pursuit of happiness**. \([Center for the Study of Public Choice and Private Enterprise](https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/30586/)\)
   * Results from a panel of 86 countries over the 1990–2005 period \*\*suggest that overall
 
      economic freedom has a significant positive effect on subjective well-being\*\*. [\(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003)\)
 
   * There is a **positive relationship between national levels of happiness and economic freedom**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2011/5/cj31n2-4.pdf#page=17)\)
-  * Economic freedom **leads to happiness**, **especially for those in conditions of poverty and low capability**. \([Ruut Veenhoven](https://core.ac.uk/download/pdf/18509341.pdf)
-
-    \)
-
+  * Economic freedom **leads to happiness**, **especially for those in conditions of poverty and low capability**. \([Ruut Veenhoven](https://core.ac.uk/download/pdf/18509341.pdf)\)
   * People in countries that respect private property rights and allow a higher level of 
 
      economic freedom **are better able to satisfy human desires**. \([Mercatus](https://www.mercatus.org/system/files/Private-Property-Rights-Economic-Freedom-and-Well-Being.pdf)\)
