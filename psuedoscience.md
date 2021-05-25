@@ -132,5 +132,5 @@ This [study ](https://www.brookings.edu/wp-content/uploads/2019/05/impact-of-the
 
 > While we recognize the possibility that the sanctions may have had some impact on Venezuela’s oil production, our analysis finds insufficient evidence to conclude that they were responsible for the worsening of the socio-economic crisis.
 
-Furthermore, sanctions [began in 2015](https://en.wikipedia.org/wiki/International_sanctions_during_the_Venezuelan_crisis#2015), while the crisis began in 2010.
+Furthermore, sanctions [began in 2015](https://en.wikipedia.org/wiki/International_sanctions_during_the_Venezuelan_crisis#2015), while the crisis began in 2010, did they travel back in time?
 
