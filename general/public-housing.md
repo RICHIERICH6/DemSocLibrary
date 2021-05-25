@@ -13,7 +13,7 @@
 ## Housing First
 
 * Using the staircase approach, Finland **more than halved homelessness by 1994**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf)\)
-* Public housing tenants engage in neighborhood work, such as collecting litter or maintaining parks. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf#page=4)\)
+* Public housing tenants **engage in neighborhood work, such as collecting litter or maintaining parks**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf#page=4)\)
 
 ## Hud-vash
 
