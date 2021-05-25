@@ -43,6 +43,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ### Prices
 
+* A literature review of 100 studies typically **finds cost reductions of 20 percent to 50 percent that resulted from privatization and, more importantly, increased competition**. \([John Hilke](https://reason.org/wp-content/uploads/files/b987e7bd89f4c4e21c8a73857b7001e8.pdf)\)
+
 ### Inequality
 
 * Economic liberalization could **reduce inequality by ≈2%–6%**. \([Economies](https://pdfs.semanticscholar.org/2a5f/691f35f70aba17447e553e8c7bd2034d497c.pdf#page=16)\)
