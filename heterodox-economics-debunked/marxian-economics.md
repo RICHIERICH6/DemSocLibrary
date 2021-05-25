@@ -15,7 +15,7 @@
 * After-tax corporate profits **are rising**. \([Yardeni](https://www.yardeni.com/pub/sp500marginnipa.pdf)\)
 * Government data **finds increasing profitability for corporations**. \([The Guardian](https://www.theguardian.com/business/2014/nov/14/uk-companies-most-profitable-since-1998)\) \([Office for National Statistics](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/bulletins/profitabilityofukcompanies/apriltojune2018)\)
 
-Let's say that the rate of profit is falling, what does that mean? It doesn't necessary follow that this would result in the demise of political economy/capitalism, as we can see [here](../general/why-capitalism.md#economic-performance), the rate of crises and volatility have fallen to stable levels.
+Let's say that the rate of profit is falling, what does that mean? It doesn't necessary follow that this would result in the demise of political economy/capitalism, as we can see [here](), the rate of crises and volatility have fallen to stable levels.
 
 
 
