@@ -126,3 +126,11 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 Not all oil-exporting countries are undergoing crises, and those countries that do suffer from a crisis do so much less severely than Venezuela.
 
+### Claim: "Sanctions Destroyed Venezuela"
+
+This [study ](https://www.brookings.edu/wp-content/uploads/2019/05/impact-of-the-2017-sanctions-on-venezuela_final.pdf)by the Brookings Institute finds that:
+
+> While we recognize the possibility that the sanctions may have had some impact on Venezuela’s oil production, our analysis finds insufficient evidence to conclude that they were responsible for the worsening of the socio-economic crisis.
+
+Furthermore, sanctions [began in 2015](https://en.wikipedia.org/wiki/International_sanctions_during_the_Venezuelan_crisis#2015), while the crisis began in 2010.
+
