@@ -142,6 +142,16 @@ Gregory Elich [reviewed ](https://0x0.la/u/WW9rX7K.pdf)it and finds:
 
 Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his articles
 
+### Claim: "The Gulags weren't that bad!"
+
+> Report from the CIA which found some interesting things about the gulags, including that between 65% and 95% of prisoners \(depending on the camp\) were imprisoned for genuine crimes \(such as theft, murder, rape, etc.\) rather than political offenses.
+
+~~nice that the source library is trying to justify gulags x3~~
+
+So what? This sounds like when a conservative argues "He didn't deserve it but.... He was no angel!" when a black person is killed by a cop. 
+
+Just because some of the prisoners may have committed a legitimate crime doesn't excuse the terrible almost slave-tier working conditions these prisoners faced. Remember that 1.6 million people died there, that doesn't even happen in US prisons, assuming the gulag ran for 25 years, that's literally 176 deaths per day.
+
 ## Venezuela
 
 ### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism"
