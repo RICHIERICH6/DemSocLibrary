@@ -21,7 +21,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 ### Productivity
 
 * Productivity gains from trade five years after WTO entry **might have been 66% higher in the absence of state-owned firms in Vietnam**. \([VoxEU](https://voxeu.org/print/64176#)\)
-* The change from complete state to private ownership in the long run would **increase productivity growth by 1.6 to 2 percent a year, while costs would decline by 1.7 to 1.9 percent**. \([Journal of Economic Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.199.6795&rep=rep1&type=pdf)\)
+* The change from complete state to private ownership in the long run would **increase productivity growth by 1.6 to 2 percent a year.** \([Journal of Economic Literature](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.199.6795&rep=rep1&type=pdf)\)
 
 ### Innovation
 
