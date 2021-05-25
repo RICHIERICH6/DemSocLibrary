@@ -13,7 +13,7 @@
 
 ## Pseudoscience
 
-### Claim: "This study proved that the New Deal cartelization policies are an important factor in accounting for the failure of the economy to return back to trend"
+### Claim: "This [study ](https://sci-hub.se/10.1086/421169)proved that the New Deal cartelization policies are an important factor in accounting for the failure of the economy to return back to trend"
 
 The problem with this study is that it bases its-self off [Real Business Cycle Theory](https://economictimes.indiatimes.com/definition/real-business-cycle-theory), which basically says that recessions are caused by a slowdown in technological process.
 

@@ -18,32 +18,23 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Holodomor</td>
-      <td style="text-align:left">3,941,000</td>
-      <td style="text-align:left"><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
+      <td style="text-align:left">Soviet famine of 1932&#x2013;33
+        <br />
       </td>
-      <td style="text-align:left"><a href="https://old.reddit.com/r/AskHistorians/comments/b3e0xo/how_isnt_the_holodomor_not_a_genocide/eiz6jf1/">Genocide?</a>
+      <td style="text-align:left">5,441,000</td>
+      <td style="text-align:left">
+        <p><a href="https://www.wilsoncenter.org/publication/the-kazakh-famine-1930-33-and-the-politics-history-the-post-soviet-space">Wilson Center</a>
+        </p>
+        <p><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
+        </p>
+      </td>
+      <td style="text-align:left"><a href="../misc/holodomor-genocide-question.md">Genocide?</a>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">Gulag</td>
       <td style="text-align:left">1,600,000</td>
-      <td style="text-align:left">
-        <p><a href="https://sovietinfo.tripod.com/WCR-Secret_Police.pdf#page=6">Stephen G. Wheatcroft</a>
-        </p>
-        <p><a href="https://cloudflare-ipfs.com/ipfs/bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf">Oleg Khlevniuk</a>
-        </p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left">Kazakh famine
-        <br />
-        <br />
-        <br />
-      </td>
-      <td style="text-align:left">1,500,000</td>
-      <td style="text-align:left"><a href="https://www.wilsoncenter.org/publication/the-kazakh-famine-1930-33-and-the-politics-history-the-post-soviet-space">Wilson Center</a>
+      <td style="text-align:left"><a href="https://sovietinfo.tripod.com/WCR-Secret_Police.pdf#page=6">Stephen G. Wheatcroft</a>
       </td>
       <td style="text-align:left"></td>
     </tr>
@@ -127,10 +118,12 @@
   * The USSR had **increasingly unequal healthcare**. \([The Journal of Medical Practice Management](https://0x0.la/u/xeDYQGi.pdf#page=4)\)
 * Agricultural employment **decreased from 54% to 19%**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/agriculture1996.pdf#page=16)\)
 * Soviet standard of living **decreased post-Industrialisation**. \([Europe-Asia Studies](https://zero.sci-hub.se/4242/67100dbe8df0ee83de5b258d91a9252e/filtzer1999.pdf)\)
-* The Soviet Union is the world's largest producer of cow's milk, but **only 60% of the protein in this milk is consumed directly by humans**. The fraction that is lost is **equivalent to 65% of the value of the total protein in all meats of all types that Russians consume**. The comparable fraction of protein in US-produced milk that is consumed by humans is over 90%. Also, although the USSR is obviously a great milk-producing nation, it converts **only about 7% of its milk to hard, whole-milk chees**e. The comparable figure for the European Economic Community \(EEC\) **is 24%**. \([U.S. Department of Agriculture](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf)\) 
+* The vast majority of domestic Soviet food consumption **didn't come from the collectivized farms but from the tiny amount of private plots they left alone**. \([Nikolai Shmelev](https://0x0.la/u/GVzSooX.pdf#page=84)\)
+* **Only 60%** of milk produced in the USSR **was actually drank by people**, compared with 90% in the US. \([U.S. Department of Agriculture](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf)\) 
 * Soviet diets were **lesser quality than the US**. \([Nintil](https://nintil.com/the-soviet-union-food/)\)
   * In the USSR, **93% of men were Vitamin C deficient**, while in neighbouring Finland this was 2%\([European Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/8641247/)    \)
-* About **40% of the population was impoverished** in 1984. the Soviet standard of living was **one-third the American level**, and somewhat **less than half the level of France and West Germany**. ****\([National Council For Soviet And East European Research](https://www.ucis.pitt.edu/nceeer/1984-629-2-Johnson.pdf)\) 
+* **About 23%** of the population **was impoverished**, and **60% of housing respondents** thought that their **space was rather inadequate or grossly inadequate**. \([Nintil](https://nintil.com/the-soviet-union-poverty-and-inequality)\)
+* **90%** of all Soviet technology **was of Western origin**. \([FEE](https://0x0.la/u/XnYmAZ0.pdf)\)
 
 ## Maoist China
 
@@ -154,7 +147,8 @@
       <td style="text-align:left">45,000,000</td>
       <td style="text-align:left"><a href="https://0x0.la/u/mZmbzon.pdf#page=8">Frank Dikotter</a>
       </td>
-      <td style="text-align:left">Atleast 2.5 million of the victims were beaten or tortured to death.</td>
+      <td style="text-align:left">Atleast 2.5 million of the victims were beaten or tortured to death. 16
+        million babies<a href="https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/9/cj34n3-2.pdf"> would have been born between 1959 and 1961 if not for famines</a>.</td>
     </tr>
     <tr>
       <td style="text-align:left">Cultural Revolution</td>
@@ -205,7 +199,6 @@
 * China’s poverty in 1980 is **attributed to the impact of the Maoist path since 1950**. Further checks and tests suggest that \(if anything\) **this is likely to be an underestimate**. \([NBER](https://www.nber.org/system/files/working_papers/w28370/w28370.pdf)\)
 * Mao's policies resulted in **slower growth rates when compared to the post reform policies**. \([NBER](https://www.nber.org/system/files/working_papers/w21397/w21397.pdf)\)
 * The resultant famine had **major long-term effects on health and economic development in China**, leading to **reduced population height, and having a negative impact on labor supply and earnings of famine survivors**. \([Journal of Health Economics](https://twin.sci-hub.se/6148/5dabb37e6a8a106dc6b078d6038dab9d/chen2007.pdf)\)
-* 16 million babies **should have been born between 1959 and 1961 if not for famines**. \([Cato Institute](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/9/cj34n3-2.pdf)\)
 
 ## Cuba
 
@@ -220,10 +213,10 @@
 
 ### Other
 
-* Cuba [isn't even socialist lol](https://www.bbc.com/news/world-latin-america-55967709?).
 * US economic sanctions with respect to Cuba generally **had a minimal overall historical impact on the   Cuban economy**. \([CUBA In Transition](https://ascecuba.org//c/wp-content/uploads/2014/09/v11-coleman.pdf)\)
 * All indications are that Cuba **was once a prosperous middle-income economy**, after the revolution, **Cuba has slipped down the world income distribution**. As best we can tell, **current levels of income per capita are below their pre-revolutionary peaks**. \([The Journal of Economic History](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.503.8045&rep=rep1&type=pdf)\)
   * Cuban gross national income had **fallen almost two-thirds relative to Puerto Rico by 2000**. \([The Council of Economic Advisers](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf#page=18)    \) 
+* **Almost 70%** of Cubans **do not have a permanent water supply**: **32%** **have water between four and 5 days**, **28% have it fewer than 3 days and 8.1% do not have any drinking water service**, **six out of ten citizens have suffered up to ten power cuts in recent months while 18.8% have suffered more than ten**. \([Translating Cuba](https://translatingcuba.com/more-than-half-of-cuban-households-live-below-the-poverty-line-human-rights-group-reports/)\)
 * When about 70 percent of farmland was nationalized, **production of livestock fell between 14 percent \(fish\) and 84 percent \(pork\)**, among the major crops, **production fell between 5 percent \(rice\) and 75 percent \(malanga\)**, they avoided a famine **because of Soviet assistance and emigration**. \([The Council of Economic Advisers](https://trumpwhitehouse.archives.gov/wp-content/uploads/2018/10/The-Opportunity-Costs-of-Socialism.pdf#page=18)  \)
 * Cuba’s health system is **hardly an example of a system to follow**. \([Health Policy and Planning](https://academic.oup.com/heapol/article-pdf/33/6/760/25050755/czy035.pdf)\)
   * Health policies in Cuba in the past half century have been implemented with **limited concern for civil liberties and certain human rights**. **Such as persecution of Cuban analysts who questioned the official version of the socioeconomic situation of prerevolutionary Cuba**, including the health state of affairs, the **harassment and segregation of gays and people living with HIV, the violation of labor rights of Cuban physicians working in international missions**. \([Health Systems & Reform](https://www.tandfonline.com/doi/pdf/10.1080/23288604.2018.1446275)\)

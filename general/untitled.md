@@ -4,10 +4,6 @@
 
 * Most economists **agree that rising inequality is bad**. \([The Initiative on Global Markets](https://www.igmchicago.org/surveys/inequality-populism-and-redistribution-2/)\)
 
-## Scope
-
-* All types of Inequality are **getting worse**. \([Opportunity & Inclusive Growth Institute](https://www.federalreserve.gov/econres/feds/files/2018001pap.pdf#page=32)\)
-
 ## Economy
 
 * Both global inequality and inequality within countries **prevent growth by limiting aggregate demand**. \([International Labour Review](https://0x0.la/u/ZaIUwTb.pdf#page=14)\)

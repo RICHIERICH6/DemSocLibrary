@@ -57,7 +57,6 @@
 * Firearm owners who kept their firearms locked or unloaded were at **least 60% less likely to die from gun suicide than those who store their firearms unlocked and/or loaded**. \([Journal of Epidemiology](https://jech.bmj.com/content/jech/58/10/841.full.pdf)\)
 * Gun control **prevented 21 mass shootings**. \([Annals Of Internal Medicine](https://speakforsafety.org/wp-content/uploads/2019/11/aime201911050-m192162.pdf)\)
 * For every 10-11 gun removals issued, **one life was saved**. \([Law and Contemporary Problems](https://scholarship.law.duke.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=4830&context=lcp)\)
-* Universal background check laws **reduced gun trafficking**. \([Journal of Urban Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2704273/pdf/11524_2009_Article_9351.pdf)\)
 
 ## Guns Effect On Society
 
@@ -180,7 +179,7 @@ But even then, this [study](https://www.hoplofobia.info/wp-content/uploads/2018/
 
 ### Claim: "If the Jews had guns during the holocaust, the Nazis would've lost!"
 
-Just [no](https://rentry.co/naziguncontrolargument/pdf).
+[No](https://www.politifact.com/factchecks/2019/apr/08/viral-image/no-gun-control-regulation-nazi-germany-did-not-hel/).
 
 ### Claim: "John Lott proved that more guns means less crime in his book!"
 

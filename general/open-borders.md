@@ -8,14 +8,14 @@
 
 * Global open borders **would increase GWP by 67% to 147%, literally doubling the world GDP**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.25.3.83#page=3)\)
 * Legalizing undocumented immigrants **would increase US GDP by $1.4t**. \([Center for American Progress](https://cdn.americanprogress.org/wp-content/uploads/2013/03/EconomicEffectsCitizenship-1.pdf#page=3)\)
-* Greater openness to low-skilled immigration in developed countries **could massively reduce global income inequality**. \([The Economic Journal](https://img.fireden.net/tg/image/1491/11/1491112122209.pdf)\)
+* Greater openness to low-skilled immigration in developed countries **could massively reduce global income inequality**. \([The Economic Journal](https://0x0.la/u/hm0UgEC.pdf)\)
   * Global inequality in 21st century is **overwhelmingly driven by location not class**. \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/12117/wps6259.pdf#page=20)\)
 * States with more foreign-born workers **experience faster productivity growth**. \([Review of Economics and Statistics](https://www.mitpressjournals.org/doi/pdf/10.1162/REST_a_00137)\)
 * Immigration **increases the rates of innovation, output per worker, and GDP per capita**. \([Citigroup](https://0x0.la/u/I2nyFQ8.pdf#page=12)\)
   * H1B visas **increase innovation rates**. \([Journal of Labor Economics](https://www.nber.org/system/files/working_papers/w15768/w15768.pdf#page=35)\)
 * Immigrants are **almost twice as likely to become entrepreneurs**. \([Kauffman Foundation](https://www.kauffman.org/wp-content/uploads/2019/12/the_economic_case_for_welcoming_immigrant_entrepreneurs_updated_september_2015.pdf)\)
 * High skilled immigration **boosts innovation and productivity outcomes**. \([Harvard Business School](https://dash.harvard.edu/bitstream/handle/1/32062563/kerr%2ckerr%2cozden%2cparsons_high-skilled-migration.pdf)\)
-* Immigration **reduces housing prices**. \([Institute of Labor Economics](https://www.econstor.eu/bitstream/10419/51818/1/669982121.pdf)\)
+* Immigration **reduces housing prices**. \([The Economic Journal](https://sci-hub.se/10.1111/ecoj.12158)\)
 
 ## Fiscal
 
