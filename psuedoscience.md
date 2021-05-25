@@ -154,9 +154,28 @@ Just because some of the prisoners may have committed a legitimate crime doesn't
 
 Andrei Vyshinsky, chief procurator of the Soviet Union, wrote a memorandum to NKVD chief Nikolai Yezhov in 1938 [which stated](https://web.archive.org/web/20090224230330/http://atlasandco.com/images/uploads/samples/pdf/InsideStalinArchives-web.pdf):
 
-> Among the prisoners there are some so ragged and lice-ridden that they pose a sanitary danger to the rest. These prisoners have deteriorated to the point of losing any resemblance to human beings. Lacking food…they collect orts \[refuse\] and, according to some prisoners, eat rats and dogs.
+> Among the prisoners there are some so ragged and lice-ridden that they pose a sanitary danger to the rest. These prisoners h**ave deteriorated to the point of losing any resemblance to human beings**. **Lacking food…they collect orts \[refuse\] and, according to some prisoners, eat rats and dogs**.
 
-During the Holodomor, [prisoners were getting around 300 calories \(1,300 kJ\) worth of food a day. Many inmates attempted to flee, causing an upsurge in coercive and violent measures. Camps were directed "not to spare bullets"](https://bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm.ipfs.infura-ipfs.io/?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf#page=84).
+During the Holodomor, ****[**prisoners were getting around 300 calories \(1,300 kJ\) worth of food a day. Many inmates attempted to flee, causing an upsurge in coercive and violent measures. Camps were directed "not to spare bullets"**](https://bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm.ipfs.infura-ipfs.io/?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf#page=84).
+
+### Claim: "But Commies contributed to science!"
+
+Commies also contributed to pseudoscience.
+
+All humanities and social sciences were **additionally tested for strict accordance with historical materialism**. These tests were [**alleged to serve as a cover for political suppression of scientists who engaged in research labeled as "idealistic" or "bourgeois"**](https://cloudflare-ipfs.com/ipfs/bafykbzacebfdfdmslglraojxtilspavuikhsdmmpbg7wpuq6apfppp66fma34?filename=%28Cambridge%20Studies%20in%20the%20History%20of%20Science%29%20Loren%20R.%20Graham%20-%20Science%20in%20Russia%20and%20the%20Soviet%20Union_%20A%20Short%20History-Cambridge%20University%20Press%20%281993%29.pdf).
+
+\*\*\*\*[**Over 3,000 biologists were imprisoned, fired, or executed** **for attempting to oppose Lysenkoism**](https://link.springer.com/content/pdf/10.1007/s13238-011-1011-8.pdf) \(a theory that rejects natural selection\). Due to Lysenkoism, [**crop yields in the USSR actually declined**](https://www.wsj.com/articles/the-scourge-of-soviet-science-1466192179).
+
+Certain cosmological models, in particular of the big bang type, [**were declared pseudo-scientific and idealistic because they implied a cosmic creation, a concept which was taken to be religious**](https://arxiv.org/ftp/arxiv/papers/1204/1204.1625.pdf).
+
+Antony Sutton looked at hundreds of official and unofficial Western and Soviet sources and abounding in statistical charts, tables, footnotes, and appendices and[ finds that](https://archive.org/stream/pdfy-Iqz3ytYcb3wWYJ0c/Antony+Sutton+-+The+Best+Enemy+Money+Can+Buy_djvu.txt): 
+
+> In a few words: **there is no such thing as Soviet technology**. **Almost all — perhaps 90-95   
+> percent — came directly or indirectly from the United States and its allies.** **In effect the   
+> United States and the NATO countries have built the Soviet Union**. Its industrial and its   
+> military capabilities. This massive construction job has taken 50 years. Since the Revolution   
+> in 1917. It has been carried out through trade and the sale of plants, equipment and technical   
+> assistance.
 
 ## Venezuela
 
