@@ -43,7 +43,7 @@ The designation of "socialist" or "capitalist" is based on this:
 
 > The designation of each country's political-economic system as capitalist or socialist corresponded to the United Nations' classification of countries as market economies or as centrally planned economies.
 
-No citation is given. The UN did put out a report in 1986 \(the year this study was published\) - the World Economic Survey \([big PDF](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf)\). Also one in 1983 \([PDF](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/1983_WESS_Full.pdf)\). Both these report say:  
+No citation is given. The UN did put out a report in 1986 \(the year this study was published\) - the [World Economic Survey](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf) \([big PDF](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf)\). Also one in 1983 \([PDF](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/1983_WESS_Full.pdf)\). Both these report say:  
 
 
 > For analytical purposes, the following country classification has been used:  
@@ -96,7 +96,33 @@ When looking a how low income countries compare, it \*excludes\* the socialist:
 * Mozambique
 * Vietnam
 
-And looks purely at China, so a sample size of literally 1. The GDP per capita of China at the time is $300, and the range of capitalist countries is 80-530. A huge range.
+And looks purely at China, so a sample size of literally 1. The GDP per capita of China at the time is $300, and the range of capitalist countries is 80-530. A huge range.
+
+## Claim: "The [Navarro study](https://sci-hub.se/10.2190/B2TP-3R5M-Q7UP-DUA2) proves socialism is good!"
+
+Commies will cite this study but leave it out of context, if you read the study it says:
+
+> the socialist experience \(in both its Leninist and its social democratic traditions\) has been, more frequently than not, more efficient in responding to human needs than the capitalist experience.
+
+Even the study "proving" socialism as good agrees that social democracy is a good system.
+
+They try to say that Socialism is better for Latin America because Cuba has a higher life expectancy:
+
+> Since then, the health indicators have improved more rapidly in Cuba than in the rest of Latin America.
+
+The problem with citing life expectancy for Cuba is that they're heavily skewed by the regime. [Econlib ](https://www.econlib.org/about-that-cuban-life-expectancy/)writes: 
+
+> Cuba, with a ratio of 6, was a clear outlier. This skewed ratio is evidence that physicians likely reclassified early neonatal deaths as late fetal deaths, thus deflating the infant mortality statistics and propping up life expectancy.
+
+> Coercing or pressuring patients into having abortions artificially improve\[s\] infant mortality by preventing marginally riskier births from occurring help\[s\] doctors meet their centrally fixed targets.
+
+They also claim that China is a socialist success because life expectancy has improved over feudal china: 
+
+> Furthermore, although health indicators have improved significantly in China as   
+> compared with India, they have done so at similar levels of per capita GNP. China has   
+> much better health indicators at similar per capita GNP levels
+
+Not only is Feudal China [an embarrassingly low bar](https://en.wikipedia.org/wiki/Taiping_Rebellion), China isn't even socialist anymore, they are a capitalist economy, they have been since 1983. This study was done in 1992 to be fair, so they couldn't have foresaw the [giant improvements China has made ever since capitalism](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d). Also, life expectancy \(and health\) has [massively been improved by Capitalism](general/capitalism.md#health).
 
 ## Marxism-Leninism
 
