@@ -158,7 +158,7 @@ Andrei Vyshinsky, chief procurator of the Soviet Union, wrote a memorandum to NK
 
 During the Holodomor, ****[**prisoners were getting around 300 calories \(1,300 kJ\) worth of food a day. Many inmates attempted to flee, causing an upsurge in coercive and violent measures. Camps were directed "not to spare bullets"**](https://bafykbzaced642r3wd3hxlzurbihrkhy3bp5apb3tyupftafdggxfjmkwtbwtm.ipfs.infura-ipfs.io/?filename=%28Annals%20of%20Communism%20Series%29%20Oleg%20V.%20Khlevniuk%20-%20The%20History%20of%20the%20Gulag_%20From%20Collectivization%20to%20the%20Great%20Terror-Yale%20University%20Press%20%282004%29.pdf#page=84).
 
-### Claim: "But Commies contributed to science!"
+### Claim: "But Commies contributed to technology!"
 
 Commies also contributed to pseudoscience.
 
