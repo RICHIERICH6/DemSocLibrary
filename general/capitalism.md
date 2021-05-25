@@ -16,6 +16,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. \([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf)\)
 * Increases in physical and human capital **lead to output growth only in countries with good institutions**. \([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf)\) 
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125)\)
+* IMF loans can have a **positive impact on economic growth**. \([The Journal of Development Studies](https://www.tandfonline.com/doi/pdf/10.1080/00220388.2017.1279734)\) 
 
 ### Productivity
 
@@ -33,13 +34,12 @@ description: 'Capitalism is the worst system, except for all the others.'
 * There is a **positive and statistically significant impact of economic freedom and democracy on macroeconomic stability**. \([Problems and Perspectives in Management](https://core.ac.uk/download/pdf/231765996.pdf)\)
 * A two unit drop in economic freedom represents approximately a **50% higher cost of borrowing for a country**. \([Journal of Financial Economic Policy](https://0x0.la/u/KGY9lnX.pdf)\)
 * Crises have **become less common over time**. \([Bloomberg](https://archive.is/qnq3O#selection-3582.1-3582.2)\)
-  * Large economic stimulus **prevented the 2006-2008 Recession from reducing growth in china**, despite **facing the same export crises as Russia and South Africa**. \([Federal Reserve](https://files.stlouisfed.org/files/htdocs/wp/2014/2014-007.pdf#page=11)\)
-  * Output volatility has **enormously fallen in the US and other high-income countries.** \([Brookings](https://zero.sci-hub.se/2276/a677198a423c9f3148812e87829cae13/blanchard2001.pdf#page=19)\)
-  * Inflation volatility **has fallen**. \([Federal Reserve](https://archive.is/eM2HN#selection-4595.0-4595.106)\)
-  * There is **no evidence post-2008 era has seen increased volatility**. \([Amélie Charles](https://hal.archives-ouvertes.fr/hal-00952951/document)\)
-* IMF loans can have a **positive impact on economic growth**. \([The Journal of Development Studies](https://www.tandfonline.com/doi/pdf/10.1080/00220388.2017.1279734)\)
-  * IMF loans **can reduce the chance of a future banking crisis**. \([IMF](http://www.onestopbrokers.com/wp-content/uploads/2015/01/Fed-pdf.pdf)\)
-  * IMF programs **can reduce the effects of a currency crisis**. \([World Development](https://zero.sci-hub.se/1366/3c5b20687e86ca423fd37d3244654e78/dreher2010.pdf)\)
+* Large economic stimulus **prevented the 2006-2008 Recession from reducing growth in china**, despite **facing the same export crises as Russia and South Africa**. \([Federal Reserve](https://files.stlouisfed.org/files/htdocs/wp/2014/2014-007.pdf#page=11)\)
+* Output volatility has **enormously fallen in the US and other high-income countries.** \([Brookings](https://zero.sci-hub.se/2276/a677198a423c9f3148812e87829cae13/blanchard2001.pdf#page=19)\)
+* Inflation volatility **has fallen**. \([Federal Reserve](https://archive.is/eM2HN#selection-4595.0-4595.106)\)
+* There is **no evidence post-2008 era has seen increased volatility**. \([Amélie Charles](https://hal.archives-ouvertes.fr/hal-00952951/document)\)
+* IMF loans **can reduce the chance of a future banking crisis**. \([IMF](http://www.onestopbrokers.com/wp-content/uploads/2015/01/Fed-pdf.pdf)\)
+* IMF programs **can reduce the effects of a currency crisis**. \([World Development](https://zero.sci-hub.se/1366/3c5b20687e86ca423fd37d3244654e78/dreher2010.pdf)\)
 
 ### Prices
 
