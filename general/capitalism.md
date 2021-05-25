@@ -175,7 +175,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 
 ### No,[ ](https://youtu.be/CuMgcE7Gl5w)[America Isn't an Plutocracy](https://youtu.be/CuMgcE7Gl5w)
 
-## Counteraguments
+## Counterarguments
 
 ### Claim: "Jason Hickel proved Capitalism hasn't reduced poverty."
 
@@ -183,5 +183,5 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 
 {% embed url="https://reason.com/2019/01/31/global-poverty-decline-denialism/" %}
 
-
+Also, just look [here](capitalism.md#poverty).
 
