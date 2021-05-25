@@ -118,7 +118,11 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 ## Venezuela
 
-### Claim: "But Muh Oil!!!"
+### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism"
 
+![](https://cdn.mises.org/dani3_1.png)
 
+![](https://cdn.mises.org/dani5_1.png)
+
+Not all oil-exporting countries are undergoing crises, and those countries that do suffer from a crisis do so much less severely than Venezuela.
 
