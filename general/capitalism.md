@@ -155,14 +155,22 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * The transition to a modern energy system **can occur without sacrificing growth**. \([Brookings](https://www.brookings.edu/research/growth-carbon-and-trump-state-progress-and-drift-on-economic-growth-and-emissions-decoupling/)\)
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies** . \([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/)\)
 
-## Human Rights
+## Civics
+
+### Human Rights
 
 * The Hayek–Friedman hypothesis **holds up fairly well to historical scrutiny**. \([Journal of Economic Behavior & Organization](https://sci-hub.st/10.1016/j.jebo.2010.03.006)\)
 * Using data from 117 countries over the period 1981 to 2006, this finds reforms toward more competitive markets **lead to fewer human rights violations and increase government’s respect for human rights**. \([Public Choice](https://sci-hub.se/https://link.springer.com/article/10.1007%2Fs11127-011-9847-2)\)
 * Regression analysis of up to 65 countries reveals that economic freedom is **positively related to tolerance towards homosexuals, especially in the longer run**. \([Kyklos](https://sci-hub.st/10.1111/kykl.12017)\)
   * In economically freer countries with a strong rule of law, people **tend to be more trusting and tolerant towards gay people and people of another race**. \([Fraser Institute](https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf)\)
-* Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)\)
+
+### Democracy
+
 * There is a **positive relationships running both ways between globalization and democracy**. \([Economics & Politics](https://0x0.la/u/fcovCUN.pdf)\)
+
+### Conflict
+
+* Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. \([American Journal of Political Science](https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf)\) 
 * Capitalism has **lowered the cost of war and hasn't shown a preference for war**. \([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf)\)
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
