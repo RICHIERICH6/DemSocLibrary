@@ -144,32 +144,7 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 ### Claim: "The USSR had higher nutrition and calorie consumption than the US!"
 
-This is extremely misleading, mainly for three reasons.
-
-#### Calories
-
-The average Soviet **needed more calories than the US**, **due to harder work and a colder climate**, this study by the Global Health Action [finds that](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481043/pdf/GHA-8-27537.pdf):
-
-> The total recommended daily amount of calories for a Soviet person **ranged from 2,800 to 3,600 for men and from 2,400 to 3,100 for women, depending on their occupation**
-
-While in the US, [**it's 1,600 to 2,400 calories for adult women and 2,000 to 3,000 calories for adult men**](https://health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf).
-
-![ If we adjust for the minimum amount of calories needed for a Soviet worker, it is clear that Americans actually met the requirements while the USSR did not.](https://miro.medium.com/max/605/1*J4qiEXyI2puEahksrzEBlg.png)
-
-#### Nutrition ≠ Calories
-
-According to this study by the European Journal of Clinical Nutrition, they[ find that](https://pubmed.ncbi.nlm.nih.gov/8641247/):  
-
-
-> **In Pitkäranta 93% of the men and in North Karelia only 2% of the men had plasma levels suggesting severe vitamin C deficiency.**
-
-#### **Inefficiency**
-
-Apparently, even when the USSR was the world's largest milk producer, [**only 60% of this milk was consumed by humans \(36% was fed to animals, and the remainder was wasted\). This number was around 90% in the case of the US. 7% of it was converted into 'hard' cheese \(24% in Europe\)**](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf#page=2).
-
-Official Soviet sources also confirm the high level of waste and inefficiency in the food supply chain, [to quote](https://www.jec.senate.gov/reports/103rd%20Congress/The%20Former%20Soviet%20Union%20in%20Transition%20Volume%20II%20%281598%29.pdf#page=68):
-
-> Soviet official sources conceded, **however, that grain losses reach as high as 20 to 30 percent of the harvest, roughly equal to the level of grain imports, and that vegetable and fruit losses are believed to range as high as 50 percent.** These phenomenal levels of waste highlighted the fact that distribution, rather than production, **is at the heart of the former U.S.S.R.'s food problems**
+{% embed url="https://nintil.com/the-soviet-union-food/" %}
 
 ### Claim: "The Gulags weren't that bad!"
 
