@@ -8,95 +8,7 @@ Let's say I have a theory, let's call it rainbowism. We want to create a rainbow
 
 ## **Claim: "The** [**Waitzkin study**](https://sci-hub.se/10.2190/AD12-7RYT-XVAR-3R2U) **proves that poor socialist countries having higher development than poor capitalist/non socialist countries!"**
 
-Firstly, it is from 1986. I find you generally want to try and find stuff about the USSR [from once the archives opened up and we have better information](https://nypost.com/2021/04/26/new-documents-show-soviets-covered-up-chernobyl-plant-flaws/).  
-  
-Secondly, the sample size of socialist countries is tiny: 13, compared to 100 capitalist countries, which [will skew the results due to unequal sample sizes](https://www.statisticshowto.com/unequal-sample-sizes/).  
-  
-Thirdly, the definition of "capitalist" is very broad:
-
-* The Syrian Arab Republic, led by the Arab Socialist Ba'ath Party is capitalist.
-* Similarly, Iraq, led by the Iraqi Socialist Ba'ath Party.
-* The Yemen Arab Republic is included as capitalist, but the People's Democratic Republic of Yemen is not included as socialist
-* Tanzania, at the time under the dictatorship of Julius Nyerere - who led a Marxist-Leninist party, had close ties with Maoist China and received the Lenin Peace Prize, is considered capitalist
-* Chad was in the middle of civil war, as well as war with Libya. I don't know how to best characterise Chad in this time, as it is just a complete an utter clusterfuck
-* Congo is listed as capitalist, despite being under the dictatorship of Denis Sassou Nguesso, who led a one-party state with the Marxist-Leninst Congolese Party of Labour and had close ties with the Soviet Union
-* Mali, which was led by the military dictatorship and the one-party state Democratic Union of the Malian People based on Marxist-Leninist principles.
-* Upper Volta \(now Burkina Faso\) had a socialist revolution \*part way through\* 1983 - the year the economic stats are from.
-* The Great Socialist People's Libyan Arab Jamahiriya \(aka Libya\), with its motto "freedom, socialism and unity", is considered capitalist
-
-Fourthly, the socialist countries that get excluded from the study are overwhelmingly poor:
-
-* Cambodia \(then Kampuchea\)
-* Laos
-* Ethiopia
-* Afghanistan
-* Vietnam
-* Mozambique  South 
-* Yemen
-* Angola 
-* Nicaragua
-* Zimbabwe
-
-So 10 of the 23 socialist countries are excluded as being "recent post-revolutionary", that is they had a socialist revolution in the past twenty years and therefore get excluded. So Chad and Lebanon, in the midst of civil war is included as capitalist, but these socialist countries are excluded? Ghana had a coup in 1981, but is included. As mentioned, Upper Volta had a socialist coup the year that is being studied, but gets included.  
-  
-The designation of "socialist" or "capitalist" is based on this:
-
-> The designation of each country's political-economic system as capitalist or socialist corresponded to the United Nations' classification of countries as market economies or as centrally planned economies.
-
-No citation is given. The UN did put out a report in 1986 \(the year this study was published\) - the [World Economic Survey](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf). Also one in [1983](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/1983_WESS_Full.pdf). Both these report say:  
-
-
-> For analytical purposes, the following country classification has been used:  
-> Centrally planned economies: China, Eastern Europe, Union of Soviet Socialist Republics
->
-> Developed market economies: North America, southern and western Europe \(excluding Cyprus, Malta and Yugoslavia\), Australia, Japan, New Zealand, South Africa
->
-> Latin America and the Caribbean area, Africa \(other than South Africa\), Asia \(excluding Japan\), Cyprus, Malta, Yugoslavia
-
-Mongolia is referenced as an "Asian centrally planned economy", but for example Vietnam and Laos are not. Yugoslavia is explictly excluded from the Centrally Planned Economies, but somehow the authors have concluded to put in "socialist". And Ba'athist Iraq is specifically excluded from "market economies" but is somehow considered "capitalist".  
-  
-Our study says the World Bank uses similar designations,[ which is true](http://documents1.worldbank.org/curated/en/643841468185383533/pdf/99097-PUB-Box393188BB-PUBLIC-world-tables-add-series.pdf) - but like the UN, it doesn't sort "developing" countries into socialist/centrally planned and capitalist/market economies. I suspect our authors have filled the gaps themselves, and probably with some \*pretty\* significant flaws. For example, "capitalist" Libya was doing this:  
-
-
-> Remaking of the economy was parallel with the attempt to remold political and social institutions. Until the late 1970s, Libya's economy was mixed, with a large role for private enterprise except in the fields of oil production and distribution, banking, and insurance. But according to volume two of Gaddafi's Green Book, which appeared in 1978, private retail trade, rent, and wages were forms of exploitation that should be abolished. Instead, workers' self-management committees and profit participation partnerships were to function in public and private enterprises.
-
-> A property law was passed that forbade ownership of more than one private dwelling, and Libyan workers took control of a large number of companies, turning them into state-run enterprises. Retail  and wholesale trading operations were replaced by state-owned "people's supermarkets", where Libyans in theory could purchase whatever they needed at low prices. By 1981 the state had also restricted access to individual bank accounts to draw upon privately held funds for government projects. The measures created resentment and opposition among the newly dispossessed. The latter joined those already alienated, some of whom had begun to leave the country. By 1982, perhaps 50,000 to 100,000 Libyans had gone abroad; because many of the emigrants were among the enterprising and better educated Libyans, they represented a significant loss of managerial and technical expertise.
-
-Lastly, the study _controls for development_. The following capitalist countries:
-
-* The United Kingdom
-* Japan
-* Austria
-* Finland
-* Australia
-* Canada
-* Netherlands
-* Belgium
-* France
-* United States
-* Denmark
-* West Germany
-* Norway
-* Sweden
-* Switzerland
-* Saudi Arabia
-* Kuwait
-* United Arab Emirates 
-
-Generally considered fairly nice in terms of quality of life, **are compared against precisely zero socialist countries** - **because no socialist countries were that wealthy**. Countries are organised into five different categories \(with the two highest containing no socialist countries\). These five categories are not even comprehensive, and for example Malaysia and Panama are excluded for not fitting neatly into them.  
-  
-So we can see that the study is excluding the richest capitalist countries, and also some of the poorest socialist countries, while leaving civil-war stricken "capitalist" countries in the running. There \*just might be\* some issues with these comparisons.  
-  
-When looking a how low income countries compare, it \*excludes\* the socialist:
-
-* Afghanistan
-* Ethiopia
-* Kampuchea
-* Laos
-* Mozambique
-* Vietnam
-
-And looks purely at China, so a sample size of literally 1. The GDP per capita of China at the time is $300, and the range of capitalist countries is 80-530. A huge range.
+{% embed url="https://www.reddit.com/r/neoliberal/comments/j6lb0u/can\_we\_debunk\_this\_study\_about\_poor\_socialist/g7zgkfb/?context=3" %}
 
 ## Claim: "The [Navarro study](https://sci-hub.se/10.2190/B2TP-3R5M-Q7UP-DUA2) proves socialism is good!"
 
@@ -141,6 +53,14 @@ Gregory Elich [reviewed ](https://0x0.la/u/WW9rX7K.pdf)it and finds:
 > It is too much to suppose that Stalin could not have seen anything amiss until the end of 1938, had he not set the repression in motion and looked favorably upon its progression. Otherwise, it would have been impossible to overlook the fact that the majority of his comrades in the Central Committee were being arrested and killed, with each accusation more improbable than the last. Nor could he have overlooked more than 1.5 million arrests and nearly 700,000 executions in the period 1937–38. The arrest of Yezhov had more to do with a policy change and a shifting of blame, than with a sluggish dawning of recognition.
 
 Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his articles
+
+### Claim: "The USSR [was the 2nd fastest growing economy in the World!](https://web.williams.edu/Economics/brainerd/papers/ussr_july08.pdf)"
+
+{% embed url="https://rentry.co/iko3f" %}
+
+### **Claim: "The USSR had the most physicians per capita!"**
+
+{% embed url="https://old.reddit.com/r/neoliberal/comments/n0ee0q/factchecking\_and\_adding\_context\_to\_an\_infographic/gw61qwt/" %}
 
 ### Claim: "The USSR had higher nutrition and calorie consumption than the US!"
 
