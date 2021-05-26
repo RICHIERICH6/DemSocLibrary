@@ -121,20 +121,14 @@ We have been an ecologically destructive species, it [has nothing to do with wes
 We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral_Sea) anyway.
 
 * A permanent one-point increase in economic freedom **results in a 7.15% decrease concentrations of fine particulate matter in the long-run**. \([Fraser Institute](https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf#page=6)\)
-* The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)
-
-  \)
-
+* The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. \([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf)\)
 * Private property rights **hold the key to pollution prevention and sustainable resource use**. \([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf)\)
 * The effects of market-based policies on environmental quality are **expected to be unambiguously positive**. \([PERC](https://www.perc.org/2002/12/01/the-environmental-kuznets-curve/)\)
 * Both capitalism and democracy **appear to decrease emissions levels per dollar value of GDP**. \([Michael D. Stroup](https://web.archive.org/web/20100710113229/http://www.cob.sfasu.edu/mstroup/Pollution_10_15.pdf)\)
 * Openness to trade and investment promotes development and higher incomes, which **enable less-developed countries to raise their labor and environmental standards**. \([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/tpa-015b.pdf)\)
 * In the absence of well defined, transparent and freely traded water rights, markets may **encourage higher use rather than conservation of water**. \([Water Policy](https://0x0.la/u/o2GdBOM.pdf)\)
 * A legal regime based on strict private property rights **solves environmental problems and minimizes conflict in the coordination of plans**. \([The Quarterly Journal of Austrian Economics](https://cdn.mises.org/qjae16_1_3.pdf)\)
-* Globalization might also have positive environmental effects because global ties **increase self-regulation pressures on firms in low-regulation countries**. \([Journal of International Business Studies](https://0x0.la/u/qg7slMY.pdf)
-
-  \)
-
+* Globalization might also have positive environmental effects because global ties **increase self-regulation pressures on firms in low-regulation countries**. \([Journal of International Business Studies](https://0x0.la/u/qg7slMY.pdf)\)
 * Free Trade is **good for the environment**. \([American Economic Review](https://0x0.la/u/tTCdMqQ.pdf)\)
   * Foreign trade was **beneficial for Morocco's environment**. \([Ecological Indicators](https://0x0.la/u/PWbsRzT.pdf)\)
   * NAFTA significantly **reduced emissions of PM10 and SO2**. \([Journal of International Economics](https://0x0.la/u/cfwYRy3.pdf)\)
