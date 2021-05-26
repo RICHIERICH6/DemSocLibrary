@@ -144,7 +144,7 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 ### Claim: "The USSR had higher nutrition and calorie consumption than the US!"
 
-This is extremely misleading, because reminder mainly for two reasons, nutrition ≠ calories.
+This is extremely misleading, because reminder mainly for two reasons.
 
 The average Soviet **needed more calories than the US**, **due to harder work and a colder climate**, this study by the Global Health Action [finds that](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481043/pdf/GHA-8-27537.pdf):
 
@@ -153,10 +153,6 @@ The average Soviet **needed more calories than the US**, **due to harder work an
 While in the US, [**it's 1,600 to 2,400 calories for adult women and 2,000 to 3,000 calories for adult men**](https://health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf).
 
 ![ If we adjust for the minimum amount of calories needed for a Soviet worker, it is clear that Americans actually met the requirements while the USSR did not.](https://miro.medium.com/max/605/1*J4qiEXyI2puEahksrzEBlg.png)
-
-
-
-
 
 ### Claim: "The Gulags weren't that bad!"
 
