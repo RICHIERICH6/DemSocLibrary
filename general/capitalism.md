@@ -173,7 +173,7 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. \([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf)\)
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. \([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736&context=ilj)\)
 
-{% embed url="https://youtu.be/CuMgcE7Gl5w" caption="No, America isn\'t A Plutocracy." %}
+{% embed url="https://youtu.be/CuMgcE7Gl5w" caption="" %}
 
 ## Counterarguments
 
@@ -184,4 +184,8 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 {% embed url="https://reason.com/2019/01/31/global-poverty-decline-denialism/" %}
 
 Also, just look [here](capitalism.md#poverty).
+
+### Claim: "The Gravel Institute proved Capitalism hasn't reduced poverty."
+
+{% embed url="https://www.reddit.com/r/badeconomics/comments/kwicce/the\_gravel\_institute\_and\_richard\_wolff\_do\_not/" %}
 
