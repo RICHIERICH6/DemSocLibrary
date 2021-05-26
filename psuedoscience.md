@@ -154,7 +154,7 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 So what? This sounds like when a conservative argues "He didn't deserve it but.... He was no angel!" when a black person is killed by a cop. 
 
-Just because some of the prisoners may have committed a legitimate crime doesn't excuse the terrible almost slave-tier working conditions these prisoners faced. Remember that 1.6 million people died there, that doesn't even happen in US prisons, assuming the gulag ran for 25 years, that's literally 176 deaths per day.
+Just because some of the prisoners may have committed a legitimate crime doesn't excuse the terrible almost slave-tier working conditions these prisoners faced. **Remember that 1.6 million people died there, that doesn't even happen in US prisons**, assuming the gulag ran for 25 years, **that's literally 176 deaths per day**.
 
 Andrei Vyshinsky, chief procurator of the Soviet Union, wrote a memorandum to NKVD chief Nikolai Yezhov in 1938 [which stated](https://web.archive.org/web/20090224230330/http://atlasandco.com/images/uploads/samples/pdf/InsideStalinArchives-web.pdf):
 
