@@ -146,7 +146,7 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 
 This is extremely misleading, because reminder mainly for two reasons, nutrition ≠ calories.
 
-The average Soviet **needed more calories than the US**, **due to harder work and a colder climate**, this study by the Global Health Action finds that:
+The average Soviet **needed more calories than the US**, **due to harder work and a colder climate**, this study by the Global Health Action [finds that](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4481043/pdf/GHA-8-27537.pdf):
 
 > The total recommended daily amount of calories for a Soviet person **ranged from 2,800 to 3,600 for men and from 2,400 to 3,100 for women, depending on their occupation**
 
