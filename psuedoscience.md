@@ -112,9 +112,9 @@ They try to say that Socialism is better for Latin America because Cuba has a hi
 
 The problem with citing life expectancy for Cuba is that they're heavily skewed by the regime. [Econlib ](https://www.econlib.org/about-that-cuban-life-expectancy/)writes: 
 
-> Cuba, with a ratio of 6, was a clear outlier. This skewed ratio is evidence that physicians likely reclassified early neonatal deaths as late fetal deaths, thus deflating the infant mortality statistics and propping up life expectancy.
+> Cuba, with a ratio of 6, was a clear outlier. **This skewed ratio is evidence that physicians likely reclassified early neonatal deaths as late fetal deaths, thus deflating the infant mortality statistics and propping up life expectancy**.
 
-> Coercing or pressuring patients into having abortions artificially improve\[s\] infant mortality by preventing marginally riskier births from occurring help\[s\] doctors meet their centrally fixed targets.
+> Coercing or pressuring patients into having abortions **artificially improve\[s\] infant mortality by preventing marginally riskier births from occurring help\[s\] doctors meet their centrally fixed targets**.
 
 They also claim that China is a socialist success because life expectancy has improved over feudal china: 
 
@@ -122,7 +122,7 @@ They also claim that China is a socialist success because life expectancy has im
 > compared with India, they have done so at similar levels of per capita GNP. China has   
 > much better health indicators at similar per capita GNP levels
 
-Not only is Feudal China [an embarrassingly low bar](https://en.wikipedia.org/wiki/Taiping_Rebellion), China isn't even socialist anymore, they are a capitalist economy, they have been since 1983. This study was done in 1992 to be fair, so they couldn't have foresaw the [giant improvements China has made ever since capitalism](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d). Also, life expectancy \(and health\) has [massively been improved by Capitalism](general/capitalism.md#health).
+Not only is Feudal China [**an embarrassingly low bar**](https://en.wikipedia.org/wiki/Taiping_Rebellion), [**China isn't even socialist anymore, they are a capitalist economy, they have been since 1983**](https://en.wikipedia.org/wiki/Chinese_economic_reform). This study was done in 1992 to be fair, so they couldn't have foresaw the [**giant improvements China has made ever since capitalism**](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d). Also, life expectancy \(and health\) has [massively been improved by Capitalism](general/capitalism.md#health).
 
 ## Marxism-Leninism
 
