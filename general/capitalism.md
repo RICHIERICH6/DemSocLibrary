@@ -28,9 +28,9 @@ They try to say that Socialism is better for Latin America because Cuba has a hi
 
 The problem with citing life expectancy for Cuba is that they're heavily skewed by the regime. [Econlib ](https://www.econlib.org/about-that-cuban-life-expectancy/)writes: 
 
-> Cuba, with a ratio of 6, was a clear outlier. This skewed ratio is evidence that physicians likely reclassified early neonatal deaths as late fetal deaths, thus deflating the infant mortality statistics and propping up life expectancy.
+> Cuba, with a ratio of 6, was a clear outlier. **This skewed ratio is evidence that physicians likely reclassified early neonatal deaths as late fetal deaths, thus deflating the infant mortality statistics and propping up life expectancy**.
 
-> Coercing or pressuring patients into having abortions artificially improve\[s\] infant mortality by preventing marginally riskier births from occurring help\[s\] doctors meet their centrally fixed targets.
+> Coercing or pressuring patients into having abortions **artificially improve\[s\] infant mortality by preventing marginally riskier births from occurring help\[s\] doctors meet their centrally fixed targets**.
 
 They also claim that China is a socialist success because life expectancy has improved over feudal china: 
 
@@ -61,6 +61,10 @@ Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his
 ### Claim: "The USSR had higher nutrition and calorie consumption than the US!"
 
 {% embed url="https://nintil.com/the-soviet-union-food/" %}
+
+### Claim: "USSR had most doctors in the World!"
+
+{% embed url="https://old.reddit.com/r/neoliberal/comments/n0ee0q/factchecking\_and\_adding\_context\_to\_an\_infographic/gw61qwt/" %}
 
 ### Claim: "The Gulags weren't that bad!"
 
