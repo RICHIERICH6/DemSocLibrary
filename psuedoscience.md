@@ -43,7 +43,7 @@ The designation of "socialist" or "capitalist" is based on this:
 
 > The designation of each country's political-economic system as capitalist or socialist corresponded to the United Nations' classification of countries as market economies or as centrally planned economies.
 
-No citation is given. The UN did put out a report in 1986 \(the year this study was published\) - the [World Economic Survey](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf) \([big PDF](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf)\). Also one in 1983 \([PDF](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/1983_WESS_Full.pdf)\). Both these report say:  
+No citation is given. The UN did put out a report in 1986 \(the year this study was published\) - the [World Economic Survey](https://www.un.org/en/development/desa/policy/wess/wess_archive/searchable_archive/1986wes.pdf). Also one in [1983](https://www.un.org/development/desa/dpad/wp-content/uploads/sites/45/1983_WESS_Full.pdf). Both these report say:  
 
 
 > For analytical purposes, the following country classification has been used:  
@@ -141,6 +141,22 @@ Gregory Elich [reviewed ](https://0x0.la/u/WW9rX7K.pdf)it and finds:
 > It is too much to suppose that Stalin could not have seen anything amiss until the end of 1938, had he not set the repression in motion and looked favorably upon its progression. Otherwise, it would have been impossible to overlook the fact that the majority of his comrades in the Central Committee were being arrested and killed, with each accusation more improbable than the last. Nor could he have overlooked more than 1.5 million arrests and nearly 700,000 executions in the period 1937–38. The arrest of Yezhov had more to do with a policy change and a shifting of blame, than with a sluggish dawning of recognition.
 
 Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his articles
+
+### Claim: "The USSR had higher nutrition and calorie consumption than the US!"
+
+This is extremely misleading, because reminder mainly for two reasons, nutrition ≠ calories.
+
+The average Soviet **needed more calories than the US**, **due to harder work and a colder climate**, this study by the Global Health Action finds that:
+
+> The total recommended daily amount of calories for a Soviet person **ranged from 2,800 to 3,600 for men and from 2,400 to 3,100 for women, depending on their occupation**
+
+While in the US, [**it's 1,600 to 2,400 calories for adult women and 2,000 to 3,000 calories for adult men**](https://health.gov/sites/default/files/2019-09/2015-2020_Dietary_Guidelines.pdf).
+
+![ If we adjust for the minimum amount of calories needed for a Soviet worker, it is clear that Americans actually met the requirements while the USSR did not.](https://miro.medium.com/max/605/1*J4qiEXyI2puEahksrzEBlg.png)
+
+
+
+
 
 ### Claim: "The Gulags weren't that bad!"
 
