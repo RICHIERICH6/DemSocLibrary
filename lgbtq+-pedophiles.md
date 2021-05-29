@@ -2,7 +2,7 @@
 
 * Age and sex preferences **develop independently**. \([Archives of Sexual Behavior](https://www.queensu.ca/psychology/sites/webpublish.queensu.ca.psycwww/files/files/Faculty/Vern%20Qunisey/Silverthorne_Quinsey-2000.pdf)\)
 * The data **do not support a finding that homosexual identity and/or preordination same-sex sexual behavior are significant risk factors for the sexual abuse of minors**. \([United States Conference of Catholic Bishops  ](https://www.bishop-accountability.org/reports/2011_05_18_John_Jay_Causes_and_Context_Report.pdf)\)
-* This literature review **does not show that gay or bisexual men are any more likely than heterosexual men to molest children**. \([Gregory Herek](https://0x0.la/u/P2jYp76.pdf)\)
+* This literature review **does not show that gay or bisexual men are any more likely than heterosexual men to molest children**. \([Gregory Herek](https://0x0.la/u/yFDsbPe.html)\)
 * **90%** of child molesters **target children in their network of family and friends, and the majority are men married to women**. \([Child Molestation Research & Prevention Institute](https://www.cmrpi.org/pages/tell_others_the_facts.html)\)
 * The distinction between homosexual and heterosexual child molesters **relies on the premise that male molesters of male victims are homosexual in orientation**. Most molesters of boys **do not report sexual interest in adult men, however**. \([The National Academies Press](https://0x0.la/u/VYUOLUV.pdf#page=158)\)
 * Homosexual adults are **no more likely than heterosexuals to abuse children**. \([Harvard Health Publishing](https://web.archive.org/web/20210429130147/https://www.health.harvard.edu/newsletter_article/pessimism-about-pedophilia)\)
@@ -19,9 +19,19 @@
 
 They misrepresent research, to [quote ](https://0x0.la/u/P2jYp76.pdf#page=9)Gregory Herek:
 
->
+> In summary, the scientific sources cited by the FRC report **do not support their argument**. **Most of the studies they referenced did not even assess the sexual orientation of abusers**. Two studies **explicitly concluded that sexual orientation and child molestation are unrelated**. Notably, the FRC f**ailed to cite the 1978 study by Groth and Birnbaum, which also contradicted their argument**. Only one study \(Erickson et al., 1988\) might be interpreted as supporting the FRC argument, **and it failed to detail its measurement procedures and did not differentiate bisexual from homosexual offenders**.
 
-### Claim: "This study by Fruend proves homosexuals are pedos!"
+### Claim: "This study by Cameron proves homosexuals are pedos!"
+
+Cameron's survey data are subject to so many methodological flaws as to be virtually meaningless, to [quote ](https://0x0.la/u/KP9kriX.html)Gregory Herek: 
+
+> Cameron group's sampling techniques,survey methodology, and interpretation of results **reveals atleast six serious errors in their study**. The presence of even one of these flaws would be sufficient to cast serious doubts on the legitimacy of any study's results. In combination, **they make thedata virtually meaningless**.
+
+Gregory Herek is also just a [shitty person](https://psychology.ucdavis.edu/rainbow/html/facts_cameron.html).
+
+
+
+
 
 
 
