@@ -13,6 +13,10 @@
 
 ## Counteraguments
 
+### Claim: "What about ACPeds?"
+
+The American College of Pediatricians is a [**think tank disguised as a health organization**](https://www.psychologytoday.com/us/blog/political-minds/201705/the-american-college-pediatricians-is-anti-lgbt-group).
+
 ### Claim: "This [study ](https://link.springer.com/article/10.1023%2FA%3A1025647527010)proves conversion therapy works!"
 
 The author of this study, Robert L. Spitzer, has [**renounced this study**](https://www.huffpost.com/entry/robert-spitzer-ex-gay-psychiatrist-apology_n_1453570) and [**criticized anti-LGBT organizations for using to to fuel their agenda**](http://www.truthwinsout.org/blog/2012/05/25725/).
