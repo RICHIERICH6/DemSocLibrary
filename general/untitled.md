@@ -27,7 +27,7 @@
 ## Social Impact
 
 * Income Inequality is **associated with reduced mobility**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.3.79#page=4)\)
-  * More-equal societies have higher intergererational income mobility. \([OECD](https://www.oecd.org/centrodemexico/medios/44582910.pdf)\)
+  * More-equal societies have **higher intergererational income mobility**. \([OECD](https://www.oecd.org/centrodemexico/medios/44582910.pdf)\)
 * Income Inequality between neighbourhoods **strongly predict property crime**. \([Urban Studies](https://dacemirror.sci-hub.st/journal-article/103544bfb071809e9b9148c864f76692/metz2016.pdf)\)
   * A high level of interregional inequality **increases domestic terrorism.** \([European Journal of Political Economy](https://www.socialcapitalgateway.org/sites/socialcapitalgateway.org/files/data/paper/2017/03/19/terrorismezcurraetal2016-regionalinequalitiesandterrorismejpe.pdf)    \)
   * Higher income inequality **significantly predicts higher homicide and lower trust**. \([European Journal of Public Health](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.916.360&rep=rep1&type=pdf)\)
