@@ -92,7 +92,7 @@ All humanities and social sciences were **additionally tested for strict accorda
 
 Certain cosmological models, in particular of the big bang type, [**were declared pseudo-scientific and idealistic because they implied a cosmic creation, a concept which was taken to be religious**](https://arxiv.org/ftp/arxiv/papers/1204/1204.1625.pdf).
 
-Antony Sutton looked at hundreds of official and unofficial Western and Soviet sources and abounding in statistical charts, tables, footnotes, and appendices and[ finds that](https://archive.org/stream/pdfy-Iqz3ytYcb3wWYJ0c/Antony+Sutton+-+The+Best+Enemy+Money+Can+Buy_djvu.txt): 
+Antony Sutton looked at hundreds of official and unofficial Western and Soviet sources and abounding in statistical charts, tables, footnotes, and appendices and[ finds that](https://ia802302.us.archive.org/0/items/pdfy-Iqz3ytYcb3wWYJ0c/Antony%20Sutton%20-%20The%20Best%20Enemy%20Money%20Can%20Buy.pdf): 
 
 > In a few words: **there is no such thing as Soviet technology**. **Almost all — perhaps 90-95   
 > percent — came directly or indirectly from the United States and its allies.** **In effect the   
