@@ -61,7 +61,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Economies that are home to the poorest billions of people **need to grow if we want global poverty to decline substantially**. \([Our World In Data](https://ourworldindata.org/poverty-minimum-growth-needed)\)
   * When looking at 24 countries that experienced growth, this found that in 18 cases, **poverty was alleviated**. \([Overseas Development Institute](https://cdn.odi.org/media/documents/7121.pdf)\)
 * Economic decline may **increase the likelihood of external conflict**. \([Economics of War and Peace: Economic, Legal, and Political Perspectives](https://0x0.la/u/YsBjUew.pdf#page=10)\)
-* Economic liberalization and growth are [good for the environment](why-capitalism.md#environment).
+* Economic liberalization and growth are [good for the environment](capitalism.md#environment).
 
 ## Poverty
 
