@@ -100,9 +100,9 @@ description: 'Capitalism is the worst system, except for all the others.'
 * People in the most economically free nations **live 16 years longer**. \([Acton](https://www.acton.org/publications/transatlantic/2017/10/03/6-ways-economic-freedom-benefits-global-poor)\)
 * Openness to imports, long-term membership in the GATT and WTO, low rates of inflation, and effective contract enforcement **are each associated with lower rates of infant mortality across the world**. \([Business and Politics](http://people.bu.edu/jgerring/documents/IMRpolicy.pdf)\)
 * Institutions of liberal democracy and free markets **are vital for the pursuit of happiness**. \([Center for the Study of Public Choice and Private Enterprise](https://www.ndsu.edu/centers/pcpe/outreach/blog/detail/30586/)\)
-  * Results from a panel of 86 countries over the 1990–2005 period \*\*suggest that overall
+  * Results from a panel of 86 countries over the 1990–2005 period **suggest that overall**
 
-     economic freedom has a significant positive effect on subjective well-being\*\*. [\(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003)\)
+     **economic freedom has a significant positive effect on subjective well-being**. [\(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003)\)
 
   * There is a **positive relationship between national levels of happiness and economic freedom**. \([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2011/5/cj31n2-4.pdf#page=17)\)
   * Economic freedom **leads to happiness**, **especially for those in conditions of poverty and low capability**. \([Ruut Veenhoven](https://core.ac.uk/download/pdf/18509341.pdf)\)
