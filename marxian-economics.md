@@ -8,7 +8,7 @@
 
 ## Tendency of the rate of profit to fall
 
-There is mixed literature on whether the rate of profit is falling, whether or not the rate of profit is falling doesn't really matter though. The conclusion that capitalist production could not be an everlasting form of production due to the rate of profit to fall doesn't hold up when we look at [economic stability under capitalism](../general/capitalism.md#stability).
+There is mixed literature on whether the rate of profit is falling, whether or not the rate of profit is falling doesn't really matter though. The conclusion that capitalist production could not be an everlasting form of production due to the rate of profit to fall doesn't hold up when we look at [economic stability under capitalism](general/capitalism.md#stability).
 
 
 
