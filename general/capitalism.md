@@ -37,7 +37,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Large economic stimulus **prevented the 2006-2008 Recession from reducing growth in china**, despite **facing the same export crises as Russia and South Africa**. \([Federal Reserve](https://files.stlouisfed.org/files/htdocs/wp/2014/2014-007.pdf#page=11)\)
 * Output volatility has **enormously fallen in the US and other high-income countries.** \([Brookings](https://zero.sci-hub.se/2276/a677198a423c9f3148812e87829cae13/blanchard2001.pdf#page=19)\)
 * Inflation volatility **has fallen**. \([Federal Reserve](https://archive.is/eM2HN#selection-4595.0-4595.106)\)
-* There is **no evidence post-2008 era has seen increased volatility**. \([Amélie Charles](https://hal.archives-ouvertes.fr/hal-00952951/document)\)
+* There is **no evidence post-2008 era has seen increased volatility**. \([Economic Inquiry  ](https://sci-hub.se/10.1111/ecin.12551)\)
 * IMF loans **can reduce the chance of a future banking crisis**. \([IMF](http://www.onestopbrokers.com/wp-content/uploads/2015/01/Fed-pdf.pdf)\)
 * IMF programs **can reduce the effects of a currency crisis**. \([World Development](https://zero.sci-hub.se/1366/3c5b20687e86ca423fd37d3244654e78/dreher2010.pdf)\)
 
