@@ -5,7 +5,6 @@
 * **91 to 96%** of Pheonix homeless **reported wanting to leave the streets**, suggesting **4-9% were there voluntarily**. \([United States](https://books.google.com/books?id=PS8gAAAAMAAJ&pg=PA597#v=onepage&q&f=false)\)
 * **78%** of Pheonix homeless reported **wanting to leave the streets**, suggesting **22% were there voluntary**. \([United States](https://books.google.com/books?id=PS8gAAAAMAAJ&pg=PA1037#v=onepage&q&f=false)\)
 * **37% to 43%** of Pheonix homeless could **start working again tomorrow if there were jobs for them**. \([United States](https://books.google.com/books?id=PS8gAAAAMAAJ&pg=PA597#v=onepage&q&f=false)\)
-* **46%** of Portland homeless reported **having military experience**. \([United States](https://books.google.com/books?id=PS8gAAAAMAAJ&pg=PA1031#v=onepage&q&f=false)\)
 
 ## Cost
 
@@ -14,7 +13,7 @@
 ## Housing First
 
 * Using the staircase approach, Finland **more than halved homelessness by 1994**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf)\)
-* Public housing tenants engage in neighborhood work, such as collecting litter or maintaining parks. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf#page=4)\)
+* Public housing tenants **engage in neighborhood work, such as collecting litter or maintaining parks**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf#page=4)\)
 
 ## Hud-vash
 

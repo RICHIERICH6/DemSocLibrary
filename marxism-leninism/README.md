@@ -120,10 +120,7 @@
 * Soviet standard of living **decreased post-Industrialisation**. \([Europe-Asia Studies](https://zero.sci-hub.se/4242/67100dbe8df0ee83de5b258d91a9252e/filtzer1999.pdf)\)
 * The vast majority of domestic Soviet food consumption **didn't come from the collectivized farms but from the tiny amount of private plots they left alone**. \([Nikolai Shmelev](https://0x0.la/u/GVzSooX.pdf#page=84)\)
 * **Only 60%** of milk produced in the USSR **was actually drank by people**, compared with 90% in the US. \([U.S. Department of Agriculture](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf)\) 
-* Soviet diets were **lesser quality than the US**. \([Nintil](https://nintil.com/the-soviet-union-food/)\)
-  * In the USSR, **93% of men were Vitamin C deficient**, while in neighbouring Finland this was 2%\([European Journal of Clinical Nutrition](https://pubmed.ncbi.nlm.nih.gov/8641247/)    \)
 * **About 23%** of the population **was impoverished**, and **60% of housing respondents** thought that their **space was rather inadequate or grossly inadequate**. \([Nintil](https://nintil.com/the-soviet-union-poverty-and-inequality)\)
-* **90%** of all Soviet technology **was of Western origin**. \([FEE](https://0x0.la/u/XnYmAZ0.pdf)\)
 
 ## Maoist China
 

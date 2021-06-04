@@ -9,14 +9,13 @@
 
 ## General
 
-* [Capitalism](general/why-capitalism.md)
+* [Capitalism](general/capitalism.md)
 * [Economic Inequality](general/untitled.md)
 * [Social Safety Net](general/untitled-1.md)
 * [Employment Protection Legislation & Codetermination](general/untitled-2.md)
 * [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
 * [Public Housing](general/public-housing.md)
-* [Public Education](general/untitled-5.md)
 * [Zoning Reform](general/zoning-reform.md)
 * [Open Borders](general/open-borders.md)
 * [Carbon Dividend](general/untitled-7.md)
@@ -46,12 +45,12 @@
 ## Heterodox Economics Bad <a id="heterodox-economics-debunked"></a>
 
 * [Modern Monetary Theory](heterodox-economics-debunked/mmtbad.md)
-* [Marxian Economics](heterodox-economics-debunked/marxian-economics.md)
 
 ## socialism bad
 
 ---
 
+* [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
   * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
 * [North Korea](north-korea.md)
@@ -75,4 +74,5 @@
 
 * [Trump Bad](trump-bad.md)
 * [Conservatives = Stupid](conservatives-stupid.md)
+* [Vaccines](vaccines.md)
 
