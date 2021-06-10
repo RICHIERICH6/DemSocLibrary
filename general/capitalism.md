@@ -25,8 +25,14 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ### Innovation
 
+* Economic freedom **enhances innovation competence in the global market**. \([The Quarterly Review of Economics and Finance  ](https://sci-hub.se/10.1016/j.qref.2016.04.003)\)
 * Privatization has **almost always caused an increase in investment and innovation**. \([Fordham Law Review](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2976&context=flr)\)
 * Private ownership **should generally be preferred to public ownership when the incentives to innovate and to contain costs must be strong**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.12.4.133)\)
+
+### Entrepreneurship
+
+* A smaller government sector, better legal structure and security of property rights, as well as less regulation of credit, labour and business **tend to increase entrepreneurship**. \([Entrepreneurial Economics](https://www.researchgate.net/publication/5154827_The_Institutions_of_Economic_Freedom_and_Entrepreneurship_Evidence_from_Panel_Data)\)
+* A one standard-deviation increase in a state’s economic freedom is **associated with over 100 new businesses started per 100,000 residents every month**. \([Mercatus](https://www.mercatus.org/system/files/Freedom-and-Entrepreneurship-Working-Paper_1_0.pdf)\)
 
 ### Stability
 
