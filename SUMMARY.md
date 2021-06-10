@@ -50,6 +50,7 @@
 
 ---
 
+* [Economic Calculation Problem](economic-calculation-problem.md)
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
   * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
