@@ -36,6 +36,24 @@ They also claim that China is a socialist success because life expectancy has im
 
 Not only is Feudal China [**an embarrassingly low bar**](https://en.wikipedia.org/wiki/Taiping_Rebellion), [**China isn't even socialist anymore, they are a capitalist economy, they have been since 1983**](https://en.wikipedia.org/wiki/Chinese_economic_reform). This study was done in 1992 to be fair, so they couldn't have foresaw the [**giant improvements China has made ever since capitalism**](https://www.forbes.com/sites/rainerzitelmann/2019/07/08/chinas-economic-success-proves-the-power-of-capitalism/?sh=63cd9bc53b9d). Also, life expectancy \(and health\) has [massively been improved by Capitalism](general/capitalism.md#health).
 
+## ECP
+
+### Claim: "Walmart proves Central Planning works!"
+
+Companies like Walmart or Amazon use price signals to determine whether or not to do certain things, they still have a common denominator to compare different factors of production to commensurate them.
+
+### Claim: "Computers can central plan!"
+
+ Computers don't disprove the idea that you still need prices for an economy to work, it'd still run into the same calculation problem but it run into faster because it's a computer.
+
+Joe Kane in this SSRN paper [finds](https://0x0.la/u/xpgFpqO.pdf): 
+
+> Central planning, using the Internet or any other means, **still cannot dispense with the competitive market process without which the discovery of the information** **necessary for economic calculation is impossible**
+
+The Quarterly Journal of Austrian Economics supposed that there are 6 billion people on earth, and that there are 80,000 different consumer goods, even when they use the TOP500 supercomputers, they [find](https://cdn.mises.org/qjae16_2_5.pdf):
+
+> For example, even under severe simplifying assumptions, distributing 80,000 heterogeneous consumer goods among six billion heterogeneous consumers **requires a calculation that would take at least 10.5 quintillion years—when the Big Bang happened just 14 billion years ago**.
+
 ## Marxism-Leninism
 
 ### Claim: "Grover Furr proved Stalin didn't do anything wrong!"
