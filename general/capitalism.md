@@ -146,10 +146,8 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * A meta-analysis of 17 studies finds **support for the EKC**. \([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf)\)
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. \([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf)\)
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  \([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf)\)
-* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level
-
-   \(turning point\), but **thereafter decreases despite further economic growth**. \([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)\) When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\)
-
+* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level \(turning point\), but **thereafter decreases despite further economic growth**. \([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)\) 
+* When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. \([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf)\)
 * When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. \([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf)\)
 * The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. \([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf)\)
 * When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. \([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf)\)
