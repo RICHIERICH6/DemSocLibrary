@@ -14,7 +14,7 @@
 * [Social Safety Net](general/untitled-1.md)
 * [Employment Protection Legislation & Codetermination](general/untitled-2.md)
 * [Minimum Wage](general/untitled-3.md)
-* [Publicly Funded Healthcare](general/untitled-4.md)
+* [Public Healthcare](general/untitled-4.md)
 * [Public Housing](general/public-housing.md)
 * [Zoning Reform](general/zoning-reform.md)
 * [Open Borders](general/open-borders.md)
