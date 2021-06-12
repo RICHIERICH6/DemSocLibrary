@@ -1,4 +1,4 @@
-# Public Healthcare
+# Publicly Funded Healthcare
 
 ## Cost Reduction
 
