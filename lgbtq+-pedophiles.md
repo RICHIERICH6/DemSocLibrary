@@ -1,4 +1,4 @@
-# LGBTQ+ aren't Pedophiles
+# Homosexuals aren't Pedophiles
 
 * Age and sex preferences **develop independently**. \([Archives of Sexual Behavior](https://www.queensu.ca/psychology/sites/webpublish.queensu.ca.psycwww/files/files/Faculty/Vern%20Qunisey/Silverthorne_Quinsey-2000.pdf)\)
 * The data **do not support a finding that homosexual identity and/or preordination same-sex sexual behavior are significant risk factors for the sexual abuse of minors**. \([United States Conference of Catholic Bishops  ](https://www.bishop-accountability.org/reports/2011_05_18_John_Jay_Causes_and_Context_Report.pdf)\)
