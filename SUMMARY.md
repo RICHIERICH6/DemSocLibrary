@@ -38,7 +38,8 @@
 
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
-* [Transgender](trans.md)
+* [Transgender](trans/README.md)
+  * [Detransitioning Is Rare](https://ia601509.us.archive.org/2/items/detransitioning-is-rarer-than-alot-of-people-say/Detransitioning%20is%20rarer%20than%20alot%20of%20people%20say.pdf)
 * [Homosexuals aren't Pedophiles](lgbtq+-pedophiles.md)
 
 ## Heterodox Economics Bad <a id="heterodox-economics-debunked"></a>
