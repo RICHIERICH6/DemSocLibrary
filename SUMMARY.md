@@ -38,7 +38,7 @@
 
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
-* [Transgender](untitled-1.md)
+* [Transgender](trans.md)
 * [Homosexuals aren't Pedophiles](lgbtq+-pedophiles.md)
 
 ## Heterodox Economics Bad <a id="heterodox-economics-debunked"></a>
