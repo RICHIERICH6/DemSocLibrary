@@ -23,7 +23,7 @@ The author of this study, Robert L. Spitzer, has [**renounced this study**](http
 
 ### Claim: "This [meta-analysis](https://journals.sagepub.com/doi/pdf/10.2466/pr0.2002.90.3c.1139) proves conversion therapy works!"
 
-The APA has [**rebuked** ](https://www.apa.org/pi/lgbt/resources/therapeutic-response.pdf)it:
+The APA has [**debunked** ](https://www.apa.org/pi/lgbt/resources/therapeutic-response.pdf)it:
 
 > A meta-analytic review of 14 research articles \(Byrd & Nicolosi, 2002\) is not discussed in this report. The review **suffers from significant methodological shortcomings and deviations from recommended meta-analytic practice** \(see, e.g., Durlak, Meerson, & Ewell Foster, 2003; Lipsey & Wilson, 2001\) that preclude reliable conclusions being drawn from it.
 
