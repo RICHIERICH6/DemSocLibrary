@@ -4,7 +4,7 @@
 
 ### Claim: "Vaccines cause autism!"
 
-[**No**](https://www.aap.org/en-us/Documents/immunization_vaccine_studies.pdf).
+[**No**](https://www.immunize.org/catg.d/p4026.pdf).
 
 Seriously, [**no**](https://vaccinepapers.org/wp-content/uploads/Vaccines-are-not-associated-with-autism-An-evidence-based-meta-analysis-of-case-control-and-cohort-studies.pdf).
 
