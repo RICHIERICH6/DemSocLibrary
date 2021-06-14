@@ -4,13 +4,17 @@
 
 ### Claim: "Vaccines cause autism!"
 
-[**No**](https://www.immunize.org/catg.d/p4026.pdf).
+[**No**](https://en.wikipedia.org/wiki/Vaccines_and_autism).
 
-Seriously, [**no**](https://vaccinepapers.org/wp-content/uploads/Vaccines-are-not-associated-with-autism-An-evidence-based-meta-analysis-of-case-control-and-cohort-studies.pdf).
+#### Claim: "These 72 papers prove vaccines cause autism!"
+
+[**No**](https://lizditz.typepad.com/files/g_taylor_list_debunked_v2.0_8_7.pdf).
 
 ### Claim: "Vaccines cause sudden infant death syndrome!"
 
-[**No**](https://www.cdc.gov/vaccinesafety/concerns/sids.html).
+[**No**](https://en.wikipedia.org/wiki/Vaccines_and_SIDS).
 
-Seriously, [**no**](https://www.wikiwand.com/en/Vaccines_and_SIDS).
+### Claim: "There was a coverup at the CDC!"
+
+[**No**](https://rationalwiki.org/wiki/CDC_whistleblower_controversy).
 
