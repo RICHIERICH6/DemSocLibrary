@@ -10,7 +10,7 @@
 
 ## Gender ≠ Sex
 
-* ‘Gender’ describes those characteristics of women and men **that are largely socially created, while ‘sex’ encompasses those that are biologically determined**. \([World Health Organization](https://www.who.int/genomics/gender/en/)\)
+* ‘Gender’ describes those characteristics of women and men **that are largely socially created, while ‘sex’ encompasses those that are biologically determined**. \([World Health Organization](https://www.who.int/health-topics/gender#tab=tab_1)\)
 * "Gender" refers to **socially constructed and enacted roles and behaviors which occur in a historical and cultural context and vary across societies and over time**. \([National Institutes of Health](https://orwh.od.nih.gov/sex-gender)\)
 * Gender refers to the **socially constructed roles, behaviours, expressions and identities of girls, women, boys, men, and gender diverse people**. \([Canadian Institutes of Health Research](https://cihr-irsc.gc.ca/e/48642.html)\)
 * Sex refers **especially to physical and biological traits**, whereas gender **refers especially to social or cultural traits**. \([American Psychological Association](https://dictionary.apa.org/sex)\)
