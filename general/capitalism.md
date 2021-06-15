@@ -87,7 +87,7 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Free trade **typically favors the poor**. \([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf)\)
 * AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** \([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf)\)
 
-## Outsourcing & Sweatshops
+## Outsourcing
 
 * Most sweatshop jobs provide **an above average standard of living for their workers**. \([Journal of Labor Research](http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf)\)
 * Foreign ownership **raises wages both by raising labor productivity and by expanding the scale of production and, in the process, improves the conditions of work**. \([NBER](https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45)\)
