@@ -27,7 +27,7 @@ Cameron's survey data are subject to so many methodological flaws as to be virtu
 
 > Cameron group's sampling techniques,survey methodology, and interpretation of results **reveals atleast six serious errors in their study**. The presence of even one of these flaws would be sufficient to cast serious doubts on the legitimacy of any study's results. In combination, **they make thedata virtually meaningless**.
 
-Gregory Herek is also just a [shitty person](https://psychology.ucdavis.edu/rainbow/html/facts_cameron.html).
+Cameron is also just a [shitty person](https://psychology.ucdavis.edu/rainbow/html/facts_cameron.html).
 
 
 
