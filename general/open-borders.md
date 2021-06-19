@@ -33,7 +33,7 @@
 
 ## Social Impact
 
-### Brain Drain \(or lack thereof\)
+### Education
 
 * Outmigration from Nepal **increased education and employment among nonmigrant Nepalese**. \([The Economic Journal](http://staffpages.nus.edu.sg/fas/ecssas/Home_files/NoManLeftBehind_Shrestha_June2015.pdf)\)
 * The presence of immigrant students has a **positive effect on the academic achievement of US-born students, especially for students from disadvantaged backgrounds**. \([EdWorkingPaper](https://edworkingpapers.com/sites/default/files/ai21-368.pdf)\)
