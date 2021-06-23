@@ -28,7 +28,7 @@
         <p><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
         </p>
       </td>
-      <td style="text-align:left"><a href="../misc/holodomor-genocide-question.md">Genocide?</a>
+      <td style="text-align:left"><a href>Genocide?</a>
       </td>
     </tr>
     <tr>

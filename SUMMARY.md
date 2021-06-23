@@ -70,7 +70,6 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
-* [Holodomor Genocide Question](misc/holodomor-genocide-question.md)
 
 ---
 
