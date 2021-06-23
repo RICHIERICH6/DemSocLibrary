@@ -42,6 +42,8 @@ Not only is Feudal China [**an embarrassingly low bar**](https://en.wikipedia.or
 
 Companies like Walmart or Amazon use price signals to determine whether or not to do certain things, they still have a common denominator to compare different factors of production to commensurate them.
 
+Read more, [here](https://cdn.mises.org/qjae_23_1_kounya.pdf).
+
 ### Claim: "Computers can central plan!"
 
  Computers don't disprove the idea that you still need prices for an economy to work, it'd still run into the same calculation problem but it run into faster because it's a computer.
