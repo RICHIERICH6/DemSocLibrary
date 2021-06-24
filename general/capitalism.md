@@ -94,11 +94,6 @@ description: 'Capitalism is the worst system, except for all the others.'
 * Sweatshops, while not ideal, are **still favourable to other alternatives**. \([American Journal of Economics and Sociology](https://0x0.la/u/F6CEuq4.pdf)\)
 * The demand for education generated through manufacturing growth **appears to have a much larger effect on female educational attainment compared to a large-scale government conditional cash transfer program to encourage female schooling**. \([Journal of Development Economics](https://0x0.la/u/QvKhUh3.pdf)\)
 
-## Education
-
-* By 2100, only about 0.92% of the population **will have no education**. \([Our World In Data](https://ourworldindata.org/grapher/projection-of-world-population-ssp2-iiasa?stackMode=relative&country=~OWID_WRL)\)
-* 86.25% of the population **is literate**. \([Our World In Data](https://ourworldindata.org/grapher/literate-and-illiterate-world-population?country=~OWID_WRL)\)
-
 ## Health
 
 * Privatization is **associated with significant reductions in deaths from infectious and parasitic diseases**. \([Journal of Political Economy](http://sekhon.berkeley.edu/causalinf/papers/GalianiWater.pdf)\)
