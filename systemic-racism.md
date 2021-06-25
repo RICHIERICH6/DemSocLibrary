@@ -8,6 +8,9 @@
 * After controlling for contextual and behavioral factors, we still found Black young adults were **arrested seven times more often than their White counterparts**. \([Child and Adolescent Social Work Journal](https://sci-hub.st/10.1007/s10560-019-00618-7)\)
 * Law enforcement officers in Texas who could charge shoplifters with two types of crimes \(one more serious, one less so\) due to a vaguely worded statute **were more likely to charge black people and Hispanics with the more serious crime**. \([Journal of Empirical Legal Studies](https://sci-hub.se/10.1111/jels.12201)\)
 * Police targeting hot spots of crime **tends to disproportionately burden minorities via stops and arrests**. \([Justice Quarterly](https://sci-hub.se/10.1080/07418825.2019.1630471)\)
+* Relative to whites, a black person in a car **is 2x as likely to be pulled over and 4x as likely to be searched**, despite the fact that **they’re less likely to be found with contraband as a result of those searches**. \([Washington Post](https://www.washingtonpost.com/news/monkey-cage/wp/2018/07/17/what-data-on-20-million-traffic-stops-can-tell-us-about-driving-while-black/)\)
+  * When looking at 4.5 million traffic stops, we find that Blacks and Latinos **were more likely to be searched than whites**, even though **searches of white motorists were more likely than the others to turn up contraband**. \([The Annals of Applied Statistics](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-11/issue-3/The-problem-of-infra-marginality-in-outcome-tests-for-discrimination/10.1214/17-AOAS1058.full)\)
+* Black-to-White arrests is **significantly higher under White sheriffs**. \([Economic Inquiry](https://people.ucsc.edu/~gbulman/lawenforcement_2019.pdf)\)
 * **42%** of Florida Highway Patrol officers **practice racial discrimination**. \([American Economic Association](https://www.aeaweb.org/articles?id=10.1257/aer.20181607)\)
 
 ### Police Subconscious Bias
