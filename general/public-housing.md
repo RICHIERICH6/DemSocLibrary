@@ -10,7 +10,7 @@
 
 * It would **cost only $20 billion to end homelessness in the US**, according to HUD. \([ThinkProgress](https://archive.thinkprogress.org/infographic-we-could-end-homelessness-with-the-money-americans-spend-on-christmas-decorations-6b49b415668c/)\)
 
-## Housing First
+## Finland
 
 * Using the staircase approach, Finland **more than halved homelessness by 1994**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf)\)
 * Public housing tenants **engage in neighborhood work, such as collecting litter or maintaining parks**. \([Cityscape](https://0x0.la/u/w4UVmBP.pdf#page=4)\)
