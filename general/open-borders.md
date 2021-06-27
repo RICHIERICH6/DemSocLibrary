@@ -27,7 +27,7 @@
 ## Wages
 
 * A meta-analysis of 64 studies published between 1972 and 2019 finds that **the average effect of immigration on native wages is negative and close to zero**. \([Lille Economic Management](https://lem.univ-lille.fr/fileadmin/user_upload/laboratoires/lem/doc_de_travail_2021/DT2021-04.pdf)\)
-* A meta-analysis of 7 studies finds that Immigration has little to no effect on native wages. \([Journal of Geographical Systems](https://link.springer.com/content/pdf/10.1007/s10109-010-0111-y.pdf)\)
+* A meta-analysis of 7 studies finds that Immigration **has little to no effect on native wages**. \([Journal of Geographical Systems](https://link.springer.com/content/pdf/10.1007/s10109-010-0111-y.pdf)\)
 * A consensus study finds that the impact of Immigration on the wages of native-born workers overall **is very small**. \([The National Academies Press](https://www.nap.edu/resource/23550/RiB-fiscal-immigration.pdf)\)
 * There are **positive wage effects of foreign STEM flows on college natives**. \([Regional Science and Urban Economics](https://sci-hub.st/downloads/2019-11-30/60/lin2019.pdf)\)
 
