@@ -56,8 +56,11 @@ description: 'Capitalism is the worst system, except for all the others.'
 ### Inequality
 
 * Economic liberalization could **reduce inequality by ≈2%–6%**. \([Economies](https://pdfs.semanticscholar.org/2a5f/691f35f70aba17447e553e8c7bd2034d497c.pdf#page=16)\)
-  * Economic freedom has a **negative impact on income inequality**. \([Contemporary Economic Policy](https://intel-writers.com/wp-content/uploads/2019/11/Economic-Freedom-and-Inequality-Revisted-on-Policy-Formulation.pdf)\)
-  * An increase of 1 unit in economic freedom **reduces income inequality by 0.184**. \([Financial Theory and Practice](http://fintp.ijf.hr/upload/files/ftp/2015/4/apergis.pdf)\)
+* Economic freedom has a **negative impact on income inequality**. \([Contemporary Economic Policy](https://intel-writers.com/wp-content/uploads/2019/11/Economic-Freedom-and-Inequality-Revisted-on-Policy-Formulation.pdf)\)
+* An increase of 1 unit in economic freedom **reduces income inequality by 0.184**. \([Financial Theory and Practice](http://fintp.ijf.hr/upload/files/ftp/2015/4/apergis.pdf)\)
+* A 10 percent increase in federal regulation is **associated with an approximate 0.5 percent increase in income inequality**. \([Mercatus](https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf)\)
+* The estimated relation between economic freedom and income inequality **is positive**. \([Public Choice](https://sci-hub.st/10.1007/s11127-006-9078-0)\)
+* Economic freedom **promotes both economic growth and equity**. \([Public Choice](https://sci-hub.se/10.1023/A:1020308831424)\)
 * Increases in economic freedom **result in a higher degree of upward social mobility from the bottom-most income classes**. \([The Division of Undergraduate Studies](https://fsu.digital.flvc.org/islandora/object/fsu%3A204636/datastream/PDF/view)\)
 
 ## Degrowth Bad
