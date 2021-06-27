@@ -187,9 +187,3 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 
 {% embed url="https://www.reddit.com/r/badeconomics/comments/kwicce/the\_gravel\_institute\_and\_richard\_wolff\_do\_not/" %}
 
-### Claim: "Capitalism is undemocratic!"
-
-{% embed url="https://youtu.be/CuMgcE7Gl5w" %}
-
-[Also](capitalism.md#human-rights).
-
