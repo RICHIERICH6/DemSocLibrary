@@ -42,7 +42,7 @@ Because Social Democracy works! Social democracies rank the highest on the [Prop
 
 ### World
 
-* [Why Nations Fail](http://norayr.am/collections/books/Why-Nations-Fail-Daron-Acemoglu.pdf) - Daron Acemoglu and James A. Robinson
+* [Why Nations Fail](https://ia800606.us.archive.org/15/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail_-The-Origins-o-Daron-Acemoglu.pdf) - Daron Acemoglu and James A. Robinson
 * [Diamond, Guns, Germs, and Steel](https://delong.typepad.com/files/diamond-selections.pdf) - Jared Diamond
 * [Politics Is For Power](https://b-ok.org/dl/5409346/373d6f) - Eitan Hersh
 * [Triumph of the City](http://www.smart-city.institute/library/book/triumph_of_the_city.pdf) - Edward Glaeser
