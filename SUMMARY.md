@@ -71,10 +71,10 @@
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
 
----
+## todo
 
-* [Trump Bad](trump-bad.md)
-* [Conservatives = Stupid](conservatives-stupid.md)
-* [Vaccines](vaccines.md)
-* [Austerity Bad](austerity-bad.md)
+* [Trump Bad](todo/trump-bad.md)
+* [Vaccines](todo/vaccines.md)
+* [Austerity Bad](todo/austerity-bad.md)
+* [Conservatives = Stupid](todo/conservatives-stupid.md)
 
