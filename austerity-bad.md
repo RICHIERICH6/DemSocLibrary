@@ -1,0 +1,2 @@
+# Austerity Bad
+

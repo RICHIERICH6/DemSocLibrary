@@ -76,4 +76,5 @@
 * [Trump Bad](trump-bad.md)
 * [Conservatives = Stupid](conservatives-stupid.md)
 * [Vaccines](vaccines.md)
+* [Austerity Bad](austerity-bad.md)
 
