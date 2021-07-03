@@ -194,7 +194,8 @@
 ### Other
 
 * China’s poverty in 1980 is **attributed to the impact of the Maoist path since 1950**. Further checks and tests suggest that \(if anything\) **this is likely to be an underestimate**. \([NBER](https://www.nber.org/system/files/working_papers/w28370/w28370.pdf)\)
-* Mao's policies resulted in **slower growth rates when compared to the post reform policies**. \([NBER](https://www.nber.org/system/files/working_papers/w21397/w21397.pdf)\)
+* The Cultural Revolution had **long lasting negative effects for firms and economies that wish to encourage innovation**. \([NBER](https://www.nber.org/system/files/working_papers/w27107/w27107.pdf)\)
+  * Mao's policies resulted in **slower growth rates when compared to the post reform policies**. \([NBER](https://www.nber.org/system/files/working_papers/w21397/w21397.pdf)\)
 * The resultant famine had **major long-term effects on health and economic development in China**, leading to **reduced population height, and having a negative impact on labor supply and earnings of famine survivors**. \([Journal of Health Economics](https://twin.sci-hub.se/6148/5dabb37e6a8a106dc6b078d6038dab9d/chen2007.pdf)\)
 
 ## Cuba
