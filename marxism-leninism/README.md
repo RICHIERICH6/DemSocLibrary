@@ -147,7 +147,8 @@
       <td style="text-align:left"><a href="https://0x0.la/u/mZmbzon.pdf#page=8">Frank Dikotter</a>
       </td>
       <td style="text-align:left">Atleast 2.5 million of the victims were beaten or tortured to death. 16
-        million babies<a href="https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/9/cj34n3-2.pdf"> would have been born between 1959 and 1961 if not for famines</a>.</td>
+        million babies<a href="https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2014/9/cj34n3-2.pdf"> would have been born between 1959 and 1961 if not for famines</a>.
+        About <a href="https://archive.is/KVMca">70% of the famine was man-made</a>.</td>
     </tr>
     <tr>
       <td style="text-align:left">Cultural Revolution</td>
@@ -194,7 +195,6 @@
 
 ### Other
 
-* Liu Shaoqi, First Vice Chairman of the CCP stated **70% of the famine was man-made**. \([Communist Party of China](https://archive.is/KVMca)\)
 * China’s poverty in 1980 is **attributed to the impact of the Maoist path since 1950**. Further checks and tests suggest that \(if anything\) **this is likely to be an underestimate**. \([NBER](https://www.nber.org/system/files/working_papers/w28370/w28370.pdf)\)
 * Mao's policies resulted in **slower growth rates when compared to the post reform policies**. \([NBER](https://www.nber.org/system/files/working_papers/w21397/w21397.pdf)\)
 * The resultant famine had **major long-term effects on health and economic development in China**, leading to **reduced population height, and having a negative impact on labor supply and earnings of famine survivors**. \([Journal of Health Economics](https://twin.sci-hub.se/6148/5dabb37e6a8a106dc6b078d6038dab9d/chen2007.pdf)\)
