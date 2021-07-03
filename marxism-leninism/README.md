@@ -28,9 +28,10 @@
         <p><a href="http://old.mfa.gov.ua/mediafiles/files/misc/2017-11-01/legal03a.pdf#page=13">Kyiv Court of Appeal</a>
         </p>
       </td>
-      <td style="text-align:left">Genocide? [<a href="https://bearkunin.medium.com/historiography-of-soviet-hunger-f3894172c52b">1</a>]
+      <td style="text-align:left">Genocide? It&apos;s complicated. [<a href="https://bearkunin.medium.com/historiography-of-soviet-hunger-f3894172c52b">1</a>]
         [<a href="https://bearkunin.medium.com/the-great-famine-of-kazakhstan-39de1567c3d8">2</a>]
-        [<a href="https://bearkunin.medium.com/aid-during-the-holodomor-e349be403529">3</a>]</td>
+        [<a href="https://bearkunin.medium.com/aid-during-the-holodomor-e349be403529">3</a>]
+        [<a href="https://www.youtube.com/watch?v=JBQYnN6pAg0">4</a>]</td>
     </tr>
     <tr>
       <td style="text-align:left">Gulag</td>
