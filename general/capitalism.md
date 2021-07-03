@@ -92,6 +92,8 @@ description: 'Capitalism is the worst system, except for all the others.'
 
 ## Outsourcing
 
+The best way to end child labor in developing countries [aren't bans](https://sci-hub.se/10.1093/jeea/jvz059), but [economic growth](https://sci-hub.st/10.3368/jhr.XL.1.77).
+
 * Most sweatshop jobs provide **an above average standard of living for their workers**. \([Journal of Labor Research](http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf)\)
 * Foreign ownership **raises wages both by raising labor productivity and by expanding the scale of production and, in the process, improves the conditions of work**. \([NBER](https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45)\)
 * Sweatshops, while not ideal, are **still favourable to other alternatives**. \([American Journal of Economics and Sociology](https://0x0.la/u/F6CEuq4.pdf)\)
