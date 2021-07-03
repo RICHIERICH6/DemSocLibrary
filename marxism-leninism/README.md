@@ -111,7 +111,6 @@
 ###  Other
 
 * Russia's economy is **still doing better today than the USSR**. \([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330053147949)\)
-  * Central and Eastern Europeans **approve of shift to multiparty system and capitalism**. \([Pew](https://www.pewresearch.org/fact-tank/2019/10/15/key-takeaways-public-opinion-europe-30-years-after-fall-of-communism/ft_19-10-15_europecommunism_generally-central-eastern-europeans-approve-shift-multiparty-system-free-market-economy/)\)
 * Stalin was **not necessary for Russia’s economic development**. \([VoxEU](https://voxeu.org/article/stalin-and-soviet-industrialisation)\)
   * Standard of living **increased during NEP**. \([The Journal of Libertarian Studies](https://cdn.mises.org/5_1_5_0.pdf)\)
 * Soviet GDP growth poorer **even when compared to poorer nations**. \([Nintil](https://archive.is/ofVRQ)\)
