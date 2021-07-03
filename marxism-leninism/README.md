@@ -1,5 +1,11 @@
 # Marxism-Leninism
 
+## todo
+
+{% embed url="https://sci-hub.st/10.2307/1885709" %}
+
+https://sci-hub.se/10.2307/1884665
+
 ## USSR
 
 ### Death Toll
