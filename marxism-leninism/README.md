@@ -153,7 +153,7 @@
       <td style="text-align:left">20,000,000</td>
       <td style="text-align:left"><a href="https://moscow.sci-hub.se/3700/92fc7d5fe83c73962ce880cce4f6e48a/pye1986.pdf#page=2">The China Quarterly</a>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">This number is by the Chinese Communists.</td>
     </tr>
     <tr>
       <td style="text-align:left">Laogai camps</td>
