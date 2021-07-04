@@ -34,4 +34,5 @@
 * In 1965, if wealth had been equally distributed between countries, **14,060,000 deaths could have been avoided**. \([Journal of Peace Research](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.859.97&rep=rep1&type=pdf#page=7)\)
   * National income inequality is **positively related to the country's rate of schizophrenia**. \([International Journal of Social Psychiatry    ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105302/pdf/nihms-599129.pdf)\)
   * Inequality has a **strong causal relation to worse health**. \([Social Science & Medicine](http://www.hauora.co.nz/~hpforum/assets/files/Global/Pickett%20and%20Wilkinson%20causal%20link%20between%20inequality%20and%20health.pdf)\)
+* Higher wealth inequality **correlates with lower home ownership**. \([OECD](https://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=SDD/DOC%282018%291&docLanguage=En#page=21)\)
 
