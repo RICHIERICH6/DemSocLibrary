@@ -12,7 +12,7 @@
 * [Capitalism](general/capitalism.md)
 * [Economic Inequality](general/untitled.md)
 * [Social Safety Net](general/untitled-1.md)
-* [Employment Protection Legislation & Codetermination](general/untitled-2.md)
+* [Codetermination](general/untitled-2.md)
 * [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
 * [Public Housing](general/public-housing.md)
