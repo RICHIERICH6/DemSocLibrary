@@ -13,12 +13,12 @@
   * Unionized companies **have a lower risk of a stock market crash**. \([Jeong-Bon Kim](https://scholarspace.manoa.hawaii.edu/bitstream/10125/64877/1/HARC_2020_paper_174.pdf)\)
 * Increasing union density at the firm level **leads to a substantial increase in both productivity and wages**. \([The Economic Journal](https://sci-hub.se/downloads/2020-04-28/b3/10.1093@ej@ueaa048.pdf)\)
   * The presence of labor unions has **statistically and economically significant positive effects on firm productivity**. \([Research Institute of Economy, Trade and Industry](https://dacemirror.sci-hub.se/journal-article/3b1befd69e23a8312aee6f4bf34cb524/morikawa2010.pdf)\)
-* Most empirical studies conducted to date have found that teacher unions **positively affect student performance**. \([ILR Review](https://dacemirror.sci-hub.st/journal-article/386f7d12b5dd876d7cd18b789d77dd05/eberts1987.pdf)\)
-  * The presence of teacher unions **appears to be linked to stronger state performance on these exams**. \([Harvard Education Review](https://dacemirror.sci-hub.st/journal-article/352cd9de2c5552eca5cdad2c55861f2c/carini2000.pdf)\)
+* Most empirical studies conducted to date have found that teacher unions **positively affect student performance**. \([ILR Review](https://www.jstor.org/stable/43654121)\)
+  * The presence of teacher unions **appears to be linked to stronger state performance on these exams**. \([Harvard Education Review](https://doi.org/10.17763/haer.70.4.w17t1201442683k6)\)
   * High school students in unionized schools **score higher on the Test of Economic Literacy than students in nonunion districts, ceteris paribus**. \([The Journal of Economic Education](https://files.catbox.moe/cvf3wq.pdf)\)
   * Through industrial and professional bargaining, teachers are able to **secure higher salaries, credentialing, and greater autonomy which lead to improved student achievement**. \([Sociological Forum](https://files.catbox.moe/0slr8q.pdf)\)
   * Black students who attend unionized schools are estimated to **score 13.11 percent above the black SAT mean**. \([Industrial Relations: A Journal of Economy and Society](https://files.catbox.moe/qc6fsr.pdf)\)
-  * The effectiveness of teacher credentials in improving teacher performance **is linked to unionization**. \([Journal of Development Economics](https://dacemirror.sci-hub.se/journal-article/b5f67fea5e4a27ab9b0257facf4d3134/kingdon2010.pdf)    \)
+  * The effectiveness of teacher credentials in improving teacher performance **is linked to unionization**. \([Journal of Development Economics](https://econpapers.repec.org/article/eeedeveco/v_3a91_3ay_3a2010_3ai_3a2_3ap_3a278-288.htm)    \)
 
 ## Higher Wages
 

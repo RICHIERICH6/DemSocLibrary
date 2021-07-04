@@ -5,8 +5,6 @@
 * 60% of economists **support raising the federal minimum wage from $7.25** \([Employment Policy Institute](https://www.epionline.org/wp-content/uploads/2015/11/Nov2015_EPI_MinWageSurvey4.pdf)\)
   * 47% of economists **support raising the federal minimum wage to $9** \([The Initiative on Global Markets](https://www.igmchicago.org/surveys/minimum-wage/)\)
   * 52% of economists **support keeping or increasing the federal minimum wage**. \([Robert Whaples](https://ew-econ.typepad.fr/articleAEAsurvey.pdf)\)
-* 80% of businesses executives **support raising the minimum wage.** \([The Washington Post](https://www.washingtonpost.com/news/wonk/wp/2016/04/04/leaked-documents-show-strong-business-support-for-raising-the-minimum-wage/)\)
-  * 60% of small businesses **support raising the minimum wage to $12**. \([The Hill](https://thehill.com/blogs/congress-blog/labor/249857-small-businesses-support-boosting-minimum-wage)\)
 
 ## Economy
 
