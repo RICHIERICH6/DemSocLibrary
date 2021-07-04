@@ -31,11 +31,13 @@
 
 * Non-RTW states are **significantly healthier, are more productive, have less poverty, and with citizens who enjoy longer life spans**, In four of the seven measures RTW states **come out significantly \(and statistically\) worse**. \([NEA](https://mydigimag.rrd.com/publication/?i=126939&article_id=1181410)\)
 * A 10% increase in union density **was associated with a 17% relative decrease in overdose/suicide mortality**. \([American Journal of Industrial Medicine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293351/pdf/nihms-1594429.pdf)  \)
+* Hospitals with unionized R.N.'s **have 5.5% lower heart-attack mortality than do non-union hospitals**. \([ILR Review](https://sci-hub.st/10.1177/001979390405700306)\)
 * Unions **increase the life satisfaction of citizens, especially for citizens with lower incomes**. \([Social Indicators Research](https://moscow.sci-hub.se/801/52a8f1953cbd137c96a49723ec4d9121/flavin2009.pdf)\)
 * Right to work laws **have increased occupational death by 14.2%**. \([Micheal Zoorob](https://www.forumat.net.br/at/sites/default/files/arq-paginas/does_right_to_work_imperil_right_to_health_ll.pdf)\)
   * Public health practitioners and labor unions **would benefit by partnering to create sophisticated contracts to address social determinants of health**. \([American Journal of Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4880255/pdf/AJPH.2016.303138.pdf)\)
   * Unionization is associated **with a substantial and statistically significant drop in traumatic injuries and in fatalities in underground bituminous coal mines from 1993 to 2010**. \([Alison D. Morantz](https://law.utexas.edu/wp-content/uploads/sites/25/morantz-do-unions-make-a-difference.pdf)\)
   * OSHA inspected New York state construction sites and **found twice as many safety violations at nonunion sites than at unionized sites**. \([NYCOSH](http://nycosh.org/wp-content/uploads/2017/01/DeadlySkyline2017_NYS-ConstructionFatalitiesReport_final_NYCOSH_May.pdf)\)
 * If workers in non-RTW states were to receive ESI at the rate of RTW states, **2 million fewer workers nationally would be covered**, if workers in non-RTW states were to receive pensions at the rate of RTW states, **3.8 million fewer workers nationally would have pensions**. \([Economic Policy Institute](https://files.epi.org/page/-/old/briefingpapers/BriefingPaper299.pdf)\)
+* Unions **increase the political representation of poor and middle-class people**. \([Perspectives on Politics](https://sci-hub.st/10.1017/S153759272000208X)\)
 * Codetermination is **positively correlated with CSR policies, such as the adoption of targets for reducing pollution**. \([European Journal of Industrial Relations](https://www.econstor.eu/bitstream/10419/190804/1/1043362150.pdf)\)
 
