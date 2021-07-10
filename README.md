@@ -8,5 +8,7 @@ description: >-
 
 Credit to /u/BigBrother1942 for helping me out! 🤑
 
+I write about certain issues on policies [here ](https://app.gitbook.com/@babyclav/s/personal-essays/)that I don't think would really fit into this document.
+
 
 
