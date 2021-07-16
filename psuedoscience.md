@@ -123,7 +123,7 @@ Antony Sutton looked at hundreds of official and unofficial Western and Soviet s
 
 ## Venezuela
 
-### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism"N
+### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism!"
 
 {% embed url="https://mises.org/wire/are-oil-prices-blame-venezuelan-crisis" %}
 
