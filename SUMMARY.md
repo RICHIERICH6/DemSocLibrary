@@ -64,7 +64,7 @@
 ## Misc
 
 * [Climate Change](misc/climate-change.md)
-* [Abortion](misc/abortion-and-birth-control/README.md)
+* [Abortion Philosophical Argument](misc/abortion-and-birth-control/README.md)
   * [Birth Control](misc/abortion-and-birth-control/birth-control.md)
 * [Democrats Stay Winning](misc/democrats-stay-winning.md)
 * [Rent Control Bad](misc/rent-control-bad.md)
