@@ -72,8 +72,6 @@ Gregory Elich [reviewed ](https://0x0.la/u/WW9rX7K.pdf)it and finds:
 
 > It is too much to suppose that Stalin could not have seen anything amiss until the end of 1938, had he not set the repression in motion and looked favorably upon its progression. Otherwise, it would have been impossible to overlook the fact that the majority of his comrades in the Central Committee were being arrested and killed, with each accusation more improbable than the last. Nor could he have overlooked more than 1.5 million arrests and nearly 700,000 executions in the period 1937–38. The arrest of Yezhov had more to do with a policy change and a shifting of blame, than with a sluggish dawning of recognition.
 
-Dr Nicholas Terry \(of HolocaustControversies fame\) has reviewed several of his articles
-
 ### Claim: "The USSR [was the 2nd fastest growing economy in the World!](https://web.williams.edu/Economics/brainerd/papers/ussr_july08.pdf)"
 
 {% embed url="https://rentry.co/iko3f" %}
