@@ -62,15 +62,7 @@ The Quarterly Journal of Austrian Economics supposed that there are 6 billion pe
 
 Grover, for all intents and purposes, is a **pseudo-historian to the likes of David Irvings and other neo-Nazi historians.**
 
-Gerald Meyer, a PhD historian [reviewed](https://0x0.la/u/uDggDpX.pdf) Grover's work and finds:
-
-> Furr defends the Soviet state's expulsion of the Volga Germans, Tartars, Chechens, and other ethnic minorities from their homelands because of collaboration with the Nazis. However, these minority people were exiled before the German invasion of the Soviet Union. Furr provides no evidence that these peoples were somehow in communication with the Nazis, plotting ways to undermine the defenses of the Soviet Union.
-
-Gregory Elich [reviewed ](https://0x0.la/u/WW9rX7K.pdf)it and finds:
-
-> Khrushchev charged that Yezhov could not have arrested and shot so many prominent party officials without Stalin’s decision. Furr confirms that Yezhov had many innocent people tortured and killed, but says that Stalin blamed Yezhov and quotes him as describing Yezhov as a “scoundrel” who “ruined our best cadres” \(304\). After the arrest of Yezhov for his excesses, the total number of arrests and executions dropped sharply. Although the scale paled in comparison to 1937–38, there were still nearly 169,000 individuals arrested in 1939–40. This hardly constituted an end to repression.
-
-> It is too much to suppose that Stalin could not have seen anything amiss until the end of 1938, had he not set the repression in motion and looked favorably upon its progression. Otherwise, it would have been impossible to overlook the fact that the majority of his comrades in the Central Committee were being arrested and killed, with each accusation more improbable than the last. Nor could he have overlooked more than 1.5 million arrests and nearly 700,000 executions in the period 1937–38. The arrest of Yezhov had more to do with a policy change and a shifting of blame, than with a sluggish dawning of recognition.
+{% embed url="https://www.reddit.com/r/badhistory/wiki/hall\_of\_infamy\#wiki\_grover\_furr" %}
 
 ### Claim: "The USSR [was the 2nd fastest growing economy in the World!](https://web.williams.edu/Economics/brainerd/papers/ussr_july08.pdf)"
 
