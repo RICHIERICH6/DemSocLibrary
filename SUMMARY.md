@@ -63,7 +63,6 @@
 
 ## Misc
 
-* [Climate Change](misc/climate-change.md)
 * [Democrats Stay Winning](misc/democrats-stay-winning.md)
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
@@ -71,6 +70,7 @@
 
 ## todo
 
+* [Climate Change](todo/climate-change.md)
 * [Abortion Philosophical Argument](todo/untitled.md)
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
