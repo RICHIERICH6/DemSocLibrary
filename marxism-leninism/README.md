@@ -200,6 +200,7 @@ https://sci-hub.se/10.2307/1884665
 
 ### Other
 
+* In 1978, 18 farmers in China decided to break the law at the time and secretly agree to own private property; any surplus grown that year would be theirs - not the collective’s. That year’s harvest was **bigger than the previous 5 years combined and per capita income increased from 22 yuan to 400 yuan**. \([Wikipedia](https://en.wikipedia.org/wiki/Xiaogang,_Anhui)\)
 * China’s poverty in 1980 is **attributed to the impact of the Maoist path since 1950**. Further checks and tests suggest that \(if anything\) **this is likely to be an underestimate**. \([NBER](https://www.nber.org/system/files/working_papers/w28370/w28370.pdf)\)
 * The Cultural Revolution had **long lasting negative effects for firms and economies that wish to encourage innovation**. \([NBER](https://www.nber.org/system/files/working_papers/w27107/w27107.pdf)\)
   * Mao's policies resulted in **slower growth rates when compared to the post reform policies**. \([NBER](https://www.nber.org/system/files/working_papers/w21397/w21397.pdf)\)
