@@ -111,6 +111,12 @@ Antony Sutton looked at hundreds of official and unofficial Western and Soviet s
 > in 1917. It has been carried out through trade and the sale of plants, equipment and technical   
 > assistance.
 
+### Claim: "Socialism industrialised Russia!"
+
+Note that I'm not gonna defend Tsarist Russia, both it and the USSR were terrible, but the claim that Russia wasn't industrialised before socialism would be a lie,[ Nooa Nykänen 2015 ](https://jyx.jyu.fi/bitstream/handle/123456789/46000/URN:NBN:fi:jyu-201505221958.pdf#page=41)looks at major sectors during the Tsar and finds they were pretty industrialised:
+
+![](.gitbook/assets/1529279037510.png)
+
 ## Venezuela
 
 ### Claim: "Venezuela High Reliance on Oil Harmed them, not Socialism!"
