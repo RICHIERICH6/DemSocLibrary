@@ -24,8 +24,6 @@ Another problem of tacit consent is that it assumes the abortion is taking place
 
 The issue is that a person's action cannot fairly be interpreted as proof of tacitly consenting to anything unless it occurs in a setting where such agreement is commonly accepted.
 
-.
-
 ## Responsibility
 
 Micheal Tooley argues that the violinist argument is undermined by considering a case in which you engage in a pleasurable activity knowing that it may have the unfortunate side effect of destroying someone’s food supply, therefore you owe it to said person even if it causes some considerable amount of suffering to yourself. This seems to make sense on the face of it, we hold drunk drivers responsible for manslaughter if an accident occurs, even if they did not intend to kill before being intoxicated. But in the case of negligent driving, there already is an agreement that people have a right not to be run over by cars, so we hold people accountable if they run the risk of violating this right. It’s agreed upon that people don’t deserve to have their food supply intentionally destroyed and from this we derive a right that people not negligently act in ways that risk unintentionally causing these things to occur. But in the case of an unintended pregnancy, the question is whether the fetus has a right not to be deliberately deprived of the needed support the pregnant woman is providing.
