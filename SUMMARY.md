@@ -74,5 +74,4 @@
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
-* [Conservatives = Stupid](todo/conservatives-stupid.md)
 
