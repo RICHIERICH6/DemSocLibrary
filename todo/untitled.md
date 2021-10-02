@@ -48,7 +48,11 @@ You did a voluntary action such that had you not done it, the violinist would no
 
 ## Killing versus Letting Die
 
- A response to the viol
+ A response to the violinist argument could be:
+
+* Premise 1: In the violinist argument, you are unplugging yourself, you're not killing them but merely allowing them to die.
+* Premise 2: in abortion, you are killing the fetus as you have to either kill it or remove it to complete said abortion.
+* Conclusion: Unplugging yourself from the violinist would be permissible as it's just unplugging yourself, but since an abortion requires that you directly kill the fetus, it is not a valid analogy.
 
 ### Notes
 
