@@ -32,6 +32,8 @@ Micheal Tooley argues that the violinist argument is undermined by considering a
 * Premise 2: You are responsible for the fact that, given that the other person now exists, he stands in need of your assistance
 * Conclusion: Therefore, you owe your help to said person even if it is causes some considerable amount of suffering to yourself.
 
+In which I raise this hypothetical:
+
 You are the violinist’s doctor. Seven years ago, you discovered that the violinist had contracted a rare disease that was on the verge of killing him. The only way to save his life that was available to you was to give him a drug that cures the disease but has one unfortunate side effect: Five to ten years after ingestion, it often causes his kidney disease. Knowing that you alone would have the appropriate blood type to save the violinist were his kidneys to fail, you prescribed the drug and cured the disease. The violinist has now been struck by the kidney ailment. If you do not allow him the use of your kidneys for nine months, he will die.
 
 You did a voluntary action such that had you not done it, the violinist would not now exist. If you had not given him the drug, he would not now exist.
