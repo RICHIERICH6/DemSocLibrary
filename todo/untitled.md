@@ -5,7 +5,7 @@
 The most common pro-life position is basically:
 
 * Premise 1: The human fetus has the right to life.
-* Premise 2: If the fetus has a right to life, then abortion is morally impermissible.
+* Premise 2: If the fetus has a right to life, killing the fetus is morally impermissible.
 * Conclusion: Abortion is morally impermissible.
 
 Now whether or not you agree with Premise 1 is fine, but we as humans agree that there is not one "right to life" but a range. For example, an animal may have a lower right to life than a human  but a right to life nonetheless. To illustrate this, if you were driving on the road, and saw a sentient 4 year old child and an artificial womb with a fetus inside, and swerving the car would save the child but kill the artificial womb. Even if you agree that the fetus has the right to life, I assume you would swerve the car to save the child instead of the non sentient fetus.
