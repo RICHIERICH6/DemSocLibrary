@@ -1,6 +1,6 @@
 # Abortion Philosophical Argument
 
-### This page is essentially an incredibly summarized version of Chapter 4 in [David Boonin's A Defense of Abortion](https://files.catbox.moe/4j4mri.pdf). If you want a way more detailed defense of abortion, read that, as this only really covers the Violinist or Good Samaritan Argument.
+### This page is essentially an incredibly summarized version of Chapter 4 in [David Boonin's A Defense of Abortion](https://files.catbox.moe/4j4mri.pdf). If you want a way more detailed defense of abortion, read that, as this only really covers the Violinist Argument.
 
 The most common pro-life position is basically:
 
