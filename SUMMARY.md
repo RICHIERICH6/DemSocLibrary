@@ -71,11 +71,8 @@
 ## todo
 
 * [Abortion Philosophical Argument](todo/untitled.md)
+* [Vegan Philosophical Argument](todo/vegan-philosophical-argument.md)
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
-
----
-
-* [Vegan Philosophical Argument](vegan-philosophical-argument.md)
 
