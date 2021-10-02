@@ -22,7 +22,7 @@ If my niece required a kidney transplant, and I donated my kidney, but before th
 
 If the room is stuffy, and I therefore open a window to air it, and a burglar climbs in, it would be absurd to say, "Ah, now he can stay, she's given him a right to the use of her house--for she is partially responsible for his presence there, having voluntarily done what enabled him to get in, in full knowledge that there are such things as burglars, and that burglars burgle.'' It would be still more absurd to say this if I had had bars installed outside my windows, precisely to prevent burglars from getting in, and a burglar got in only because of a defect in the bars
 
-Another problem of tacit consent is that it assumes the abortion is taking place in a culture of which intercourse will result in carring a pregnancy to term. For example, societies that have a traditional restriction on the number of children a woman can have, or that are against children created outside of marriage or between members of different races or classes.
+Another problem of tacit consent is that it assumes the abortion is taking place in a culture of which intercourse will result in carrying a pregnancy to term. For example, societies that have a traditional restriction on the number of children a woman can have, or that are against children created outside of marriage or between members of different races or classes.
 
 The issue is that a person's action cannot fairly be interpreted as proof of tacitly consenting to anything unless it occurs in a setting where such agreement is commonly accepted.
 
