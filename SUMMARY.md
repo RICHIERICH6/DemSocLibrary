@@ -75,3 +75,7 @@
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
 
+---
+
+* [Vegan Philosophical Argument](vegan-philosophical-argument.md)
+
