@@ -61,7 +61,7 @@ unplugging yourself from the violinist does not. In which I raise this hypotheti
 
 You wake up in the morning and discover that last night some randos kidnapped you and plugged you into a perfectly healthy violinist. In the middle of the night, though, his kidneys unexpectedly failed as a result of a predisposition to such failure that he inherited genetically. As a result, you must remain plugged into him for nine months or he will die.
 
-There was never a time when the violinist was in danger of dying before he was plugged into you, just as there was never a time when the fetus was in danger of dying before it was in the womb. If you unplug yourself in this case, I'm inclinded to say you're simply allowing the events to happen.
+There was never a time when the violinist was in danger of dying before he was plugged into you, just as there was never a time when the fetus was in danger of dying before it was in the womb. If you unplug yourself in this case, I'm inclined to say you're simply allowing the events to happen.
 
 
 
