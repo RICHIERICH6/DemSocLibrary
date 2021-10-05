@@ -25,6 +25,10 @@ The most common trait used to respond to the formal argument would be the idea t
 
 If we in fact agree that only moral agents deserve moral consideration? What’s preventing us from killing babies or extremely mentally disabled people? What’s preventing us from doing so is because they are sentient and can feel so we give them moral consideration.
 
+### Social Contract
+
+This argues that since animals and humans cannot communicate and therefore cannot form a social contract, we do not give the animal moral consideration. If I were on an island stranded with others and there was no society there, does anybody on the island have moral consideration? Do homeless people deserve moral consideration?
+
 ### Intelligence
 
 Similar to the above trait, this argues that animals are of significantly lower intelligence. This is probably the worst trait named because it is so easily applicable to humans. Once again, what’s preventing us from killing babies or extremely mentally disabled people? What would be immoral about super intelligent robots or aliens killing humans?
