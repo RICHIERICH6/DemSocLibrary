@@ -12,7 +12,7 @@ Now whether or not you agree with Premise 1 is fine, but we as humans agree that
 
 A person wakes up to discover that she has been kidnapped in the night and hooked up to an unconscious violinist whose blood must be filtered through her kidneys for a certain period if he is to survive. The director of the hospital concedes that it was wrong of the violinist’s admirers to have hooked her up to him without her consent; nevertheless, he observes, “To unplug you would be to kill him,” and “A person’s right to life outweighs your right to decide what happens in and to your body.”\[^1\]\[^2\]
 
-## Tacit Consent
+### Tacit Consent
 
 A pro-lifer could argue against this by saying that the violinist situation is coercive while the pregnancy was a result of the woman, who consented to sexual intercourse:
 
@@ -32,7 +32,7 @@ Another problem of tacit consent is that it assumes the abortion is taking place
 
 The issue is that a person's action cannot fairly be interpreted as proof of tacitly consenting to anything unless it occurs in a setting where such agreement is commonly accepted.
 
-## Responsibility
+### Responsibility
 
 Micheal Tooley argues that the violinist argument is undermined by considering a case in which you engage in a pleasurable activity knowing that it may have the unfortunate side effect of destroying someone’s food supply, therefore you owe it to said person even if it causes some considerable amount of suffering to yourself. Basically, if we were to apply it to a pregnancy:
 
@@ -46,7 +46,7 @@ You are the violinist’s doctor. Seven years ago, you discovered that the violi
 
 You did a voluntary action such that had you not done it, the violinist would not now exist. If you had not given him the drug, he would not now exist. A woman whose pregnancy is the result of voluntary intercourse, that is, is responsible for the existence of the fetus, but is not responsible for the neediness of the fetus, given that it exists.
 
-## Killing versus Letting Die
+### Killing versus Letting Die
 
  A response to the violinist argument could be:
 
