@@ -38,7 +38,7 @@ This argues that since god dictates morality, and god allows us to kill animals,
 
 ## No Ethical Consumption under Capitalism
 
-The argument essentially removes the role of individual responsibility from a person who refuses to be vegan just because capitalism may be unethical. This is simply a nirvana fallacy, just because it may be impossible to avoid all wrongdoing doesn’t mean we don’t try to lessen harm. If I live in a society where slavery is allowed, it would still be immoral for me to buy a slave.
+The argument essentially removes the role of individual responsibility from a person who refuses to be vegan just because capitalism may be unethical. This is simply a nirvana fallacy, just because it may be impossible to avoid all wrongdoing doesn’t mean we don’t try to lessen harm. If I live in a society where slavery is allowed, it would still be immoral for me to buy a slave. If you argue from the perspective of a utilitarian \(which Vaush is and he uses this argument\), then veganism definitely is something that should be encouraged even on an individual level, as it improves the health of said person, which would increase the utility of the world no?
 
 ## Notes
 
