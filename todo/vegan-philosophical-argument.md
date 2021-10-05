@@ -44,10 +44,20 @@ This argues that since god dictates morality, and god allows us to kill animals,
 
 The argument essentially removes the role of individual responsibility from a person who refuses to be vegan just because capitalism may be unethical. This is simply a nirvana fallacy, just because it may be impossible to avoid all wrongdoing doesn’t mean we don’t try to lessen harm. If I live in a society where slavery is allowed, it would still be immoral for me to buy a slave. If we agree that something is not worth doing simply because it doesn't solve the entire problem, then drinking water when thirsty is simply useless because it doesn't solve the issue of constantly needing water.
 
+## Other Arguments
+
+### Utilitarianism
+
+I myself am not a utilitarian, but if you are one, you should absolutely be for veganism. 
+
+* Vegans are usually healthier and have reduced risk at certain health conditions and therefore their well being is improved and therefore that is more utility in the world.
+* A vegan diet is the single biggest way to reduce our environmental impact, better environment means more utility I'd imagine. \[^5\]
+
 #### Citations
 
 * \[^1\]: For proof of validity, check [here](https://philosophicalvegan.com/wiki/index.php/NameTheTrait_2.0#Proof_of_Validity).
 * \[^2\]:  [Position of the Academy of Nutrition and Dietetics: Vegetarian Diets](https://pubmed.ncbi.nlm.nih.gov/27886704/)
 * \[^3\]:  [Common Plant-Eating Animals](https://examples.yourdictionary.com/herbivore-examples-common-plant-eating-animals.html)
 * \[^4\]: [Are animals moral agents?](https://www.efe.com/efe/english/technology/are-animals-moral-agents/50000267-4013881)
+* \[^5\]: [VEGANISM IS ‘SINGLE BIGGEST WAY’ TO REDUCE OUR ENVIRONMENTAL IMPACT, STUDY FINDS](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
 
