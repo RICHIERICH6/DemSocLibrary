@@ -17,7 +17,7 @@ This is just fallacious reasoning. Something being “natural” doesn’t mean 
 
 ## Animals Eat Each Other
 
-Not all animals eat each other, many animals in fact are herbivores.  The major problem with this though is that animal behavior does not excuse our own, the fact that an infant vomits and poops all over itself doesn't mean it's okay for you to do so for others. Animals do all sorts of things to each other \(and to us\), including eating each other. Does this make it okay for us to do the same thing?
+Not all animals eat each other, many animals in fact are herbivores.  The major problem with this though is that animal behaviour does not excuse our own, the fact that an infant vomits and poops all over itself doesn't mean it's okay for you to do so for others. Animals do all sorts of things to each other \(and to us\), including eating each other. Does this make it okay for us to do the same thing?
 
 ## Moral Agency
 
