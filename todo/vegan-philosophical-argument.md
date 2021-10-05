@@ -62,7 +62,7 @@ Pretty self explanatory really. If you were an animal, I presume you wouldn't li
 * Premise 1: We should not inflict massive suffering upon or kill sentient companion animals \(e.g. dogs and budgies\) for reasons as trivial as taste pleasure.
 * Premise 2: If we should not inflict massive suffering upon or kill sentient companion animals for reasons as trivial as taste pleasure, but it's OK to inflict massive suffering upon or killing sentient wild animals for reasons as trivial as taste pleasure, then there must be some morally relevant difference between sentient companion animals and sentient wild animals that is important enough to justify this radical difference in how it is OK to treat them.
 * Premise 3: There is no morally relevant difference between sentient companion animals and sentient wild animals that is important enough to justify this radical difference in how it is OK to treat them.
-* Conclusion 1: We should not inflict massive suffering upon or kill sentient wild animals for reasons as trivial as taste pleasure. \[^6\]
+* Conclusion: We should not inflict massive suffering upon or kill sentient wild animals for reasons as trivial as taste pleasure. \[^6\]
 
 #### Citations
 
