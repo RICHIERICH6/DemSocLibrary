@@ -8,6 +8,8 @@ The most common pro-life position is basically:
 
 Now whether or not you agree with Premise 1 is fine, but we as humans agree that there is not one "right to life" but a range. For example, an animal may have a lower right to life than a human  but a right to life nonetheless. To illustrate this, if you were driving on the road, and saw a sentient 4 year old child and an artificial womb with a fetus inside, and swerving the car would save the child but kill the artificial womb. Even if you agree that the fetus has the right to life, I assume you would swerve the car to save the child instead of the non sentient fetus, but I'd raise this hypothetical:
 
+## Formal Argument
+
 A person wakes up to discover that she has been kidnapped in the night and hooked up to an unconscious violinist whose blood must be filtered through her kidneys for a certain period if he is to survive. The director of the hospital concedes that it was wrong of the violinist’s admirers to have hooked her up to him without her consent; nevertheless, he observes, “To unplug you would be to kill him,” and “A person’s right to life outweighs your right to decide what happens in and to your body.”\[^1\]\[^2\]
 
 ## Tacit Consent
