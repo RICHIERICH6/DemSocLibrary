@@ -23,7 +23,7 @@ Not all animals eat each other, many animals in fact are herbivores.  The major 
 
 The most common trait used to respond to the formal argument would be the idea that animals do not have the ability to make moral judgements, so they do not deserve moral consideration. The problem is that certain animals \(elephants, whales, primates\) do infact show some levels of empathy or moral agency, similar to that of humans. Another problem is “well why does moral agency define moral value?”
 
- If we in fact agree that only moral agents deserve moral consideration? What’s preventing us from killing babies or extremely mentally disabled people? What’s preventing us from doing so is because they are sentient and can feel so we give them moral consideration.
+If we in fact agree that only moral agents deserve moral consideration? What’s preventing us from killing babies or extremely mentally disabled people? What’s preventing us from doing so is because they are sentient and can feel so we give them moral consideration.
 
 ## Intelligence
 
