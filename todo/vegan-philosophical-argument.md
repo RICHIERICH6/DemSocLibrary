@@ -40,7 +40,7 @@ This argues that since god dictates morality, and god allows us to kill animals,
 
 The argument essentially removes the role of individual responsibility from a person who refuses to be vegan just because capitalism may be unethical. This is simply a nirvana fallacy, just because it may be impossible to avoid all wrongdoing doesn’t mean we don’t try to lessen harm. If I live in a society where slavery is allowed, it would still be immoral for me to buy a slave. If we agree that something is not worth doing simply because it doesn't solve the entire problem, then drinking water when thirsty is simply useless because it doesn't solve the issue of constantly needing water.
 
-## Notes
+## Citations
 
 * \[^1\]: For proof of validity, check [here](https://philosophicalvegan.com/wiki/index.php/NameTheTrait_2.0#Proof_of_Validity).
 * \[^2\]:  [Position of the Academy of Nutrition and Dietetics: Vegetarian Diets](https://pubmed.ncbi.nlm.nih.gov/27886704/)
