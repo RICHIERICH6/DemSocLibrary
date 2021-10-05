@@ -53,6 +53,10 @@ I myself am not a utilitarian, but if you are one, you should absolutely be for 
 * Vegans are usually healthier and have reduced risk at certain health conditions and therefore their well being is improved and therefore that is more utility in the world.
 * A vegan diet is the single biggest way to reduce our environmental impact, better environment means more utility I'd imagine. \[^5\]
 
+### Golden Rule
+
+Pretty self explanatory really. If you were an animal, I presume you wouldn't like to be born into property just to be killed for someone elses pleasure.
+
 #### Citations
 
 * \[^1\]: For proof of validity, check [here](https://philosophicalvegan.com/wiki/index.php/NameTheTrait_2.0#Proof_of_Validity).
