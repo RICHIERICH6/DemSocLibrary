@@ -11,7 +11,7 @@
 
 No, just no. \[^1\]
 
-## It’s Natural
+## Eating Meat Is Okay Because It's Natural
 
 This is just fallacious reasoning. Something being “natural” doesn’t mean it’s good, and there’s also the problem of “what does natural even mean?”
 
