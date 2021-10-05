@@ -57,6 +57,13 @@ I myself am not a utilitarian, but if you are one, you should absolutely be for 
 
 Pretty self explanatory really. If you were an animal, I presume you wouldn't like to be born just to be killed for someone elses pleasure.
 
+### Companion Animals
+
+* Premise 1: We should not inflict massive suffering upon or kill sentient companion animals \(e.g. dogs and budgies\) for reasons as trivial as taste pleasure.
+* Premise 2: If we should not inflict massive suffering upon or kill sentient companion animals for reasons as trivial as taste pleasure, but it's OK to inflict massive suffering upon or killing sentient wild animals for reasons as trivial as taste pleasure, then there must be some morally relevant difference between sentient companion animals and sentient wild animals that is important enough to justify this radical difference in how it is OK to treat them.
+* Premise 3: There is no morally relevant difference between sentient companion animals and sentient wild animals that is important enough to justify this radical difference in how it is OK to treat them.
+* Conclusion 1: We should not inflict massive suffering upon or kill sentient wild animals for reasons as trivial as taste pleasure. \[^6\]
+
 #### Citations
 
 * \[^1\]: For proof of validity, check [here](https://philosophicalvegan.com/wiki/index.php/NameTheTrait_2.0#Proof_of_Validity).
@@ -64,4 +71,5 @@ Pretty self explanatory really. If you were an animal, I presume you wouldn't li
 * \[^3\]:  [Common Plant-Eating Animals](https://examples.yourdictionary.com/herbivore-examples-common-plant-eating-animals.html)
 * \[^4\]: [Are animals moral agents?](https://www.efe.com/efe/english/technology/are-animals-moral-agents/50000267-4013881)
 * \[^5\]: [VEGANISM IS ‘SINGLE BIGGEST WAY’ TO REDUCE OUR ENVIRONMENTAL IMPACT, STUDY FINDS](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html)
+* \[^6\] This argument is from Alastair Norcross's paper, "[Puppies, Pigs, and People: Eating Meat and Marginal Cases](https://spot.colorado.edu/~heathwoo/readings/norcross.pdf)", which i'd suggest reading.
 
