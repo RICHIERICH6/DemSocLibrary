@@ -35,7 +35,6 @@ This argues that since god dictates morality, and god allows us to kill animals,
 
 * You'd have to establish that god even exists which is a whole other can of worms.
 * If there are no moral standard other than God's will, then God's commands are arbitrary, which would mean morality isn't based off reason.
-* What god deems what is good or bad? 
 
 ## No Ethical Consumption under Capitalism
 
