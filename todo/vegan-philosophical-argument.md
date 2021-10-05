@@ -55,7 +55,7 @@ I myself am not a utilitarian, but if you are one, you should absolutely be for 
 
 ### Golden Rule
 
-Pretty self explanatory really. If you were an animal, I presume you wouldn't like to be born into property just to be killed for someone elses pleasure.
+Pretty self explanatory really. If you were an animal, I presume you wouldn't like to be born just to be killed for someone elses pleasure.
 
 #### Citations
 
