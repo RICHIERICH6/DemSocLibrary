@@ -76,8 +76,8 @@ https://sci-hub.se/10.2307/1884665
     </tr>
     <tr>
       <td style="text-align:left">Soviet-Afghan War</td>
-      <td style="text-align:left">562,995</td>
-      <td style="text-align:left"><a href="https://www.prio.org/Global/upload/CSCW/Data/BattleDeath/Monitoring%20trends%20in%20global%20combat%20EJP.pdf#page=10">European Journal of Population</a>
+      <td style="text-align:left">850,000</td>
+      <td style="text-align:left"><a href="https://books.google.com/books?id=LOC-DgAAQBAJ&amp;pg=PT49#v=onepage&amp;q&amp;f=false">John W. Dower</a>
       </td>
       <td style="text-align:left">This is referring to civilian casualties.</td>
     </tr>
@@ -106,7 +106,7 @@ https://sci-hub.se/10.2307/1884665
     </tr>
     <tr>
       <td style="text-align:left">Total</td>
-      <td style="text-align:left"><b>10,741,000</b>
+      <td style="text-align:left"><b>11,591,000</b>
       </td>
       <td style="text-align:left">&lt;b&gt;&lt;/b&gt;</td>
       <td style="text-align:left"></td>
