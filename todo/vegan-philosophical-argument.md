@@ -33,7 +33,7 @@ Similar to the above trait, this argues that animals are of significantly lower 
 
 This argues that since god dictates morality, and god allows us to kill animals, killing animals is morally acceptable. This goes into more about metaethics overall rather than veganism, so I will just summarize the problems with divine command theory:
 
-* Consider the is-ought distinction, just because God is omnipotent and h
+* You'd have to establish that god even exists which is a whole other can of worms.
 
 ## No Ethical Consumption under Capitalism
 
