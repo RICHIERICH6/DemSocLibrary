@@ -68,14 +68,11 @@
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
 * [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
+* [Abortion Philosophical Argument](misc/untitled.md)
 
 ## todo
 
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
-
----
-
-* [Abortion Philosophical Argument](untitled.md)
 
