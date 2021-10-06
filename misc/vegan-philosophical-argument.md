@@ -5,11 +5,11 @@
 * Premise 1: Humans have non-trivial moral status just in case and because they have a certain trait.
 * Premise 2: If humans have non-trivial moral status just in case and because they have a certain trait, then all beings have non-trivial moral status just in case and because they have that trait.
 * Premise 3: Sentient animals have the trait that gives non-trivial moral status to humans.
-* Conclusion: Therefore, Sentient animals have non-trivial moral status 
+* Conclusion: Therefore, Sentient animals have non-trivial moral status  \[^1\]
 
 ### Meat is Necessary in a Diet
 
-No, just no. \[^1\]
+No, just no. \[^2\]
 
 ### Killing Animals Is Okay Because It's Natural
 
