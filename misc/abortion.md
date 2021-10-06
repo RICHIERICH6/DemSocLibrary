@@ -36,3 +36,5 @@ This reasons that since fetuses are potential persons, they deserve moral consid
 
 A similar argument to this is from Don Marquis’s paper “Why Abortion is Immoral”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our \(expected to be\) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. The problem is that fetuses don’t have the same “future like our future”, they aren’t sentient beings so they are psychologically disconnected from any possible future experiences. Children and adults \(and arguably babies\) are aware of the current moment which leads to the next, thinking about their future, but fetuses can do no such thing.
 
+The issue is that contraception, even abstinence, prevents that thing's future value from materializing, and thus appears to be incorrect when we apply Marquis' reasoning. Because contraception is not always wrong, but his general premise implies that it is, it appears that preventing something from experiencing its valuable future isn't always wrong, and thus Marquis' argument appears to be flawed.
+
