@@ -68,7 +68,7 @@
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
 * [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
-* [Abortion Philosophical Argument](misc/untitled.md)
+* [Abortion Philosophical Argument](misc/abortion.md)
 
 ## todo
 
