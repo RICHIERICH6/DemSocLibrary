@@ -71,7 +71,6 @@
 
 ## todo
 
-* [Abortion Philosophical Argument](todo/untitled.md)
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
