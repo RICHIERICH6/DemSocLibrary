@@ -67,11 +67,11 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
+* [Veganism](misc/vegan-philosophical-argument.md)
 
 ## todo
 
 * [Abortion Philosophical Argument](todo/untitled.md)
-* [Veganism](todo/vegan-philosophical-argument.md)
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
