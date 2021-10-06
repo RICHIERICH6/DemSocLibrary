@@ -7,6 +7,8 @@
 * Premise 3: Sentient animals have the trait that gives non-trivial moral status to humans.
 * Conclusion: Therefore, Sentient animals have non-trivial moral status  \[^1\]
 
+## Counterarguments
+
 ### Meat is Necessary in a Diet
 
 No, just no. \[^2\]
@@ -35,11 +37,7 @@ Similar to the above trait, this argues that animals are of significantly lower 
 
 ### Plants are Alive
 
-What does alive mean? I mean technically plants are alive, in the sense that they fit the criteria for a "living being", but they are functionally "dead". A braindead person may be technically "alive", but really they are dead the same way plants are. Plants aren't sentient therefore they do not experience life, so they are functionally dead. This goes more into Abortion but one could argue that "we could kill sleeping people with this logic", but who people who are asleep are at-least conscious to some degree. \[^7\]
-
-Another similar response would be "is it okay to kill comatose people?" but there is a morally relevant distinction between someone regaining their life than someone who's not even alive in the first place. A temporarily unsentient person has rights a "dead" or unsentient person does not have, because they have a history of sentience, interest in living, an identity formed around sentience, and so on. If this weren't the case we'd argue that a glob of sperm is "alive" and deserves moral consideration which is obviously ridiculous.
-
-### Divine Command Theory \(WIP\)
+Divine Command Theory \(WIP\)
 
 This argues that since god dictates morality, and god allows us to kill animals, killing animals is morally acceptable. This goes into more about metaethics overall rather than veganism, so I will just summarize the problems with divine command theory:
 
