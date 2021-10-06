@@ -33,7 +33,7 @@ This argues that since animals and humans cannot communicate and therefore canno
 
 Similar to the above trait, this argues that animals are of significantly lower intelligence. This is probably the worst trait named because it is so easily applicable to humans. Once again, what’s preventing us from killing babies or extremely mentally disabled people? What would be immoral about super intelligent robots or aliens killing humans?
 
-### Divine Command Theory
+### Divine Command Theory \(WIP\)
 
 This argues that since god dictates morality, and god allows us to kill animals, killing animals is morally acceptable. This goes into more about metaethics overall rather than veganism, so I will just summarize the problems with divine command theory:
 
