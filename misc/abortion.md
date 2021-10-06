@@ -20,7 +20,7 @@ If I were to exist, but then die to say cancer, that would be bad for me because
 
 ### What does it have to do with a fetus?
 
-If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience \(as they don’t have a central nervous system\), they lack rights. Minds matter, not the heart or any cells in your body, who's the fetus to care if they never existed? This questions the notion that “Abortion ends a life”, I mean yeah but why does ending a life matter when mold, bacteria, mosquitos are all alive but aren’t sentient and therefore aren’t granted moral considertation.
+If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience \(as they don’t have a central nervous system\), they lack rights. Minds matter, not the heart or any cells in your body, who's the fetus to care if they never existed? This questions the notion that “Abortion ends a life”, I mean yeah but why does ending a life matter when mold, bacteria, mosquito's are all alive but aren’t sentient and therefore aren’t granted moral consideration.
 
 ## CounterArguments
 
