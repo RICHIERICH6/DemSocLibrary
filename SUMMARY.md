@@ -67,7 +67,7 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
-* [Veganism](misc/vegan-philosophical-argument.md)
+* [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
 
 ## todo
 

@@ -1,4 +1,4 @@
-# Veganism
+# Veganism Philosophical Argument
 
 ## Formal Argument
 
