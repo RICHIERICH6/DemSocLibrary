@@ -38,3 +38,9 @@ A similar argument to this is from Don Marquis’s paper “Why Abortion is Immo
 
 The issue is that contraception, even abstinence, prevents that thing's future value from materializing, and thus appears to be incorrect when we apply Marquis' reasoning. Because contraception is not always wrong, but his general premise implies that it is, it appears that preventing something from experiencing its valuable future isn't always wrong, and thus Marquis' argument appears to be flawed.
 
+### Sleeping Person
+
+A common argument against this \(even Ben Shapiro used it\) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) \(even dreamless sleep\). 
+
+Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them \(and usually others too\). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
+

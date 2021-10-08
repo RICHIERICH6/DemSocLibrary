@@ -37,7 +37,9 @@ Similar to the above trait, this argues that animals are of significantly lower 
 
 ### Plants are Alive
 
-Divine Command Theory \(WIP\)
+Addressed [here](abortion.md#why-does-sentience-matter).
+
+### Divine Command Theory \(WIP\)
 
 This argues that since god dictates morality, and god allows us to kill animals, killing animals is morally acceptable. This goes into more about metaethics overall rather than veganism, so I will just summarize the problems with divine command theory:
 

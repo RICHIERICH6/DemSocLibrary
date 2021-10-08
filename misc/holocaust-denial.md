@@ -1,6 +1,8 @@
 # Holocaust Denial
 
-## Quotes
+## Evidence
+
+### Quotes
 
 > Once I really am in power, **my first and foremost task will be the annihilation of the Jews**. As soon as I have the power to do so, I will have gallows built in rows — at the Marienplatz in Munich, for example — as many as traffic allows. **Then the Jews will be hanged indiscriminately, and they will remain hanging until they stink; they will hang there as long as the principles of hygiene permit**. **As soon as they have been untied, the next batch will be strung up, and so on down the line, until the last Jew in Munich has been exterminated. Other cities will follow suit, precisely in this fashion, until all Germany has been completely cleansed of Jews.**
 
@@ -16,7 +18,15 @@
 
 > The intellectual does not have the natural means of resisting the Jewish peril because his instincts have been badly blunted. Because of this fact the nations with a high standard of civilization are exposed to this peril first and foremost. In nature life always takes measures against parasites; in the life of nations that is not always the case. From this fact the Jewish peril actually stems. **There is therefore no other recourse left for modern nations except to exterminate the Jew**…
 
--- Joseph Goebbels, [1943](https://web.archive.org/web/20191230081506/http://www.nizkor.org:80/hweb/people/g/goebbels-joseph/goebbels-1948-excerpts-02.html)
+-- Joseph Goebbels, [1943](https://web.archive.org/web/20191230081506/http://www.nizkor.org:80/hweb/people/g/goebbels-joseph/goebbels-1948-excerpts-02.html)
 
-> Every one of us was horrified, and yet every one clearly understood that we would do it next time, when the order is given and when it becomes necessary. **I am now referring to the evacuation of the Jews, to the extermination of the Jewish people.**
+### German Documents[](https://web.archive.org/web/20191230081506/http://www.nizkor.org:80/hweb/people/g/goebbels-joseph/goebbels-1948-excerpts-02.html)
+
+* The Wannsee Protocols outline Nazi plans for "the evacuation of the Jews to the East"; **"evacuation" was a common metaphor for extermination** \([Wansee Protocol](http://holocaust.umd.umich.edu/news/uploads/WanseeProtocols.pdf)\)
+* The Jager report states that **133,346 people were killed** \([Holocaust Controversies](http://holocaustcontroversies.blogspot.com/2012/04/jager-report.html)\)'
+* Heinrich Himmler's report Number 51 states that **363,211 Jews were killed**
+* Document 501-PS **discusses the benefits of using gas vans for execution** \([PHDN](https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/gasvan1.htm)\)
+* Kantzmann Report states **the killing of 434,329 Jews** \([Nuremberg Trials Project](http://nuremberg.law.harvard.edu/documents/4404-cover-letter-to-ss#p.1)\)
+* 
+
 
