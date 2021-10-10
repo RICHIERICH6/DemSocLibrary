@@ -26,7 +26,7 @@ We don’t worry about the cells on our skin that we scratch or the grass we ste
 
 ### What does it have to do with a fetus?
 
-If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body.
+If  plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body.
 
 Imagine that someone was born unsentient and lived their entire life without sentience, they never had perceptions or feelings, no awareness, no happiness, and no sadness. What was this person? There never was a person, it just an empty husk. Nothing bad could ever happen to this person since they never really existed.\
 
