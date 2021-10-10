@@ -24,7 +24,7 @@
 
 ## Civics
 
----
+***
 
 * [Democracy](why-democracy.md)
 * [Restorative Justice](restorative-justice.md)
@@ -34,7 +34,7 @@
 
 ## GSRM
 
----
+***
 
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
@@ -43,13 +43,13 @@
   * [Detransitioning Is Rare](https://ia601509.us.archive.org/2/items/detransitioning-is-rarer-than-alot-of-people-say/Detransitioning%20is%20rarer%20than%20alot%20of%20people%20say.pdf)
 * [Homosexuals aren't Pedophiles](lgbtq+-pedophiles.md)
 
-## Heterodox Economics Bad <a id="heterodox-economics-debunked"></a>
+## Heterodox Economics Bad <a href="heterodox-economics-debunked" id="heterodox-economics-debunked"></a>
 
 * [Modern Monetary Theory](heterodox-economics-debunked/mmtbad.md)
 
 ## socialism bad
 
----
+***
 
 * [Economic Calculation Problem](economic-calculation-problem.md)
 * [Marxian Economics](marxian-economics.md)
@@ -67,12 +67,11 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
-* [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
 * [Abortion Philosophical Argument](misc/abortion.md)
+* [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
 
 ## todo
 
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
-

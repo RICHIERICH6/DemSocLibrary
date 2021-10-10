@@ -24,13 +24,12 @@ Sentience is the line of whether something is aware and perceives, has free will
 
 We don’t worry about the cells on our skin that we scratch or the grass we step on or the bacteria in our armpits, well why would we? Just because they’re biologically alive doesn’t mean we care about them.
 
-Imagine that someone was born unsentient and lived their entire existence without sentience, they never had perceptions or feelings, no awareness, no happiness, and no sadness. What was this person? There never was a person, it was just an empty husk. Nothing bad could ever happen to this person since they never really existed.
-
-If I were to exist as a person with sentience, but then die to cancer, that would be bad for me because I was me. I existed and then my sentience ended prematurely and that's unfortunate.
-
 ### What does it have to do with a fetus?
 
-If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body, who's the fetus to care if they never existed?
+If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body.
+
+Imagine that someone was born unsentient and lived their entire life without sentience, they never had perceptions or feelings, no awareness, no happiness, and no sadness. What was this person? There never was a person, it just an empty husk. Nothing bad could ever happen to this person since they never really existed.\
+
 
 ## Counter Arguments
 
@@ -38,7 +37,7 @@ If rocks and plants aren’t sentient and that's why they lack rights, then it w
 
 “How would you like it if you were aborted?” essentially.
 
-This is pretty silly, considering any amount of actions could easily prevent a birth other than an abortion. What if my would-be father got a vasectomy, or my mother and father never met, or my mother decided to be celibate? The hypothetical fetus wouldn’t be here to answer the question, someone else would be. If I were aborted, I probably wouldn't care simply because I wouldn't have the ability to.
+This is pretty silly, considering any amount of actions could easily prevent a birth other than an abortion. What if my would-be father got a vasectomy, or my mother and father never met, or my mother decided to be celibate? The hypothetical fetus wouldn’t be here to answer the question, someone else would be. If I were aborted, nobody would be depriving me of anything because I never existed.
 
 ### Potentiality
 
