@@ -28,7 +28,7 @@ We don’t worry about the cells on our skin that we scratch or the grass we ste
 
 If  plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body.
 
-Imagine that someone was born unsentient and lived their entire life without sentience, they never had perceptions or feelings, no awareness, no happiness, and no sadness. What was this person? There never was a person, it just an empty husk. Nothing bad could ever happen to this person since they never really existed.\
+Imagine that someone was born unsenttient and lived their entire life without sentience, they never had perceptions or feelings, no awareness, no happiness, and no sadness. What was this person? There never was a person, it just an empty husk. Nothing bad could ever happen to this person since they never really existed.\
 
 
 ## Counter Arguments
@@ -41,11 +41,16 @@ This is pretty silly, considering any amount of actions could easily prevent a b
 
 ### Potentiality
 
-This reasons that since fetuses are potential persons, they deserve moral consideration. This however does not reason that they have the rights of an existing person because we don't grant rights that way. Potential doctors, presidents, veterans, adults, graduates, judges, etc don’t have the rights of actual doctors, presidents, veterans, adults, graduates, and judges.
+This reasons that since fetuses are potential persons, they deserve moral consideration. This however does not reason that they have the rights of an existing person because we don't grant rights that way. Potential doctors, presidents, veterans, adults, graduates, judges, etc don’t have the rights of actual doctors, presidents, veterans, adults, graduates, and judges. To illustrate this:
 
-A similar argument to this is from Don Marquis’s paper “Why Abortion is Immoral”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. The problem is that fetuses don’t have the same “future like our future”, they aren’t sentient beings so they are psychologically disconnected from any possible future experiences. Children and adults (and arguably babies) are aware of the current moment which leads to the next, thinking about their future, but fetuses can do no such thing.
+> If person X is President of the USA and thus is Commander in Chief of the army, then person X had the potential ability to become the President of the USA and Commander in Chief of the army in the years before his rule.> \
+>> \
+> But, it does not follow that:> \
+>> The person X has the authority to command the army as potential President of the USA.
 
-The issue is that contraception, even abstinence, prevents that thing's future value from materializing, and thus appears to be incorrect when we apply Marquis' reasoning. Because contraception is not always wrong, but his general premise implies that it is, it appears that preventing something from experiencing its valuable future isn't always wrong, and thus Marquis' argument appears to be flawed.
+#### Don Marquis Argment (WIP)
+
+A argument that is tangentially related to potentiality is from Don Marquis’s paper “[Why Abortion is Immoral](abortion.md#formal-argument)”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. 
 
 ### Sleeping Person
 
