@@ -2,9 +2,11 @@
 
 ## Formal Argument
 
+###
+
 ### What is Sentience?
 
-Sentience is the ability to feel, perceive and experience subjectively, it allows for the awareness of one's own surroundings \(consciousness\) and the subjective interpretation of such, although not all sentient beings are conscious at all times \(unconsciousness\).
+Sentience is the ability to feel, perceive and experience subjectively, it allows for the awareness of one's own surroundings (consciousness) and the subjective interpretation of such, although not all sentient beings are conscious at all times (unconsciousness).
 
 ### Why does sentience matter?
 
@@ -20,7 +22,7 @@ If I were to exist, but then die to say cancer, that would be bad for me because
 
 ### What does it have to do with a fetus?
 
-If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience \(as they don’t have a central nervous system\), they lack rights. Minds matter, not the heart or any cells in your body, who's the fetus to care if they never existed? This questions the notion that “Abortion ends a life”, I mean yeah but why does ending a life matter when mold, bacteria, mosquito's are all alive but aren’t sentient and therefore aren’t granted moral consideration.
+If rocks and plants aren’t sentient and that's why they lack rights, then it would reason that since embryos and early fetuses completely lack sentience (as they don’t have a central nervous system), they lack rights. Minds matter, not the heart or any cells in your body, who's the fetus to care if they never existed? This questions the notion that “Abortion ends a life”, I mean yeah but why does ending a life matter when mold, bacteria, mosquito's are all alive but aren’t sentient and therefore aren’t granted moral consideration.
 
 ## CounterArguments
 
@@ -34,13 +36,12 @@ This is pretty silly, considering any amount of actions could easily prevent a b
 
 This reasons that since fetuses are potential persons, they deserve moral consideration. This however does not reason that they have the rights of an existing person because we don't grant rights that way. Potential doctors, presidents, veterans, adults, graduates, judges, etc don’t have the rights of actual doctors, presidents, veterans, adults, graduates, and judges.
 
-A similar argument to this is from Don Marquis’s paper “Why Abortion is Immoral”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our \(expected to be\) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. The problem is that fetuses don’t have the same “future like our future”, they aren’t sentient beings so they are psychologically disconnected from any possible future experiences. Children and adults \(and arguably babies\) are aware of the current moment which leads to the next, thinking about their future, but fetuses can do no such thing.
+A similar argument to this is from Don Marquis’s paper “Why Abortion is Immoral”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. The problem is that fetuses don’t have the same “future like our future”, they aren’t sentient beings so they are psychologically disconnected from any possible future experiences. Children and adults (and arguably babies) are aware of the current moment which leads to the next, thinking about their future, but fetuses can do no such thing.
 
 The issue is that contraception, even abstinence, prevents that thing's future value from materializing, and thus appears to be incorrect when we apply Marquis' reasoning. Because contraception is not always wrong, but his general premise implies that it is, it appears that preventing something from experiencing its valuable future isn't always wrong, and thus Marquis' argument appears to be flawed.
 
 ### Sleeping Person
 
-A common argument against this \(even Ben Shapiro used it\) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) \(even dreamless sleep\). 
+A common argument against this (even Ben Shapiro used it) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) (even dreamless sleep). 
 
-Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them \(and usually others too\). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
-
+Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them (and usually others too). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
