@@ -41,19 +41,27 @@ This is pretty silly, considering any amount of actions could easily prevent a b
 
 ### Potentiality
 
-This reasons that since fetuses are potential persons, they deserve moral consideration. This however does not reason that they have the rights of an existing person because we don't grant rights that way. Potential doctors, presidents, veterans, adults, graduates, judges, etc don’t have the rights of actual doctors, presidents, veterans, adults, graduates, and judges. To illustrate this:
+This reasons that since fetuses are potential persons, they deserve moral status. This however does not reason that they have the rights of an existing person because we don't grant rights that way. Potential doctors, presidents, veterans, adults, graduates, judges, etc don’t have the rights of actual doctors, presidents, veterans, adults, graduates, and judges. To illustrate this:
 
 > If person X is President of the USA and thus is Commander in Chief of the army, then person X had the potential ability to become the President of the USA and Commander in Chief of the army in the years before his rule.> \
 >> \
 > But, it does not follow that:> \
 >> The person X has the authority to command the army as potential President of the USA.
 
-#### Don Marquis Argment (WIP)
+#### Future Like Ours (WIP)
 
-A argument that is tangentially related to potentiality is from Don Marquis’s paper “[Why Abortion is Immoral](abortion.md#formal-argument)”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. 
+A argument that is tangentially related to potentiality is from Don Marquis’s paper “[Why Abortion is Immoral](abortion.md#formal-argument)”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. In a formal argument this would basically be:
+
+* Premise 1: It is morally wrong except in extreme circumstances to cause anything the loss of a valuable future.
+* Premise 2: Abortion causes a fetus the loss of a valuable future.
+* Conclusion: Therefore, abortion is morally wrong except in extreme circumstances.
+
+If deprivation of potentially valuable futures is presumed to be a sort of responsible homicide, then culpable homicide occurs whenever a person is refused access to what he or she requires to survive. Homicide victims include a homeless guy who dies from exposure, an elderly woman whose warm flat causes a fatal case of pneumonia, and an injured infant who dies due to a lack of a sufficient blood transfusion.
+
+Theses cases are sad, but they are in no way a violation of someones rights. 
 
 ### Sleeping Person
 
-A common argument against this (even Ben Shapiro used it) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) (even dreamless sleep). 
+A common argument against this (even [Ben Shapiro](https://www.youtube.com/watch?v=gkONHNXGfaM) used it) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) (even dreamless sleep). 
 
-Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them (and usually others too). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
+Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them (and usually others too). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
