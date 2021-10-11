@@ -38,10 +38,9 @@
 
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
-* [Transgender](trans/README.md)
-  * [Trans Predator Myth](https://drive.google.com/file/d/149R1yvBWNSL8jlDwQC1kc2LYYkiL8zE3/view)
-  * [Detransitioning Is Rare](https://ia601509.us.archive.org/2/items/detransitioning-is-rarer-than-alot-of-people-say/Detransitioning%20is%20rarer%20than%20alot%20of%20people%20say.pdf)
+* [Transgender](trans.md)
 * [Homosexuals aren't Pedophiles](lgbtq+-pedophiles.md)
+* [Counterarguments](counterarguments.md)
 
 ## Heterodox Economics Bad <a href="heterodox-economics-debunked" id="heterodox-economics-debunked"></a>
 
