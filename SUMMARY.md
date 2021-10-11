@@ -50,12 +50,13 @@
 
 ***
 
-* [Economic Calculation Problem](economic-calculation-problem.md)
+* [Economic Calculation Problem](economic-calculation-problem/README.md)
+  * [Venezuela](economic-calculation-problem/venezuela/README.md)
+    * [Counterarguments](economic-calculation-problem/venezuela/counterarguments.md)
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
   * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
 * [North Korea](north-korea.md)
-* [Venezuela](venezuela.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
 * [Counteraguments](psuedoscience.md)
