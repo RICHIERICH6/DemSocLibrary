@@ -148,7 +148,7 @@ Higher injuries and death happen in mass shootings **with a semi automatic rifle
   * Strengthening self-defense **increased homicide by 8%**, these homicides **would largely classified by police as murder**. ([Journal of Human Resources](https://www.flgov.com/wp-content/uploads/citsafety/20120913\_secondchance2.pdf))
   * Stand your ground laws were **associated with an increase in unintentional pediatric firearm injuries**. ([Journal of Crime and Justice](https://www.researchgate.net/publication/271822181\_An_assessment_of_the_intended_and_unintended_consequences_of_Arizona's_Self-Defense_Home_Protection_Act))
 
-## Pseudoscience
+## Counter Arguments
 
 ### Claim: "An armed society is a polite society!"
 

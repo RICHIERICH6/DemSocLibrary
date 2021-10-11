@@ -27,6 +27,7 @@
 ***
 
 * [Democracy](why-democracy.md)
+* [Death Penalty](death-penalty.md)
 * [Restorative Justice](restorative-justice.md)
 * [Drug Legalization](drug-legalization.md)
 * [Systemic Racism](systemic-racism.md)
