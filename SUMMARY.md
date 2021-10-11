@@ -50,8 +50,8 @@
 
 ***
 
-* [Economic Calculation Problem](economic-calculation-problem/README.md)
-  * [Venezuela](economic-calculation-problem/venezuela/README.md)
+* [Economic Calculation Problem](economic-calculation-problem.md)
+  * [Venezuela](venezuela.md)
     * [Counterarguments](economic-calculation-problem/venezuela/counterarguments.md)
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
