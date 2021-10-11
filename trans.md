@@ -55,3 +55,18 @@
 * Transgender Americans report a **40% lifetime suicide attempt rate**. ([National Center for Transgender Equality](https://transequality.org/sites/default/files/docs/usts/USTS-Full-Report-Dec17.pdf#page=118))
 
 ### Discrimination
+
+
+
+## Counter Arguments
+
+### Claim: "This [study](https://0x0.la/u/ZoH9GyV.pdf) in Sweden proves transitioning increases trans suicide!"
+
+No, this isn't what the study claims. Here's an excerpt:
+
+> no inferences can be drawn as to the effectiveness of sex reassignment as a treatment for transsexualism. In other words, the** results should not be interpreted such as sex reassignment per se increases morbidity and mortality**. Things might have been even worse without sex reassignment.
+
+The study is just saying that people who had transitioned are still a endangered population compared to cis people, not that transitioning worsened suicide.
+
+The author clarified this in an [AMA](https://web.archive.org/web/20210513231529/https://old.reddit.com/r/science/comments/6q3e8v/science_ama_series_im_cecilia_dhejne_a_fellow_of/dkuk2tr/).
+
