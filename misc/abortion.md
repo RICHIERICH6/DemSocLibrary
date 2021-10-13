@@ -48,7 +48,7 @@ This reasons that since fetuses are potential persons, they deserve moral status
 > But, it does not follow that:> \
 >> The person X has the authority to command the army as potential President of the USA.
 
-#### Future Like Ours (WIP)
+#### Future Like Ours
 
 A argument that is tangentially related to potentiality is from Don Marquis’s paper “[Why Abortion is Immoral](abortion.md#formal-argument)”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. In a formal argument this would basically be:
 
