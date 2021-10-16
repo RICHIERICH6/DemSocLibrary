@@ -15,7 +15,7 @@ description: this is due for a rewrite tbh
 
 ### Meat is Necessary in a Diet
 
-[No](https://pubmed.ncbi.nlm.nih.gov/27886704/).
+[No](https://pubmed.ncbi.nlm.nih.gov/27886704/)
 
 ### Killing Animals Is Okay Because It's Natural
 
@@ -33,7 +33,12 @@ If we in fact agree that only moral agents deserve moral consideration? What’s
 
 ### Social Contract
 
-This argues that since animals and humans cannot communicate and therefore cannot form a social contract, we do not give the animal moral consideration. If I were on an island stranded with others and there was no society there, does anybody on the island have moral consideration? Do homeless people deserve moral status?
+This argues that since animals and humans cannot communicate and therefore cannot form a social contract, we do not give the animal moral consideration. If you accept this premise, you have to bite the bullet on some silly arguments:
+
+* Premise 1: Morality is contingent on social contract.
+* Premise 2: Social contract is contingent on repercussions if not abided by, otherwise there's no reason to abide to it.
+* Premise 3: Mute people with no hands would have no way to hold you up to your side on the social contract with them, and you would have no repercussions from harming them with no witnesses.
+* Conclusion. Mute people with no hands have less moral value than other people.
 
 ### Intelligence
 
@@ -48,6 +53,7 @@ Addressed [here](abortion.md#why-does-sentience-matter).
 This argues that since god dictates morality, and god allows us to kill animals, killing animals is morally acceptable. This goes into more about metaethics overall rather than veganism, so I will just summarize the problems with divine command theory:
 
 * You'd have to establish that god even exists which is a whole other can of worms.
+* How do we know what god commands?
 * If there are no moral standard other than God's will, then God's commands are arbitrary, which would mean morality isn't based off reason.
 
 ### No Ethical Consumption under Capitalism
