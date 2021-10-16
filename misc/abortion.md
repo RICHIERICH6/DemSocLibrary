@@ -48,7 +48,19 @@ This reasons that since fetuses are potential persons, they deserve moral status
 > But, it does not follow that:> \
 >> The person X has the authority to command the army as potential President of the USA.
 
-#### Future Like Ours (WIP)
+If you agree with the potentiality argument then you'd have to say these are true:
+
+* Premise 1: X's moral value is equal to X's potential.
+* Premise 2: Sperm have the potential to become babies.
+* Conclusion: Sperm have moral value equal to that of babies
+
+or
+
+* Premise 1: X's moral value is equal to X's potential.
+* Premise 2: Rocks have the potential to be sentient with the right random arrangement of atoms, even if it might only happen once in a googleplex to the googleplex power lifetimes of the universe.
+* Conclusion: Rocks' moral value are equal to that of sentient beings.
+
+#### Future Like Ours
 
 A argument that is tangentially related to potentiality is from Don Marquis’s paper “[Why Abortion is Immoral](abortion.md#formal-argument)”. He argues that it is wrong to kill existing people, because it deprives us from experiencing our (expected to be) valuable futures which would be a loss to said person dying. Since fetuses have valuable futures like us, they are also wrong to kill. In a formal argument this would basically be:
 
@@ -62,6 +74,6 @@ Theses cases are sad, but they are in no way a violation of someones rights.
 
 ### Sleeping Person
 
-A common argument against this (even [Ben Shapiro](https://www.youtube.com/watch?v=gkONHNXGfaM) used it) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://www.sciencealert.com/your-consciousness-does-not-switch-off-during-a-dreamless-sleep-say-scientists) (even dreamless sleep). 
+A common argument against this (even [Ben Shapiro](https://youtu.be/gkONHNXGfaM?t=505) used it) is that if we're allowed to kill non sentient beings, would it be okay for me to kill a sleeping person? The problem is that a sleeping person is [still conscious to some degree](https://sci-hub.hkvisa.net/10.1016/j.tics.2016.09.006).
 
-Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their life/sentience and someone who never had life/sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them (and usually others too). Beings that have never been conscious don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.
+Someone could respond with "well what about a comatose person?", but there is a major morally relevant distinction between someone regaining their sentience and someone who never had sentience to begin with. The comatose person existed as a conscious being and so any and all of their desires, plans, expectations, hopes, and connections are thwarted if they are killed, which is bad for them (and usually others too). Beings that have never been sentient don't have any of that and so things cannot go worse for them, since there really is no "them" yet, since there is no person who experiences anything, and so there's no person that things could take a turn for the worse for.

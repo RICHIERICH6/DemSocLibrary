@@ -27,6 +27,7 @@
 ***
 
 * [Democracy](why-democracy.md)
+* [Death Penalty](death-penalty.md)
 * [Restorative Justice](restorative-justice.md)
 * [Drug Legalization](drug-legalization.md)
 * [Systemic Racism](systemic-racism.md)
@@ -54,8 +55,8 @@
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
   * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
-* [North Korea](north-korea.md)
 * [Venezuela](venezuela.md)
+* [North Korea](north-korea.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
 * [Counteraguments](psuedoscience.md)
