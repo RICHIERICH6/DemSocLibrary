@@ -28,11 +28,13 @@
   * The USSR had **increasingly unequal healthcare**. ([The Journal of Medical Practice Management](https://0x0.la/u/xeDYQGi.pdf#page=4))
 * Agricultural employment **decreased from 54% to 19%**. ([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/agriculture1996.pdf#page=16))
 * Soviet standard of living **decreased post-Industrialisation**. ([Europe-Asia Studies](https://zero.sci-hub.se/4242/67100dbe8df0ee83de5b258d91a9252e/filtzer1999.pdf))
-* The vast majority of domestic Soviet food consumption **didn't come from the collectivized farms but from the tiny amount of private plots they left alone**. ([Nikolai Shmelev](https://0x0.la/u/GVzSooX.pdf#page=84))
+* The vast majority of domestic Soviet food consumption **didn't come from the collectivized farms but from the tiny amount of private plots they left alone**. ([Nikolai Shmelev](https://files.catbox.moe/ashggp.pdf#page=84))
   * In 1966, the private sector **produced 64% of potatoes, 43% of vegetables, 40% of meat, 39% of milk, and 66% of eggs**. ([Slavic Review](https://sci-hub.st/10.2307/2493038))
 * **Only 60%** of milk produced in the USSR **was actually drank by people**, compared with 90% in the US. ([U.S. Department of Agriculture](https://www.ucis.pitt.edu/nceeer/0000-701-1-Gray.pdf))  \
 
 * **About 23%** of the population **was impoverished**, and** 60% of housing respondents** thought that their **space was rather inadequate or grossly inadequate**. ([Nintil](https://nintil.com/the-soviet-union-poverty-and-inequality))
+* In 1976 only **two thirds of Soviet families had a refrigerator** while the US hit two thirds in the early 1930s, the USA had nearly 100million passenger cars with the **USSR only having 5 million**, there was **30x as much typhoid, 20x as much measles, and cancer detection rates were half as good as in the United States**, and **15% of the population lived in areas with pollution 10x normal levels**. ([Adam Smith Institute](https://www.adamsmith.org/research/back-in-the-ussr))  \
+
 
 ## Maoist China
 
