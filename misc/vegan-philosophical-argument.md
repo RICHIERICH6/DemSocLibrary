@@ -46,7 +46,7 @@ Similar to the above trait, this argues that animals are of significantly lower 
 
 ### Plants are Alive
 
-Addressed [here](abortion.md#why-does-sentience-matter).
+Addressed [here](broken-reference).
 
 ### Divine Command Theory (WIP)
 
@@ -64,10 +64,10 @@ The argument essentially removes the role of individual responsibility from a pe
 
 ### Utilitarianism
 
-I myself am not a utilitarian, but if you are one, you should absolutely be for veganism. 
+I myself am not a utilitarian, but if you are one, you should absolutely be for veganism.&#x20;
 
 * Vegans are usually healthier and have reduced risk at certain health conditions and therefore their well being is improved and therefore that is more utility in the world.
-* A vegan diet is the [single biggest way to reduce our environmental impact](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html), better environment means more utility I'd imagine. 
+* A vegan diet is the [single biggest way to reduce our environmental impact](https://www.independent.co.uk/life-style/health-and-families/veganism-environmental-impact-planet-reduced-plant-based-diet-humans-study-a8378631.html), better environment means more utility I'd imagine.&#x20;
 
 ### Golden Rule
 

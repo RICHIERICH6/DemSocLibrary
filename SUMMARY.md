@@ -54,7 +54,7 @@
 * [Economic Calculation Problem](economic-calculation-problem.md)
 * [Marxian Economics](marxian-economics.md)
 * [Marxism-Leninism](marxism-leninism/README.md)
-  * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg_zYp80-IO0oqHpuCk/edit)
+  * [Uyghur Detentions](https://docs.google.com/document/d/1oaJAqOlhfDiPwZK6PKPEqHihXg\_zYp80-IO0oqHpuCk/edit)
 * [Venezuela](venezuela.md)
 * [North Korea](north-korea.md)
 * [Market Socialism](market-socialism.md)
@@ -67,7 +67,6 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
-* [Abortion Philosophical Argument](misc/abortion.md)
 * [Veganism Philosophical Argument](misc/vegan-philosophical-argument.md)
 
 ## todo
@@ -75,3 +74,7 @@
 * [Trump Bad](todo/trump-bad.md)
 * [Vaccines](todo/vaccines.md)
 * [Austerity Bad](todo/austerity-bad.md)
+
+***
+
+* [bruh (2)](bruh-2.md)
