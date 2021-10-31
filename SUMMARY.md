@@ -67,6 +67,7 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
+* [Ethical Veganism](misc/ethical-veganism.md)
 
 ## todo
 
