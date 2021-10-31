@@ -32,7 +32,7 @@
 * Document 501-PS **discusses the benefits of using gas vans for execution** ([PHDN](https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/gasvan1.htm))
 * Kantzmann Report states **the killing of 434,329 Jews** ([Nuremberg Trials Project](http://nuremberg.law.harvard.edu/documents/4404-cover-letter-to-ss#p.1))
 * A letter about "**securing skulls of Jewish Bolshevik Commissars for the purpose of scientific research**". ([PHDN](https://phdn.org/archives/www.mazal.org/NO-series/NO-0085-000.htm))
-*  In the year 1942 alone, the telegram **lists 1,274,166 Jews were exterminated**. ([NSA](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/eavesdropping.pdf#page=84))
+* &#x20;In the year 1942 alone, the telegram **lists 1,274,166 Jews were exterminated**. ([NSA](https://www.nsa.gov/portals/75/documents/about/cryptologic-heritage/historical-figures-publications/publications/wwii/eavesdropping.pdf#page=84))
 
 ## Counterarguments
 
@@ -42,7 +42,7 @@
 
 ![](<../.gitbook/assets/iQ4blnJ (1).jpeg>)
 
-The problem is that.... wooden doors aren't inherently flimsy. The wooden doors used in the gas chamber were airtight.
+Do Holocaust deniers think wood is as brittle as cardboard? The wooden doors used in the gas chamber were airtight.
 
 ![Source](../.gitbook/assets/door1.jpe) ![Source](../.gitbook/assets/door2.jpe) ![Source](../.gitbook/assets/door3.jpe)
 
@@ -54,9 +54,9 @@ The possibility of using wooden doors for Zyklon B delousing chambers was [descr
 
 For the delousing chamber in the concentration camp Flossenbürg [we have the following cost estimate from 12.04.1940](https://anno.onb.ac.at/cgi-content/anno-plus?aid=ztg\&datum=1995\&page=332\&size=45):
 
-> Manufacture and delivery of double-walled wooden doors for gas chamber with sealing edge and closure on all sides as well as frames and thermometers incl. fittings \[...] Puttying and painting with protective paint twice of wooden doors for gas chamber, dimensions from pos. 60. >
+> Manufacture and delivery of double-walled wooden doors for gas chamber with sealing edge and closure on all sides as well as frames and thermometers incl. fittings \[...] Puttying and painting with protective paint twice of wooden doors for gas chamber, dimensions from pos. 60.&#x20;>
 
- This receipt [calls for an order](http://www.nizkor.com/hweb/camps/auschwitz/crematoria/order-for-door.html):
+&#x20;This receipt [calls for an order](http://www.nizkor.com/hweb/camps/auschwitz/crematoria/order-for-door.html):
 
 > .... order of 6/3/1943 concerning the delivery of a gas tight door 100 x 192 cm for cellar I of Krematorium III, to be produced to the identical pattern and dimensions as the cellar door of Krematorium II which is situated opposite, with peephole of double 8 mm glass, with rubber sealing strip and frame.
 >
@@ -66,7 +66,7 @@ For the delousing chamber in the concentration camp Flossenbürg [we have the fo
 
 The claims range from "Zyklon B can't kill! It's just used to clean lice!" to "Gas chambers don't have the blue residue that comes from Zyklon!".
 
-This [document ](https://phdn.org/archives/holocaust-history.org/auschwitz/19420826-dessau/)of August 26, 1942, gives permission to the Auschwitz concentration camp to send a truck to Dessau, in order to pick up "material for special treatment." Special treatment [being a codeword for extermination](http://www.nizkor.com/features/techniques-of-denial/st-01.html).
+This [document ](https://phdn.org/archives/holocaust-history.org/auschwitz/19420826-dessau/)of August 26, 1942, gives permission to the Auschwitz concentration camp to send a truck to Dessau, in order to pick up "material for special treatment." Special treatment [being a codeword for murder](https://en.wikipedia.org/wiki/Sonderbehandlung), with the material being [Zyklon B](http://auschwitz.org/gfx/auschwitz/\_thumbs/en/defaultgalerie/713/2/1/20080716\_2011242469\_dok6,oHuCn6impHCVqcKHZpY.jpg).
 
 There are absolutely gas chambers that had the blue residue:
 
@@ -78,16 +78,18 @@ As for why some gas chambers don't have residue? Well, thats because you can cle
 
 ![](<../.gitbook/assets/twimem03 (1).png>)
 
-Honestly, [Wikipedia ](https://en.wikipedia.org/wiki/Leuchter_report)covers this pretty well.
+Honestly, [Wikipedia ](https://en.wikipedia.org/wiki/Leuchter\_report)covers this pretty well.
 
 #### Survivors didn't see the gas chambers
 
 ![](../.gitbook/assets/twimem14.png)
 
-The thing is that level of knowledge about the extermination among the Hungarian Jews i[s often overestimated](https://holocaustcontroversies.blogspot.com/2015/08/knowledge-of-mass-extermination-among.html).
+This comes from a myth that Jews knew the showers were gas chambers before they were brought into them (I blame [Schindlers List](https://www.youtube.com/watch?v=jjy8Z1hK2wY) for this), but this is [not the case](https://holocaustcontroversies.blogspot.com/2015/08/knowledge-of-mass-extermination-among.html).
 
-To illustrate this, consider the [case of a survivor named Maria Vanherwaarden](http://web.archive.org/web/19990421163441/http://ihr.org/books/kulaszka/21herwaarden.html): 
+To illustrate this, consider the [case of a survivor named Maria Vanherwaarden](http://web.archive.org/web/19990421163441/http://ihr.org/books/kulaszka/21herwaarden.html):&#x20;
 
 > From Linz, Herwaarden was transported to Vienna and from there to Auschwitz. There were about twenty other women on the train travelling from Vienna to Auschwitz. She could not say if any were Jewish. They received food on the train. A gypsy told Herwaarden that they were going to be gassed when they arrived at Auschwitz. They arrived in the camp on 2 December in the afternoon. (25-6625, 6626, 6627) That night the SS people came and took them to Birkenau. They were taken to a cold, windowless room and told that they had to take a cold shower. They handed over their clothes and all hair was shaved, both head and pubic. Herwaarden was "terribly scared" when she went into the shower room because "they said gas would be coming from the top but it was only water." They received soap, but the water was cold. When they finished, they received their numbers and prisoners clothing and were taken to the barracks. Herwaarden was listed as an Aryan. (25-6628, 6629)
 
-Obviously someone who has survived the holocaust wouldn't see a gas chamber? If they did, they would be most likely lead to one and killed. Vanherwaarden did not see the gas chambers, but she did hear of them. 
+Obviously someone who has survived the holocaust wouldn't see a gas chamber? If they did, they would be most likely lead to one and killed. Vanherwaarden did not see the gas chambers, but she did hear of them. Does Vanherwaarden never having seen the crematoria prove that they didn't exist? Obviously not, only that she personally didn't see them.
+
+### Auschwitz had a swimming pool and a brothel!

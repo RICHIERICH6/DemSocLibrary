@@ -11,9 +11,9 @@ description: Capitalism is the worst system, except for all the others.
 * A literature review of 402 studies finds that economic freedom **corresponds with a wide variety of positive outcomes with almost no negative tradeoffs**. ([Contemporary Economic Policy](https://0x0.la/u/Dewh8Iu.pdf))
   * A meta-analysis of 45 studies finds a **direct positive association between economic freedom and growth**. ([European Journal of Political Economy](https://sci-hub.st/10.1016/j.ejpoleco.2005.06.003))
 * There is **overwhelming support for the notion that privatization brings about a significant increase in the profitability**, **real output and efficiency of privatised companies** and **it appears to improve performance measured in many different ways, in many different countries**. ([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2017/2/cj-v37n1-7.pdf#page=8]))
-* Market-oriented institutions and policies are **strongly related to economic growth**. ([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf))
+* Market-oriented institutions and policiies are **strongly related to economic growth**. ([Journal of Economic Surveys](https://0x0.la/u/Wk50PsO.pdf))
 * Eliminating existing developed world tariffs **would increase developing country trade to GDP ratios by one third and growth rates by 0.6 to 1.6 percent per annum**. ([John Romalis](http://www.johnromalis.com/wp-content/uploads/2012/07/tradegrowth.pdf))
-* Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. ([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf))
+* Economic institutions encouraging economic growth emerge when political institutions **allocate power to groups with interests in broad-based property rights enforcement**. ([Handbook of Economic Growth](https://0x0.la/u/4kLqWbB.pdf))
 * Increases in physical and human capital** lead to output growth only in countries with good institutions**. ([Southern Economic Journal](https://0x0.la/u/V9KhFtx.pdf))  \
 
 * NAFTA has had **relatively small positive effects on the U.S. economy and relatively large positive effects on Mexico**. ([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.15.1.125))
@@ -33,7 +33,7 @@ description: Capitalism is the worst system, except for all the others.
 
 ### Entrepreneurship
 
-* A smaller government sector, better legal structure and security of property rights, as well as less regulation of credit, labour and business **tend to increase entrepreneurship**. ([Entrepreneurial Economics](https://www.researchgate.net/publication/5154827\_The_Institutions_of_Economic_Freedom_and_Entrepreneurship_Evidence_from_Panel_Data))
+* A smaller government sector, better legal structure and security of property rights, as well as less regulation of credit, labour and business **tend to increase entrepreneurship**. ([Entrepreneurial Economics](https://www.researchgate.net/publication/5154827\_The\_Institutions\_of\_Economic\_Freedom\_and\_Entrepreneurship\_Evidence\_from\_Panel\_Data))
 * A one standard-deviation increase in a state’s economic freedom is **associated with over 100 new businesses started per 100,000 residents every month**. ([Mercatus](https://www.mercatus.org/system/files/Freedom-and-Entrepreneurship-Working-Paper\_1\_0.pdf))
 
 ### Stability
@@ -76,21 +76,21 @@ description: Capitalism is the worst system, except for all the others.
 
 ## Poverty
 
-* Extreme poverty **is falling**. ([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative\&country=\~OWID_WRL))
+* Extreme poverty **is falling**. ([Our World In Data](https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?stackMode=relative\&country=\~OWID\_WRL))
 * Even with COVID-19, poverty **will still drop**. ([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34496/9781464816024.pdf#page=58))
 * Poverty, no matter what threshold, **has declined**. ([Our World In Data](https://ourworldindata.org/grapher/distribution-of-population-poverty-thresholds?stackMode=relative), [2](https://i.imgur.com/EvXz602.mp4))
-* No, this **isn't just because of China**. ([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China\~OWID_WRL), [2](https://i.imgur.com/exPzcDN.png))
+* No, this **isn't just because of China**. ([Our World In Data](https://ourworldindata.org/grapher/poverty-decline-without-china?country=World+not+including+China\~OWID\_WRL), [2](https://i.imgur.com/exPzcDN.png))
 * In 1981, just three years after Deng’s reform project was launched, almost 90% of Chinese people lived in extreme poverty by the definition of the World Bank. By 2013, **that number had dropped to less than 2%**. ([Quartz](https://theatlas.com/charts/S1Zc8-cLX))  \
 
 * Trade has a **quantitatively large and robust, though only moderately statistically significant, positive effect on income**. ([American Economic Review](https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.89.3.379)) ([Journal of International Economics](https://www.tcd.ie/Economics/staff/minnsc/EC4020/irwin%20tervio%20jie%202002.pdf))
 * Economic freedom is **associated with a higher share of labor income**. ([European Journal of Political Economy](https://sci-hub.st/10.1016/j.ejpoleco.2013.11.006))
-* Increases in economic freedom **correspond to larger reductions of the extreme poverty rate**. ([Wake Forest Economics Department](https://myweb.fsu.edu/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf))
+* Increases in economic freedom **correspond to larger reductions of the extreme poverty rate**. ([Wake Forest Economics Department](https://web.archive.org/web/20200215062544/http://myweb.fsu.edu:80/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf))
 * Free market policies, supported but not encumbered by the government, **deliver growth and prosperity**. ([Journal of Economic Literature](https://dash.harvard.edu/bitstream/handle/1/41555812/46347%20friedmancontroversy.pdf?sequence=1))
 * Economic freedom is **decreasing poverty in developing countries**. ([Kevser Kantar](http://dosya.kmu.edu.tr/sbe/userfiles/file/tezler/iktisat/kevserkantar.pdf))
 * Property rights and economic freedom **substantially reduce poverty and enhance economic development**. ([Eastern Economic Journal](https://college.holycross.edu/eej/Volume29/V29N1P23\_40.pdf))
 * Indian economic liberalization **saw rates of poverty-reducing pre and post-liberalization**. ([VoxEU](https://voxeu.org/print/60301))
   * If economic liberalization had happened in 1971 instead of 1991, an **extra 135 million people would've been lifted out of poverty**. ([Cato](https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7))
-* Free trade **typically favors the poor**. ([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft_qje.pdf))
+* Free trade **typically favors the poor**. ([The Quarterly Journal of Economics](http://pfajgelb.mycpanel.princeton.edu/mugft\_qje.pdf))
 * AfCFTA would **pull 30 million people out of extreme poverty and 68 million of moderate poverty by 2035.** ([World Bank](https://openknowledge.worldbank.org/bitstream/handle/10986/34139/9781464815591.pdf))
 
 ## Outsourcing
@@ -113,21 +113,21 @@ The best way to end child labor in developing countries [aren't bans](https://sc
       ** economic freedom has a significant positive effect on subjective well-being**. [(World Development](https://sci-hub.se/10.1016/j.worlddev.2013.05.003))
   * There is a **positive relationship between national levels of happiness and economic freedom**. ([Cato](https://www.cato.org/sites/cato.org/files/serials/files/cato-journal/2011/5/cj31n2-4.pdf#page=17))
   * Economic freedom **leads to happiness**, **especially for those in conditions of poverty and low capability**. ([Ruut Veenhoven](https://core.ac.uk/download/pdf/18509341.pdf))
-  *   People in countries that respect private property rights and allow a higher level of 
+  *   People in countries that respect private property rights and allow a higher level of&#x20;
 
-       economic freedom **are better able to satisfy human desires**. ([Mercatus](https://www.mercatus.org/system/files/Private-Property-Rights-Economic-Freedom-and-Well-Being.pdf))
+      &#x20;economic freedom **are better able to satisfy human desires**. ([Mercatus](https://www.mercatus.org/system/files/Private-Property-Rights-Economic-Freedom-and-Well-Being.pdf))
   * There seems to be **positive effects of low regulation and pro-market attitudes on life satisfaction, funnily enough**, people who are opposed to market-oriented policies **sometimes benefit most from deregulation**. ([Applied Economics Letters](https://sci-hub.se/10.1080/13504851.2012.762709))
-* Death from unsafe water is **decreasing**. ([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart\&country=\~OWID_WRL))
-* **Only 3.91%** of the population **dies in the first five years of their life**. ([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=\~OWID_WRL))
+* Death from unsafe water is **decreasing**. ([Our World In Data](https://ourworldindata.org/grapher/share-deaths-unsafe-water?tab=chart\&country=\~OWID\_WRL))
+* **Only 3.91%** of the population **dies in the first five years of their life**. ([Our World In Data](https://ourworldindata.org/grapher/global-child-mortality-timeseries?country=\~OWID\_WRL))
 
 ## Environment
 
 We have been an ecologically destructive species, it [has nothing to do with western culture or capitalism](https://www.allmystery.de/dateien/mg31710,1212802590,03penn.pdf).
 
-We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral_Sea) anyway.
+We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/Aral\_Sea) anyway.
 
 * A permanent one-point increase in economic freedom **results in a 7.15% decrease concentrations of fine particulate matter in the long-run**. ([Fraser Institute](https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf#page=6))
-* The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. ([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524\_Environmental_Kuznets_Curves_A_Review_of_Findings_Methods_and_Policy_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf))
+* The introduction of more secure property rights over resources will cause the race to the bottom **to end sooner, and environmental improvements to come about at lower cost**. ([Bruce Yandle](https://www.researchgate.net/profile/Bruce-Yandle/publication/242758524\_Environmental\_Kuznets\_Curves\_A\_Review\_of\_Findings\_Methods\_and\_Policy\_Implications/links/0f317533d2c635d626000000/Environmental-Kuznets-Curves-A-Review-of-Findings-Methods-and-Policy-Implications.pdf))
 * Private property rights **hold the key to pollution prevention and sustainable resource use**. ([Economic Affairs](https://0x0.la/u/HyLFy0B.pdf))
 * The effects of market-based policies on environmental quality are **expected to be unambiguously positive**. ([PERC](https://www.perc.org/wp-content/uploads/2018/05/environmental-kuznets-curve-primer.pdf))
 * Both capitalism and democracy **appear to decrease emissions levels per dollar value of GDP**. ([Michael D. Stroup](https://web.archive.org/web/20100710113229/http://www.cob.sfasu.edu/mstroup/Pollution\_10\_15.pdf))
@@ -147,14 +147,14 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 * A meta-analysis of 17 studies finds **support for the EKC**. ([Science of the Total Environment](https://0x0.la/u/BIO2KQp.pdf))
 * When looking at 171 countries from 1960 to 2010, **the EKC is N-shaped formally but inverted U-shaped substantively**. ([Environmental Kuznets Curve Hypothesis and Carbon Dioxide Emissions](https://0x0.la/u/mT4Unfg.pdf))
 * When looking at 86 countries, there is **clear evidence in support of the environmental Kuznets curve**.  ([International Journal of Finance and Economics](https://0x0.la/u/FGbgcln.pdf))
-* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level (turning point), but **thereafter decreases despite further economic growth**. ([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf)) 
+* When looking at 30 European countries from 2000 to 2016, e-waste generation increases with an increasing GDP up to a certain GDP level (turning point), but **thereafter decreases despite further economic growth**. ([Journal of Cleaner Production](https://0x0.la/u/ALOmb17.pdf))&#x20;
 * When looking at 17 OECD countries from 1977 to 2010, the EKC **does appear**. ([Renewable and Sustainable Energy Reviews](https://0x0.la/u/ruIktjk.pdf))
 * When looking at Australia, China, and Ghana from 1971 to 2013, EKC **seems to be valid**. ([Journal of Cleaner Production](https://0x0.la/u/SAVSuaU.pdf))
-* The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. ([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560\_Environmental_Kuznets_Curves_for_Air_Pollution_in_African_and_Developed_Countries_Exploring_Turning_Point_Incomes_and_the_Role_of_Institutional_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf))
+* The EKC hypothesis **holds for both CO2 and PM10 for African and OECD countries**. ([Journal of Environmental Economics and Policy](https://www.researchgate.net/profile/J-Rikoon/publication/267368560\_Environmental\_Kuznets\_Curves\_for\_Air\_Pollution\_in\_African\_and\_Developed\_Countries\_Exploring\_Turning\_Point\_Incomes\_and\_the\_Role\_of\_Institutional\_Quality/links/5ace08b50f7e9b189657c68b/Environmental-Kuznets-Curves-for-Air-Pollution-in-African-and-Developed-Countries-Exploring-Turning-Point-Incomes-and-the-Role-of-Institutional-Quality.pdf))
 * When looking at the Czech Republic from 1990 to 2009, the EKC **seems to be valid**. ([Social and Natural Sciences Journal](https://0x0.la/u/4UTIVu8.pdf))
 * Economic growth brings an initial phase of deterioration **followed by a subsequent phase of improvement**. ([The Quarterly Journal of Economics](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.865.6207\&rep=rep1\&type=pdf))
 * Pro-growth policies can **offset the negative impact of mitigation policies aimed at limiting global warming to 2°C with 50% probability**. ([OECD](https://read.oecd.org/10.1787/9789264273528-en?format=pdf))
-* In the rich countries, affluence and technology worsened environmental quality, but eventually **they provided the methods and means for cleaning up the environment**. Even developing countries have **gone through their environmental transitions for access to safer water and sanitation, and leaded gasoline**. ([The Electronic Journal of Sustainable Development](http://goklany.org/library/EJSD%202009.pdf))
+* In the rich countries, affluence and technology worsened environmental quality, but eventually **they provided the methods and means for cleaning up the environment**. Even developing countries have **gone through their environmental transitions for access to safer water and sanitation, and leaded gasoline**. ([The Electronic Journal of Sustainable Development](http://goklany.org/library/EJSD%202009.pdf))
 * When income rises, pollution **starts to decline**. ([Journal of Economic Perspectives](https://pubs.aeaweb.org/doi/pdfplus/10.1257/0895330027157))
 * The transition to a modern energy system **can occur without sacrificing growth**. ([Brookings](https://www.brookings.edu/research/growth-carbon-and-trump-state-progress-and-drift-on-economic-growth-and-emissions-decoupling/))
 * Quickening economic growth in developing nations can **expand forests and hasten the arrival of renewable energy technologies** . ([Scientific American](https://www.scientificamerican.com/article/fast-growth-can-solve-climate-change/))
@@ -174,9 +174,9 @@ We've seen [ecological disasters under socialism](https://en.wikipedia.org/wiki/
 
 ### Conflict
 
-* Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. ([American Journal of Political Science](https://pages.ucsd.edu/\~egartzke/publications/gartzke_ajps\_07-1.pdf))  \
+* Capitalist peace also **accounts for the effect commonly attributed to regime type in standard statistical tests of the democratic peace**. ([American Journal of Political Science](https://pages.ucsd.edu/\~egartzke/publications/gartzke\_ajps\_07-1.pdf))  \
 
-* Capitalism has **lowered the cost of war and hasn't shown a preference for war**. ([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf))
+* Capitalism has **lowered the cost of war and hasn't shown a preference for war**. ([Mark Harrison](https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism\_at\_war.pdf))
 * A reduced role for the state in regulating economic transactions **is associated with a decrease in internal conflicts**. ([Cato](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651\&rep=rep1\&type=pdf))
 * The demolition of geographic and social barriers since the end of the Cold War has **delivered not only material wealth but also physical tranquility, political stability, and personal freedom to vast portions of the world’s population**. ([Fordham International Law Journal](https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=1736\&context=ilj))
 
