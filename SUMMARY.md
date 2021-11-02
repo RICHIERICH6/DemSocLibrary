@@ -59,7 +59,7 @@
 * [North Korea](north-korea.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
-* [Counteraguments](psuedoscience.md)
+* [Counterarguments](psuedoscience.md)
 
 ## Misc
 
