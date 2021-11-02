@@ -14,7 +14,7 @@ description: >-
 * Premise 3: Sentient non-human animals have the trait that gives moral status to humans.
 * Conclusion: Sentient non-human animals have non-trivial moral status.
 
-Basically, the question to the speciesist would be "What's true of the human that isn't true of the animal that would justify treating them in the way we do?"
+Basically, the question to the speciesist would be "What's true of the human that isn't true of the animal that would justify treating them in the way we do?" I'll seek to respond to possible traits named that would be morally relevant.
 
 ## Counterarguments
 
@@ -26,7 +26,10 @@ To quote Peter Singer:
 
 Discrimination based off race would be similar to discrimination based off species. Reminder, that we didn't consider certain minorities "human", would it then be okay to discriminate against them?
 
-Imagine that hyperintelligent aliens invaded Earth, would it then be morally acceptable for them to kill us? As they are a superior species in not only intelligence but technology. A decision can only be just if it’s decided in an impartial manner, and if we were discriminated against as nonhuman animals are, we would find it unacceptable.
+Imagine that hyper intelligent aliens invaded Earth, would it then be morally acceptable for them to kill us? As they are a superior species in not only intelligence but technology. A decision can only be just if it’s decided in an impartial manner, and if we were discriminated against as nonhuman animals are, we would find it unacceptable.
 
-### Intelligence
+### Low Intelligence
 
+If you accept this, then similarly to the "Being Human" example, it would be okay for hyperintelligent aliens to kill us because they are of significantly higher intelligence than us.
+
+Other reductios
