@@ -68,7 +68,8 @@
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
 * [Ethical Veganism](misc/ethical-veganism.md)
-* [Most Abortions Aren't Wrong](misc/most-abortions-arent-wrong.md)
+* [Most Abortions Aren't Wrong](misc/abortion.md)
+* [Abortion Isn't Wrong At All](misc/abortion-isnt-wrong-at-all.md)
 
 ## todo
 
