@@ -1,8 +1,8 @@
 ---
 description: >-
   This will be defending most abortions by appealing to sentiocentrism. If you
-  want to find a defense of all abortion, check this page, although I find the
-  sentiocentric position easier to argue for tha
+  want to find a defense of all abortion, read the page below this one, although
+  I find the sentiocentric position easier to
 ---
 
 # Most Abortions Aren't Wrong
