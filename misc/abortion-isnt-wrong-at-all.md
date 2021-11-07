@@ -18,5 +18,10 @@ description: >-
 
 I'll defend Premise 4 as that is the contention with a classic analogy:
 
-> You wake up in the morning and find yourself back to back in bed with an unconscious violinist. A famous unconscious violinist. He has been found to have a fatal kidney ailment, and the Society of Music Lovers has canvassed all the available medical records and found that you alone have the right blood type to help. They have therefore kidnapped you, and last night the violinist’s circulatory system was plugged into yours, so that your kidneys can be used to extract poisons from his blood as well as your own. The director of the hospital now tells you, “Look, we’re sorry the Society of Music Lovers did this to you – we would never have permitted it if we had known. But still, they did it, and the violinist is now plugged into you. To unplug you would be to kill him. But never mind, it’s only for nine months. By then he will have recovered from his ailment, and can safely be unplugged from you.
+> A woman wakes up to discover that she has been kidnapped in the night and hooked up to an unconscious violinist whose blood must be filtered through her kidneys for a certain period if he is to survive. The director of the hospital concedes that it was wrong of the violinist’s admirers to have hooked her up to him without her consent; nevertheless, he observes, “To unplug you would be to kill him,” and “A person’s right to life outweighs your right to decide what happens in and to your body.”
 
+## Counter Arguments
+
+### Responsibility Objection
+
+The responsibility objection is a common counter to the violinist argument that basically says: "a woman who voluntarily engages in sexual activity is responsible for her fetus and therefore cannot have an abortion"
