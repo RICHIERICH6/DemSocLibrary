@@ -6,7 +6,7 @@ Social democracy favors policies aimed at reducing poverty, inequality, and oppr
 
 ## Why Social Democracy?
 
-Because Social Democracy works! Social democracies rank the highest on the [Propserity](https://en.wikipedia.org/wiki/Legatum_Prosperity_Index#2020\[2]), [Happiness](https://en.wikipedia.org/wiki/World_Happiness_Report#2020\_report), [Standard of Living](https://en.wikipedia.org/wiki/Social_Progress_Index#2020\_Rankings_and_scores_by_country) Indexes!
+Because Social Democracy works! Social democracies rank the highest on the [Propserity](https://en.wikipedia.org/wiki/Legatum\_Prosperity\_Index#2020\[2]), [Happiness](https://en.wikipedia.org/wiki/World\_Happiness\_Report#2020\_report), [Standard of Living](https://en.wikipedia.org/wiki/Social\_Progress\_Index#2020\_Rankings\_and\_scores\_by\_country) Indexes!
 
 ## Suggested Reading
 
@@ -14,11 +14,10 @@ Because Social Democracy works! Social democracies rank the highest on the [Prop
 
 * [Understanding Social Democracy ](https://azadivaedalat.com/wp-content/uploads/2018/01/Understanding-Social-Democracy-Harward.pdf)- Sheri Berman
 * [The Nordic Way](https://www.globalutmaning.se/wp-content/uploads/sites/8/2011/01/Davos-The-nordic-way-final.pdf) - World Economic Forum
-* [Why Inequality Matters](http://classonline.org.uk/docs/Why_Inequality_Matters.pdf) - Kate Pickett and Richard Wilkinson
+* [Why Inequality Matters](http://classonline.org.uk/docs/Why\_Inequality\_Matters.pdf) - Kate Pickett and Richard Wilkinson
 
-### Political Philosophy
+### Political Philosophy&#xD;
 
-* [A Theory of Justice](https://cloudflare-ipfs.com/ipfs/bafykbzacecwt74qqondrmgo4sskao3avfhtbeveinxq3smp5ftd7vsrnjay6i?filename=John%20Rawls%20-%20A%20Theory%20of%20Justice\_%20Original%20Edition%20%282005%29.pdf) - John Rawls
 * [Political Liberalism](https://cloudflare-ipfs.com/ipfs/bafykbzaceadre5bhumx76trmkpybdo4db23vhgsz3zdj7s52ej7u3bddnalr4?filename=%28Columbia%20Classics%20in%20Philosophy%29%20John%20Rawls%20-%20Political%20Liberalism\_%20Expanded%20Edition-Columbia%20University%20Press%20%282005%29.pdf) - John Rawls
 * [The Third Way: The Renewal of Social Democracy](https://cloudflare-ipfs.com/ipfs/bafykbzaceav6gcy75zoifr37dhwnnqpdtiwsx6onbiec6khmcrujsjpd4gube?filename=Anthony%20Giddens%20-%20The%20Third%20Way\_%20The%20Renewal%20of%20Social%20Democracy-Polity%20Press.pdf) - Anthony Giddens
 * [Liberalism](https://socialsciences.mcmaster.ca/\~econ/ugcm/3ll3/hobhouse/liberalism.pdf) - Leonard Hobhouse
@@ -45,6 +44,6 @@ Because Social Democracy works! Social democracies rank the highest on the [Prop
 * [Why Nations Fail](https://ia800606.us.archive.org/15/items/WhyNationsFailTheOriginsODaronAcemoglu/Why-Nations-Fail\_-The-Origins-o-Daron-Acemoglu.pdf) - Daron Acemoglu and James A. Robinson
 * [Diamond, Guns, Germs, and Steel](https://delong.typepad.com/files/diamond-selections.pdf) - Jared Diamond
 * [Politics Is For Power](https://b-ok.org/dl/5409346/373d6f) - Eitan Hersh
-* [Triumph of the City](http://www.smart-city.institute/library/book/triumph_of_the_city.pdf) - Edward Glaeser
+* [Triumph of the City](http://www.smart-city.institute/library/book/triumph\_of\_the\_city.pdf) - Edward Glaeser
 * [Open Borders: The Science and Ethics of Immigration](https://0x0.la/u/saF7hWH.pdf) - Bryan Caplan  \
 
