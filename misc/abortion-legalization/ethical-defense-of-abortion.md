@@ -5,24 +5,19 @@ description: >-
   I find the sentiocentric position easier to
 ---
 
-# Most Abortions Aren't Wrong
+# Ethical Defense Of Abortion
 
 ## Formal Argument
 
-* Premise 1: Sentient beings are at the center of moral concern.
-* Premise 2: Fetuses aren't sentient [until 12 to 30 weeks](https://en.wikipedia.org/wiki/Prenatal\_perception#Prenatal\_pain).
-* Premise 3: Most abortions [occur before fetuses gain sentience](https://www.guttmacher.org/sites/default/files/factsheet/fb\_induced\_abortion.pdf#page=2) (about 80.1% to 98.7%).
-* Conclusion: Therefore, most abortions are morally permissible.
+* Premise 1: Beings that hold interests and desires are at the center of moral concern.
+* Premise 2: Fetuses [cannot have interests](https://philarchive.org/archive/SIMDEH).
+* Premise 3: Abortion involves the killing of beings that cannot have interests.
+* Conclusion: Therefore, abortion is morally permissible.
 
-I'll just defend the first premise, as the second and third premise are empirically proven and the conclusion naturally follows.
+I'll just defend the first premise with a quote from Applied Ethics by Peter Singer:
 
-Concerns about sentience and feeling in fetuses are most important for them because they are fundamentally what’s most important for us. Sentience enables us to have and experience anything good in life, and it is necessary for anything bad to happen to us also: without a point of view, things can’t get worse for us.
-
-Imagine that someone was born unsentient and lived their entire existence without sentience: they were never aware of anything, ever. They had no perceptions, no awareness, no feelings, and of course no relationships, knowledge, happiness, or even sadness. And then they died. What were they like? Honestly, they never were: there was never anyone there. If anything bad ever happened to this body, nothing bad ever happened to them, since “they” never existed in a way that matters.&#x20;
-
-Consider also if you died prematurely, or were killed, or even if you went into a permanent coma or vegetative state, perhaps for many years or decades, and then died. Either option is very bad for you: since your sentience ends, you end.
-
-Rocks aren’t sentient, plants aren’t sentient, and that’s why they lack rights. Minds matter, and so the fact that embryos and early fetuses completely lack minds—due initially to the absence of a brain and nervous system, and later due to these not being sufficiently developed to support sentience—is what’s morally significant, not whether fetuses have heartbeats, or can move, or even respond to stimuli, if those responses aren’t genuinely felt by the fetus.
+> The capacity for suffering and enjoying things is a prerequisite for having interests at all, a condition that must be satisfied before we can speak of interests in any meaningful way. It would be nonsense to say that it was not in the interests of a stone to be kicked along the road by a child. A stone does not have interests because it cannot suffer. Nothing that we can do to it could possibly make any difference to its welfare. A mouse, on the other hand, does have an interest in not being tormented, because mice will suffer if they are treated in this way. If a being suffers, there can be no moral justification for refusing to take that suffering into consideration. No matter what the nature of the being, the principle of equality requires that the suffering be counted equally with the like suffering – in so far as rough comparisons can be made – of any other being. If a being is not capable of suffering, or of experiencing enjoyment or happiness, there is nothing to be taken into account. This is why the limit of sentience is the only defensible boundary of concern for the interests of others.> \
+>>
 
 ## Counter Arguments
 
