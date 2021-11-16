@@ -9,9 +9,9 @@ description: >-
 
 ## Formal Argument
 
-* Premise 1: Beings that hold interests and desires are at the center of moral concern.
-* Premise 2: Fetuses [cannot have interests](https://philarchive.org/archive/SIMDEH).
-* Premise 3: Abortion involves the killing of beings that cannot have interests.
+* Premise 1: Beings that hold (or have held) preferences are at the center of moral concern.
+* Premise 2: Fetuses [cannot have preferences](https://philarchive.org/archive/SIMDEH).
+* Premise 3: Abortion involves the killing of beings that don't have preferences.
 * Conclusion: Therefore, abortion is morally permissible.
 
 I'll just defend the first premise with a quote from Applied Ethics by Peter Singer:
@@ -51,7 +51,9 @@ Pretty silly!
 
 ### Unconsciousness Argument
 
-A common reductio response to the sentiocentric approach would be: "if it is the case that it is not unethical to kill an unsentient fetus, would it be morally acceptable to comatose people?"
+A common reductio objection to this argument would be "if it is the case that it is permissible to kill a fetus that has no interests, would it be morally acceptable to kill comatose people who don't?"
+
+The problem is that the first premise stipulates that "beings that hold **(or have held)** preferences are at the center of moral concern." There is obviously a morally relevant difference between someone who has never been born who has never held preferences and someone who holds preferences but temporarily stops holding preferences.
 
 This argument is superficially appealing, but the comparison doesn’t hold up. A sleeping person has desires and interests just like we do, and therefore they can be harmed when those desires and interests are thwarted. Of course, when you are asleep, you aren’t consciously holding any desires in your attention. But this is also true of most of your desires even when you are awake. If you love your children, you don’t stop loving them the moment you focus your attention on something else, like a football game. Likewise, you may not be thinking, as you read this “I don’t want to be killed” or “I value my car.” Yet it would still be wrong to kill you or steal your car.&#x20;
 
