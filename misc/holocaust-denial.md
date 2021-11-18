@@ -27,7 +27,7 @@ These seek to establish that Hitler was murderously anti-Semitic and had he gain
 * [Document 501-PS](https://phdn.org/archives/www.ess.uwe.ac.uk/genocide/gasvan1.htm) describes the benefits and drawbacks of gas vans currently used for executions
 * The [Posen speeches](https://en.wikipedia.org/wiki/Posen\_speeches) which were two speeches by Himmler in which he speaks about the extermination of the jews.
 
-## Counterarguments
+## Counter Arguments
 
 ### Gas Chambers
 
@@ -52,20 +52,18 @@ For the delousing chamber in the concentration camp Flossenbürg [we have the fo
 &#x20;This receipt [calls for an order](http://www.nizkor.com/hweb/camps/auschwitz/crematoria/order-for-door.html):
 
 > .... order of 6/3/1943 concerning the delivery of a gas tight door 100 x 192 cm for cellar I of Krematorium III, to be produced to the identical pattern and dimensions as the cellar door of Krematorium II which is situated opposite, with peephole of double 8 mm glass, with rubber sealing strip and frame.
->
->>
 
 #### Zyklon B
 
 The claims range from "Zyklon B can't kill! It's just used to clean lice!" to "Gas chambers don't have the blue residue that comes from Zyklon!".
 
-This [document ](https://phdn.org/archives/holocaust-history.org/auschwitz/19420826-dessau/)of August 26, 1942, gives permission to the Auschwitz concentration camp to send a truck to Dessau, in order to pick up "material for special treatment." Special treatment [being a codeword for murder](https://en.wikipedia.org/wiki/Sonderbehandlung), with the material being [Zyklon B](http://auschwitz.org/gfx/auschwitz/\_thumbs/en/defaultgalerie/713/2/1/20080716\_2011242469\_dok6,oHuCn6impHCVqcKHZpY.jpg).
+This [document ](https://phdn.org/archives/holocaust-history.org/auschwitz/19420826-dessau/)of August 26, 1942, gives permission to the Auschwitz concentration camp to send a truck to Dessau, in order to pick up "material for special treatment." Special treatment [being a codeword for murder](https://en.wikipedia.org/wiki/Sonderbehandlung), with the material being [Zyklon B](http://auschwitz.org/gfx/auschwitz/\_thumbs/en/defaultgalerie/713/2/1/20080716\_2011242469\_dok6,oHuCn6impHCVqcKHZpY.jpg).&#x20;
 
 There are absolutely gas chambers that had the blue residue:
 
 ![Source](../.gitbook/assets/PTMAJ031.jfif)
 
-As for why some gas chambers don't have residue? Well, thats because you can clean the residue, which the Nazis were attempting to do (as they were trying to erase evidence of the Holocaust), as the Soviet soldiers marched in.
+As for why some gas chambers don't have residue? Well, thats because you can clean the residue, which the Nazis were attempting to do (as they were trying to erase evidence of the Holocaust), when they realized they were gonna get BTFO.
 
 #### Leuchter report (where's the ventilation?)
 
@@ -86,3 +84,20 @@ To illustrate this, consider the [case of a survivor named Maria Vanherwaarden](
 Obviously someone who has survived the holocaust wouldn't see a gas chamber? If they did, they would be most likely lead to one and killed. Vanherwaarden did not see the gas chambers, but she did hear of them. Does Vanherwaarden never having seen the crematoria prove that they didn't exist? Obviously not, only that she personally didn't see them.
 
 ### Auschwitz had a swimming pool and a brothel!
+
+![](../.gitbook/assets/image.png)
+
+Auschwitz consisted of numerous sub-camps and served many functions, among them: a POW camp, a labor camp, a detention camp, an extermination camp. There were tens of thousands of non-Jewish inmates in Auschwitz and its sub-camps too, who as a rule were subjected to a different treatment than Jews. And of course there were [thousands of SS men who had to be entertained in their free time](http://auschwitz.org/en/museum/news/the-lighter-side-of-auschwitz-or-the-cultural-life-of-the-ss-in-the-death-camps,483.html). The existance of these festivities do not disprove the Holocaust.
+
+#### The Swimming Pool
+
+It's NOT a swimming pool, its actual function was a firefighting water reservoir, with the diving board added for secondary use as a swimming pool of which was only accessible to SS men and certain privileged Aryan prisoners employed as inmate-funcionaries in the camp.
+
+#### Brothel
+
+The brothel of which was NOT for Jewish prisoners.
+
+#### Sports Association
+
+That was only allowed for [Reichsdeutschen](https://phdn.org/archives/holocaust-history.org/auschwitz/pressac/technique-and-operation/pressac0507.shtml) ("imperial germans")
+
