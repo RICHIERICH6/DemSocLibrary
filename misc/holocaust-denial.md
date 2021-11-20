@@ -69,13 +69,13 @@ As for why some gas chambers don't have residue? Well, thats because you can cle
 
 ![](<../.gitbook/assets/twimem03 (1).png>)
 
-Honestly, [Wikipedia ](https://en.wikipedia.org/wiki/Leuchter\_report)covers this pretty well.
+Honestly, [HolocaustControversies ](http://holocaustcontroversies.blogspot.com/2017/05/rebutting-twitter-denial-most-popular.html#idiotleuchter)covers this pretty well.
 
 #### Survivors didn't see the gas chambers
 
 ![](../.gitbook/assets/twimem14.png)
 
-This comes from a myth that Jews knew the showers were gas chambers before they were brought into them (I blame [Schindlers List](https://www.youtube.com/watch?v=jjy8Z1hK2wY) for this), but this is [not the case](https://holocaustcontroversies.blogspot.com/2015/08/knowledge-of-mass-extermination-among.html).
+This comes from a myth that most Jews knew the showers were gas chambers before they were brought into them (I blame [Schindlers List](https://www.youtube.com/watch?v=jjy8Z1hK2wY) for this), but this is [not the case](https://holocaustcontroversies.blogspot.com/2015/08/knowledge-of-mass-extermination-among.html).
 
 To illustrate this, consider the [case of a survivor named Maria Vanherwaarden](http://web.archive.org/web/19990421163441/http://ihr.org/books/kulaszka/21herwaarden.html):&#x20;
 
@@ -87,7 +87,7 @@ Obviously someone who has survived the holocaust wouldn't see a gas chamber? If 
 
 ![](../.gitbook/assets/image.png)
 
-Auschwitz consisted of numerous sub-camps and served many functions, among them: a POW camp, a labor camp, a detention camp, an extermination camp. There were tens of thousands of non-Jewish inmates in Auschwitz and its sub-camps too, who as a rule were subjected to a different treatment than Jews. And of course there were [thousands of SS men who had to be entertained in their free time](http://auschwitz.org/en/museum/news/the-lighter-side-of-auschwitz-or-the-cultural-life-of-the-ss-in-the-death-camps,483.html). The existance of these festivities do not disprove the Holocaust.
+Auschwitz consisted of numerous sub-camps and served many functions, among them: a POW camp, a labor camp, a detention camp, an extermination camp. There were tens of thousands of non-Jewish inmates in Auschwitz and its sub-camps too, who as a rule were subjected to a different treatment than Jews. And of course there were [thousands of SS men who had to be entertained in their free time](http://auschwitz.org/en/museum/news/the-lighter-side-of-auschwitz-or-the-cultural-life-of-the-ss-in-the-death-camps,483.html). The existence of these festivities do not disprove the Holocaust.
 
 #### The Swimming Pool
 
@@ -100,4 +100,33 @@ The brothel of which was NOT for Jewish prisoners.
 #### Sports Association
 
 That was only allowed for [Reichsdeutschen](https://phdn.org/archives/holocaust-history.org/auschwitz/pressac/technique-and-operation/pressac0507.shtml) ("imperial germans")
+
+### Muh Red Cross
+
+This includes two claims:
+
+* Red cross records debunk the Holocaust
+* The red cross inspected the death camps and found nothing
+
+#### Death Camps Claim
+
+![](../.gitbook/assets/twimem16.png)
+
+In its official report the Red Cross states very explicitly that they were not allowed to visit all the camps: (p. [625](https://archive.org/details/ReportOfTheInternationalCommitteeOfTheRedCrossOnItsActivitiesDuringTheSecondWorl/Report%20of%20the%20International%20Committee%20of%20the%20Red%20Cross%20on%20its%20activities%20during%20the%20second%20world%20war%20\(September%201%2C%201939%20-%20June%2030%2C%201947\)%20Vol%201/page/n625/mode/2up), [643](https://archive.org/details/ReportOfTheInternationalCommitteeOfTheRedCrossOnItsActivitiesDuringTheSecondWorl/Report%20of%20the%20International%20Committee%20of%20the%20Red%20Cross%20on%20its%20activities%20during%20the%20second%20world%20war%20\(September%201%2C%201939%20-%20June%2030%2C%201947\)%20Vol%201/page/n643/mode/2up))
+
+> It should be stressed that the powers of the ICRC for help and protection **could not be extended to all concentration camps; there were numerous camps and labour detachments of which they had no knowledge, or to which they were denied access until the end of hostilities.**
+
+> Whereas **other camps exclusively reserved for Jews were not open to inspections for humanitarian purposes until the end**, the Committee's activities were at least effective in several concentration camps containing a minority proportion of Jews.
+
+In fact the Red Cross complained about the lack of an access already during the war, [as can be seen from the letter of 21.07.1943](https://babel.hathitrust.org/cgi/pt?id=uiug.30112039810327;view=1up;seq=283):&#x20;
+
+> You will see from the enclosed that it is, **unfortunately, extremely difficult for the International Red Cross Committee to help the Jewish population in Germany and the occupied countries. As we have written to you before, the German authorities do not consider the civilians who are arrested in occupied countries, including France, as civilian internees, thereby excluding them from the application (by analogy) of The Geneva Convention regarding Prisoners of War. **The International Red Cross Committee's field of action, **unfortunately, does not include this large category, known as "detained civilians". Inasmuch as it is impossible for the International Committee to visit the camps where these people are interned, the Committee is not in a position to check on the distribution of relief supplies. For this reason these concentration camps are not included in the category of internment camps to which the Blockade authorities allow relief supplies from overseas to be sent.** Furthermore, the International Red Cross Committee does not receive any lists of the names of the Detained Civilians.
+
+When the Red Cross representative Maurice Rossel tried to visit Auschwitz (Auschwitz I, not Auschwitz II Birkenau where the actual extermination camp was), [all he was allowed to do is talk to the commandant for about half an hour](http://holocaustcontroversies.blogspot.com/2015/09/kollerstroms-deception-on-visit-of.html).
+
+#### Records Claim
+
+![](../.gitbook/assets/twimem09.png)
+
+Even if one were to assume that those are death tolls of registered inmates in the camps, the letter **is still useless for the deniers since most Holocaust victims** (and hence also their deaths) **have never been claimed to have been registered in the camps** (most were murdered before any camp registration took place). Literally, **most of the camps' victims were not registered as camp inmates**. That's basic history.
 
