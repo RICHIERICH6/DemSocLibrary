@@ -2,7 +2,7 @@
 
 ## Gendered Behavior
 
- Children learn and copy perceived a lot of gendered behavior.
+&#x20;Children learn and copy perceived a lot of gendered behavior.
 
 * Gender role development is **socially constructed and learned from birth**. ([Early Childhood Education Journal](https://0x0.la/u/Jvm1tpO.pdf))
 * Gendered stereotypes were **found to affect children’s perception of gender and appropriate behavior and proliferate through certain influences such as consumer products, media, early childhood education, etc**. ([Dimensions Of Early Childhood](https://hawthornefamilyplayschool.org/wp-content/uploads/2013/10/whydoesgendermatter.pdf))
@@ -15,10 +15,11 @@
 * Gender refers to the **socially constructed roles, behaviours, expressions and identities of girls, women, boys, men, and gender diverse people**. ([Canadian Institutes of Health Research](https://cihr-irsc.gc.ca/e/48642.html))
 * Sex refers **especially to physical and biological traits**, whereas gender **refers especially to social or cultural traits**. ([American Psychological Association](https://dictionary.apa.org/sex))
 * Gender is **distinct from sex**. ([Gendered Innovations](http://genderedinnovations.stanford.edu/terms/gender.html))
+* Sex differences, caused by biological factors, and gender differences, which "**reflect a complex interplay of psychological, environmental, cultural, and biological factors"**. ([Endocrine Reviews](https://www.endocrine.org/-/media/endocrine/files/advancing-research/scientific-statement--considering-sex-as-a-biological-variable-in-basic-and-clinical-studies.pdf))
+* Sex  refers mainly to biological characteristics, **while gender refers mainly to sociological characteristics**. ([Dudley Poston](https://files.catbox.moe/mi488f.pdf#page=38))
 
 ## Gender in The Past and Across Cultures
 
-* A substantial number of cultures **have had and/or continue to have non-binary, gender-fluid, or third gender identities within their gender constructs**. ([PBS](https://www.pbs.org/independentlens/content/two-spirits_map-html/))
+* A substantial number of cultures **have had and/or continue to have non-binary, gender-fluid, or third gender identities within their gender constructs**. ([PBS](https://www.pbs.org/independentlens/content/two-spirits\_map-html/))
 * Until the late 15th century the word ‘girl’ **simply means a child of either sex**. ([BBC](https://www.historyextra.com/period/great-misconception/))
 * It used to be **considered manly to cry**. ([Aeon](https://aeon.co/essays/whatever-happened-to-the-noble-art-of-the-manly-weep))
-

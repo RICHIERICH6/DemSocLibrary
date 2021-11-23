@@ -40,6 +40,7 @@
 * [Gender & Sex](gender-and-sex.md)
 * [Conversion Therapy](conversion-therapy.md)
 * [Transgender](trans.md)
+* [Cause of Sexual Orientation](cause-of-sexual-orientation.md)
 * [Homosexuals aren't Child Molesters](lgbtq+-pedophiles.md)
 * [Counterarguments](counterarguments.md)
 
