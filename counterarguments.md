@@ -22,11 +22,7 @@ They misrepresent research, to [quote ](https://0x0.la/u/P2jYp76.pdf#page=9)Greg
 
 ### Claim: "This study by Cameron proves homosexuals are pedos!"
 
-Cameron's survey data are subject to so many methodological flaws as to be virtually meaningless, to [quote ](https://0x0.la/u/KP9kriX.html)Gregory Herek:
-
-> Cameron group's sampling techniques,survey methodology, and interpretation of results\*\* reveals atleast six serious errors in their study\*\*. The presence of even one of these flaws would be sufficient to cast serious doubts on the legitimacy of any study's results. In combination, **they make thedata virtually meaningless**.
-
-Cameron is also just a [shitty person](https://psychology.ucdavis.edu/rainbow/html/facts\_cameron.html).
+Paul Cameron is a [hack](https://lgbpsychology.org/html/facts\_cameron.html).
 
 ## Conversion Therapy
 
