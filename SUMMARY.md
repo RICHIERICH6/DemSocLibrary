@@ -13,7 +13,6 @@
 * [Economic Inequality](general/untitled.md)
 * [Social Safety Net](general/untitled-1.md)
 * [Codetermination](general/untitled-2.md)
-* [Minimum Wage](general/untitled-3.md)
 * [Public Healthcare](general/untitled-4.md)
 * [Public Housing](general/public-housing.md)
 * [Zoning Reform](general/zoning-reform.md)
@@ -21,6 +20,7 @@
 * [Carbon Dividend](general/untitled-7.md)
 * [Land Value Tax](general/land-value-tax.md)
 * [Intellectual Property](general/patents.md)
+* [Minimum Wage](general/untitled-3.md)
 
 ## Civics
 
@@ -59,7 +59,7 @@
 * [North Korea](north-korea.md)
 * [Market Socialism](market-socialism.md)
 * [Anarchism](anarchism.md)
-* [Counteraguments](psuedoscience.md)
+* [Counterarguments](psuedoscience.md)
 
 ## Misc
 
@@ -67,6 +67,9 @@
 * [Rent Control Bad](misc/rent-control-bad.md)
 * [New Deal Denialism](misc/new-deal-denialism.md)
 * [Holocaust Denial](misc/holocaust-denial.md)
+* [Ethical Veganism](misc/ethical-veganism.md)
+* [Abortion Legalization](misc/abortion-legalization/README.md)
+  * [Ethical Defense Of Abortion](misc/abortion-legalization/ethical-defense-of-abortion.md)
 
 ## todo
 

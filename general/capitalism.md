@@ -4,6 +4,10 @@ description: Capitalism is the worst system, except for all the others.
 
 # Capitalism
 
+## Capital Is Inevitable
+
+> it is easier to imagine an end to the world than an end to capitalism - Slavoj Zizek
+
 ## Economy
 
 ### Growth
